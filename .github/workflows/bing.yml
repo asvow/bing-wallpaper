@@ -1,0 +1,39 @@
+name: Bing wallpapers
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 9,16 * * *'
+
+jobs:
+  GetInfo:
+    runs-on: ubuntu-latest
+    if: github.repository == 'asvow/bing-wallpaper'
+    steps:
+    
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+    - run: npm install request
+    - run: node bing.js
+
+    - name: Commit files
+      run: |
+        git config --local user.email "asvow@users.noreply.github.com"
+        git config --local user.name "asvow"
+        git add -A
+        git commit -m "`date  -d "+1 day" +%B" "%d", "%Y"🎉"`"
+
+    - name: Push changes
+      uses:  ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.MY_GIT_TOKEN }}
+        branch: main
+
+    - name: Delete Workflow Runs
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        token: ${{ github.token }}
+        repository: ${{ github.repository }}
+        retain_days: 0
+        keep_minimum_runs: 0
