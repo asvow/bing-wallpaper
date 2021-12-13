@@ -1,0 +1,9 @@
+## Bing Wallpaper
+[中文](README.md) | [English](README_en.md)
+
+![](https://www.bing.com/th?id=OHR.ElPanecilloHill_EN-US0550689224_UHD.jpg&w=1000)Today: [Old Town and El Panecillo Hill in Quito, Ecuador (© Karol Kozlowski/plainpicture)](https://www.bing.com/th?id=OHR.ElPanecilloHill_EN-US0550689224_UHD.jpg)
+|      |      |      |
+| :----: | :----: | :----: |
+|![](https://www.bing.com/th?id=OHR.ElPanecilloHill_EN-US0550689224_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-12-14 [Download UHD](https://www.bing.com/th?id=OHR.ElPanecilloHill_EN-US0550689224_UHD.jpg)|![](https://www.bing.com/th?id=OHR.WickerCultivation_EN-US0445418085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-12-13 [Download UHD](https://www.bing.com/th?id=OHR.WickerCultivation_EN-US0445418085_UHD.jpg)|![](https://www.bing.com/th?id=OHR.ShadowEverest_EN-US0301475882_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-12-12 [Download UHD](https://www.bing.com/th?id=OHR.ShadowEverest_EN-US0301475882_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.FoxDovrefjell_EN-US0110441003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-12-11 [Download UHD](https://www.bing.com/th?id=OHR.FoxDovrefjell_EN-US0110441003_UHD.jpg)|![](https://www.bing.com/th?id=OHR.GlowWormBMNP_EN-US9968994144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-12-10 [Download UHD](https://www.bing.com/th?id=OHR.GlowWormBMNP_EN-US9968994144_UHD.jpg)|![](https://www.bing.com/th?id=OHR.PFNPAZ_EN-US9883303055_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-12-09 [Download UHD](https://www.bing.com/th?id=OHR.PFNPAZ_EN-US9883303055_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.USSBowfin_EN-US9736688640_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-12-08 [Download UHD](https://www.bing.com/th?id=OHR.USSBowfin_EN-US9736688640_UHD.jpg)|
