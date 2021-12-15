@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2021-12-16 | [韦尼格罗德的圣诞市场，德国萨克森-安哈尔特州 (© Krzysztof Baranowski/Moment/Getty Images)](https://www.bing.com/th?id=OHR.WernigerodeWeihnachtsmarkt_ZH-CN1081480865_UHD.jpg)
+
 2021-12-15 | [坎塔布里亚的小教堂，西班牙 (© Luis Miguel Martin/Getty Images)](https://www.bing.com/th?id=OHR.SantaJusta_ZH-CN0849826455_UHD.jpg)
 
 2021-12-14 | [伫立枝头的旅鸫鸟，加拿大 (© marcophotos/Getty Images)](https://www.bing.com/th?id=OHR.AmericanRobin_ZH-CN0667508209_UHD.jpg)
