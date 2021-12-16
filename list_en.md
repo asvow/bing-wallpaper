@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2021-12-17 | [The English National Ballet's 2016 production of 'The Nutcracker' at the London Coliseum in London, England (© Robbie Jack/Corbis via Getty Images)](https://www.bing.com/th?id=OHR.ENBNutcracker_EN-US0826373363_UHD.jpg)
+
 2021-12-16 | [The chapel and hermitage of Santa Justa in Cantabria, Spain (© Luis Miguel Martin/Getty Images)](https://www.bing.com/th?id=OHR.SantaJusta_EN-US0729688469_UHD.jpg)
 
 2021-12-15 | [American robin perched on a branch in Canada (© marcophotos/Getty Images)](https://www.bing.com/th?id=OHR.AmericanRobin_EN-US0648462541_UHD.jpg)
