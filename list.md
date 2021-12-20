@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2021-12-21 | [西西伯利亚森林中的阳光，俄罗斯拉杜日内市附近 (© Leonid Ikan/Shutterstock)](https://www.bing.com/th?id=OHR.SiberianSunset_ZH-CN5711093662_UHD.jpg)
+
 2021-12-20 | [Linn of Quoich瀑布旁的碗状岩石洞，苏格兰阿伯丁郡 (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.QuoichBowl_ZH-CN5583756085_UHD.jpg)
 
 2021-12-19 | [布鲁克斯山脉上空的极光，美国阿拉斯加州 (© Noppawat Tom Charoensinphon/Getty Images)](https://www.bing.com/th?id=OHR.AtigunPassAurora_ZH-CN5486073819_UHD.jpg)
