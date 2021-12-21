@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2021-12-22 | [投射在安纳西中皇岛墙上的雪景影像，法国上萨瓦省 (© blickwinkel/Alamy)](https://www.bing.com/th?id=OHR.AnnecyFrance_ZH-CN5773797252_UHD.jpg)
+
 2021-12-21 | [西西伯利亚森林中的阳光，俄罗斯拉杜日内市附近 (© Leonid Ikan/Shutterstock)](https://www.bing.com/th?id=OHR.SiberianSunset_ZH-CN5711093662_UHD.jpg)
 
 2021-12-20 | [Linn of Quoich瀑布旁的碗状岩石洞，苏格兰阿伯丁郡 (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.QuoichBowl_ZH-CN5583756085_UHD.jpg)
