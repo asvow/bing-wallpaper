@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2021-12-24 | [湖畔的一棵小圣诞树，奥地利魏森湖 (© nagelestock/Alamy)](https://www.bing.com/th?id=OHR.Rauchnachte_ZH-CN6061051054_UHD.jpg)
+
 2021-12-23 | [两只玩耍的北极熊，加拿大丘吉尔镇 (© Cheryl Ramalho/Getty Images)](https://www.bing.com/th?id=OHR.ManitobaBears_ZH-CN5877672648_UHD.jpg)
 
 2021-12-22 | [投射在安纳西中皇岛墙上的雪景影像，法国上萨瓦省 (© blickwinkel/Alamy)](https://www.bing.com/th?id=OHR.AnnecyFrance_ZH-CN5773797252_UHD.jpg)
