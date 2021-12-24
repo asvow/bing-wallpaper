@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2021-12-25 | [宛如圣诞精灵的树干，乌克兰喀尔巴阡山脉 (© panaramka/Getty Images)](https://www.bing.com/th?id=OHR.KhomyakMountain_ZH-CN6296455717_UHD.jpg)
+
 2021-12-24 | [湖畔的一棵小圣诞树，奥地利魏森湖 (© nagelestock/Alamy)](https://www.bing.com/th?id=OHR.Rauchnachte_ZH-CN6061051054_UHD.jpg)
 
 2021-12-23 | [两只玩耍的北极熊，加拿大丘吉尔镇 (© Cheryl Ramalho/Getty Images)](https://www.bing.com/th?id=OHR.ManitobaBears_ZH-CN5877672648_UHD.jpg)
