@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2021-12-28 | [半球形的谢尔亨里克森天文台，挪威斯瓦尔巴群岛 (© Vincent Fournier/Gallery Stock)](https://www.bing.com/th?id=OHR.KjellHenriksen_ZH-CN6626275076_UHD.jpg)
+
 2021-12-27 | [暴雪中成群的雪鹀，美国纽约 (© Marie Read/Minden Pictures)](https://www.bing.com/th?id=OHR.SnowBuntings_ZH-CN6554424742_UHD.jpg)
 
 2021-12-26 | [日光下的村落，英格兰东萨塞克斯郡 (© JohnnyPowell/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.SalehurstChurch_ZH-CN6419013724_UHD.jpg)
