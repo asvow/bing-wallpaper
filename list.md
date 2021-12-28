@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2021-12-29 | [育空地区的落基山羊，加拿大 (© Mark Newman/Getty Images)](https://www.bing.com/th?id=OHR.OreamnosAmericanus_ZH-CN6731612431_UHD.jpg)
+
 2021-12-28 | [半球形的谢尔亨里克森天文台，挪威斯瓦尔巴群岛 (© Vincent Fournier/Gallery Stock)](https://www.bing.com/th?id=OHR.KjellHenriksen_ZH-CN6626275076_UHD.jpg)
 
 2021-12-27 | [暴雪中成群的雪鹀，美国纽约 (© Marie Read/Minden Pictures)](https://www.bing.com/th?id=OHR.SnowBuntings_ZH-CN6554424742_UHD.jpg)
