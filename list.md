@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2021-12-31 | [跨年夜的篝火晚会，冰岛雷克雅未克 (© Ragnar Th Sigurdsson/Alamy)](https://www.bing.com/th?id=OHR.IcelandBonfire_ZH-CN9270966209_UHD.jpg)
+
 2021-12-30 | [星空下的灯塔，德国Westerhever镇 (© Sandra Bartocha/Minden Pictures)](https://www.bing.com/th?id=OHR.WesterheverLight_ZH-CN6827035695_UHD.jpg)
 
 2021-12-29 | [育空地区的落基山羊，加拿大 (© Mark Newman/Getty Images)](https://www.bing.com/th?id=OHR.OreamnosAmericanus_ZH-CN6731612431_UHD.jpg)
