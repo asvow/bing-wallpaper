@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2021-12-31 | [Westerheversand Lighthouse in Westerhever, Germany (© Sandra Bartocha/Minden Pictures)](https://www.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg)
+
 2021-12-30 | [Mountain goats in the Yukon, Canada (© Mark Newman/Getty Images)](https://www.bing.com/th?id=OHR.OreamnosAmericanus_EN-US2195826157_UHD.jpg)
 
 2021-12-29 | [Kjell Henriksen Observatory in Svalbard, Norway (© Vincent Fournier/Gallery Stock)](https://www.bing.com/th?id=OHR.KjellHenriksen_EN-US2132845054_UHD.jpg)
