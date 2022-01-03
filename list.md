@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-04 | [安沙波利哥沙漠州立公园，美国加利福尼亚州 (© Tom Hogan/plainpicture)](https://www.bing.com/th?id=OHR.BorregoBadlands_ZH-CN9913349081_UHD.jpg)
+
 2022-01-03 | [汉密尔顿山顶的利克天文台，美国加利福尼亚州 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LickObservatory_ZH-CN9676762110_UHD.jpg)
 
 2022-01-02 | [雪后的布拉格，捷克共和国 (© benkrut/Getty Images)](https://www.bing.com/th?id=OHR.SnowyPrague_ZH-CN9794475183_UHD.jpg)
