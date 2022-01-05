@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-06 | [Plate-billed mountain toucan in Bellavista Cloud Forest Reserve, Ecuador (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.MountainToucan_EN-US7120632569_UHD.jpg)
+
 2022-01-05 | [Borrego Badlands in Anza-Borrego Desert State Park, California (© Tom Hogan/plainpicture)](https://www.bing.com/th?id=OHR.BorregoBadlands_EN-US1149642347_UHD.jpg)
 
 2022-01-04 | [The Lick Observatory on Mount Hamilton, near San Jose, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LickObservatory_EN-US1062377366_UHD.jpg)
