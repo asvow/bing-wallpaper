@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-07 | [纳扎雷灯塔，葡萄牙 (© Richard A Lock/Getty Images)](https://www.bing.com/th?id=OHR.FortedeSao_ZH-CN0093358703_UHD.jpg)
+
 2022-01-06 | [冬日里的科赫尔湖，德国巴伐利亚州 (© Reinhard Schmid/eStock Photo)](https://www.bing.com/th?id=OHR.LakeKochelsee_ZH-CN0004970986_UHD.jpg)
 
 2022-01-05 | [树干上的扁嘴山巨嘴鸟，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.MountainToucan_ZH-CN9939482570_UHD.jpg)
