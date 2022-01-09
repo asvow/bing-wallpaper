@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-10 | [在高地陶恩山脉的滑雪旅行，奥地利巴德加斯坦 (© RooM the Agency/Alamy)](https://www.bing.com/th?id=OHR.SkiTouring_ZH-CN0237169285_UHD.jpg)
+
 2022-01-09 | [正在晾晒的大米，孟加拉国达卡 (© Amazing Aerial Agency/Offset by Shutterstock)](https://www.bing.com/th?id=OHR.RiceBangladesh_ZH-CN0196473460_UHD.jpg)
 
 2022-01-08 | [黄石国家公园的美洲野牛，美国怀俄明州 (© Steve Gettle/Minden Pictures)](https://www.bing.com/th?id=OHR.WinterBison_ZH-CN0120689382_UHD.jpg)
