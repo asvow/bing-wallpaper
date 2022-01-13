@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-14 | [Northern lights over a stranded boat in Tasiilaq, Greenland (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.TasiilaqAurora_EN-US1844697925_UHD.jpg)
+
 2022-01-13 | [Mount Fanjing in southwest China (© zhuxiaophotography/Shutterstock)](https://www.bing.com/th?id=OHR.FanjingStairs_EN-US7395504080_UHD.jpg)
 
 2022-01-12 | [A porcupine hangs on a willow tree branch, Alaska (© Design Pics/Danita Delimont)](https://www.bing.com/th?id=OHR.PorcupineWillow_EN-US1683070352_UHD.jpg)
