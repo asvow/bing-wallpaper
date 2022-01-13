@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-14 | [通往萨卡洛布拉湾的路，西班牙马约卡岛 (© Tolo Balaguer/agefotostock)](https://www.bing.com/th?id=OHR.SaCalobra_ZH-CN0945855556_UHD.jpg)
+
 2022-01-13 | [搁浅船只上空的极光，格陵兰岛塔西拉克 (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.TasiilaqAurora_ZH-CN0330057121_UHD.jpg)
 
 2022-01-12 | [梵净山，中国西南部 (© zhuxiaophotography/Shutterstock)](https://www.bing.com/th?id=OHR.FanjingStairs_ZH-CN0360402048_UHD.jpg)
