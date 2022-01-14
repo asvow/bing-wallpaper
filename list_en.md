@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-15 | [The road leading to Sa Calobra on the Spanish Balearic island of Majorca (© Tolo Balaguer/agefotostock)](https://www.bing.com/th?id=OHR.SaCalobra_EN-US0398649435_UHD.jpg)
+
 2022-01-14 | [Northern lights over a stranded boat in Tasiilaq, Greenland (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.TasiilaqAurora_EN-US1844697925_UHD.jpg)
 
 2022-01-13 | [Mount Fanjing in southwest China (© zhuxiaophotography/Shutterstock)](https://www.bing.com/th?id=OHR.FanjingStairs_EN-US7395504080_UHD.jpg)
