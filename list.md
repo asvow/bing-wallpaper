@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-18 | [博格豪森镇和萨尔察赫河，德国巴伐利亚州 (© Harald Nachtmann/Moment/Getty Images)](https://www.bing.com/th?id=OHR.BurghausenWinter_ZH-CN2822501718_UHD.jpg)
+
 2022-01-17 | [莱达尔湖, 英格兰坎布里亚郡湖区 (© Tranquillian1/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.RydalWater_ZH-CN2787617470_UHD.jpg)
 
 2022-01-16 | [农场上晾晒的红辣椒，孟加拉国博格拉县 (© Amazing Aerial Agency/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.BoguraChili_ZH-CN2707755390_UHD.jpg)
