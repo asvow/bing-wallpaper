@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-20 | [格雷厄姆海峡的阿德利企鹅，南极洲南极半岛 (© Nick Garbutt/Minden Pictures)](https://www.bing.com/th?id=OHR.GrahamAdelie_ZH-CN2945763969_UHD.jpg)
+
 2022-01-19 | [克卢恩国家公园保护区的山脉和冰川，加拿大育空地区 (© Design Pics Inc/Alamy)](https://www.bing.com/th?id=OHR.SaintElias_ZH-CN2861097596_UHD.jpg)
 
 2022-01-18 | [博格豪森镇和萨尔察赫河，德国巴伐利亚州 (© Harald Nachtmann/Moment/Getty Images)](https://www.bing.com/th?id=OHR.BurghausenWinter_ZH-CN2822501718_UHD.jpg)
