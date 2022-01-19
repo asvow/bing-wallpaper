@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-20 | [Saint Elias Mountains and Kaskawulsh Glacier in Kluane National Park and Reserve, Yukon, Canada (© Design Pics Inc/Alamy)](https://www.bing.com/th?id=OHR.SaintElias_EN-US1325738273_UHD.jpg)
+
 2022-01-19 | [Ashdown Forest, home of Winnie-the-Pooh, England (© Mark Phillips/Alamy)](https://www.bing.com/th?id=OHR.AshdownForest_EN-US1230205282_UHD.jpg)
 
 2022-01-18 | [MLK memorial sculpture by William Tarr outside of Martin Luther King Jr. Educational Campus in New York City (© Randy Duchaine/Alamy)](https://www.bing.com/th?id=OHR.TarrMemorial_EN-US1006824946_UHD.jpg)
