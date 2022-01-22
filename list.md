@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-23 | [海岸旁的二见浦夫妇岩，日本三重县 (© Marco Gaiotti/plainpicture)](https://www.bing.com/th?id=OHR.MeotoIwa_ZH-CN3126370410_UHD.jpg)
+
 2022-01-22 | [蔚蓝海域中的马提尼克岛，加勒比海 (© Airpano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.LesserAntilles_ZH-CN3012679657_UHD.jpg)
 
 2022-01-21 | [草丛中的母狮和它的幼崽，南非 (© Andrew Coleman/Getty Images)](https://www.bing.com/th?id=OHR.HuggingDay_ZH-CN2984681593_UHD.jpg)
