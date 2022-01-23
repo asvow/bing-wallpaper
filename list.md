@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-24 | [灯光璀璨的曼哈顿下城，美国纽约 (© New York On Air/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.ManhattanView_ZH-CN3156325644_UHD.jpg)
+
 2022-01-23 | [海岸旁的二见浦夫妇岩，日本三重县 (© Marco Gaiotti/plainpicture)](https://www.bing.com/th?id=OHR.MeotoIwa_ZH-CN3126370410_UHD.jpg)
 
 2022-01-22 | [蔚蓝海域中的马提尼克岛，加勒比海 (© Airpano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.LesserAntilles_ZH-CN3012679657_UHD.jpg)
