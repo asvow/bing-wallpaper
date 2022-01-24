@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-25 | [安格尔西岛上的Tŵr Mawr 灯塔，英国威尔士 (© Joe Daniel Price/Getty Images)](https://www.bing.com/th?id=OHR.StDwynwensDay_ZH-CN3187096355_UHD.jpg)
+
 2022-01-24 | [灯光璀璨的曼哈顿下城，美国纽约 (© New York On Air/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.ManhattanView_ZH-CN3156325644_UHD.jpg)
 
 2022-01-23 | [海岸旁的二见浦夫妇岩，日本三重县 (© Marco Gaiotti/plainpicture)](https://www.bing.com/th?id=OHR.MeotoIwa_ZH-CN3126370410_UHD.jpg)
