@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-26 | [Tŵr Mawr lighthouse on Llanddwyn Island, Anglesey, Wales (© Joe Daniel Price/Getty Images)](https://www.bing.com/th?id=OHR.StDwynwensDay_EN-US2056417486_UHD.jpg)
+
 2022-01-25 | [Lower Manhattan in New York City (© New York On Air/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.ManhattanView_EN-US1961282866_UHD.jpg)
 
 2022-01-24 | [Meoto Iwa (Wedded Rocks) off the coast of Futami, Mie Prefecture, Honshu, Japan (© Marco Gaiotti/plainpicture)](https://www.bing.com/th?id=OHR.MeotoIwa_EN-US1871391855_UHD.jpg)
