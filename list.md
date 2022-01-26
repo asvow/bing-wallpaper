@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-27 | [珀斯附近海域的蓝斑条尾魟，澳大利亚 (© Jeff Rotman/Minden Pictures)](https://www.bing.com/th?id=OHR.RibbontailStingray_ZH-CN3248204214_UHD.jpg)
+
 2022-01-26 | [梅兰加尔堡，印度焦特布尔 (© Jayakumar/Shutterstock)](https://www.bing.com/th?id=OHR.MehrangarhCourtyard_ZH-CN3216739355_UHD.jpg)
 
 2022-01-25 | [安格尔西岛上的Tŵr Mawr 灯塔，英国威尔士 (© Joe Daniel Price/Getty Images)](https://www.bing.com/th?id=OHR.StDwynwensDay_ZH-CN3187096355_UHD.jpg)
