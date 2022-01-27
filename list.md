@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-01-28 | [正在狩猎的短耳鸮，英格兰林肯郡 (© Ben Hall/Minden Pictures)](https://www.bing.com/th?id=OHR.WinteringFowl_ZH-CN8158075445_UHD.jpg)
+
 2022-01-27 | [珀斯附近海域的蓝斑条尾魟，澳大利亚 (© Jeff Rotman/Minden Pictures)](https://www.bing.com/th?id=OHR.RibbontailStingray_ZH-CN3248204214_UHD.jpg)
 
 2022-01-26 | [梅兰加尔堡，印度焦特布尔 (© Jayakumar/Shutterstock)](https://www.bing.com/th?id=OHR.MehrangarhCourtyard_ZH-CN3216739355_UHD.jpg)
