@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-01 | [Workers sorting incense in the Huyện Ứng Hòa district of Hanoi, Vietnam (© Azim Khan Ronnie/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.IncenseFieldVietnam_EN-US1945575858_UHD.jpg)
+
 2022-01-31 | [Halo around the sun in the Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)](https://www.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg)
 
 2022-01-30 | [Symmetrical brain coral on a reef in the Caribbean Sea near Grand Cayman, Cayman Islands (© Alex Mustard/Minden Pictures)](https://www.bing.com/th?id=OHR.BrainCoral_EN-US1756508308_UHD.jpg)
