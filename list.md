@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-02 | [阿尔卑斯旱獭，奥地利陶恩山国家公园 (© Misja Smits/Minden Pictures)](https://www.bing.com/th?id=OHR.GHDMarmot_ZH-CN5983212280_UHD.jpg)
+
 2022-02-01 | [寓意幸福和团圆的春节灯笼，中国 (© d3sign/Moment/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYear_ZH-CN5844255626_UHD.jpg)
 
 2022-01-31 | [烟花绽放的除夕夜，中国 (© MediaProduction/E+/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve_ZH-CN1901922324_UHD.jpg)
