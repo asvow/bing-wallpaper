@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-05 | [Big Air Shougang venue in Shijingshan District, Beijing, China (© Gao Zehong/VCG via Getty Images)](https://www.bing.com/th?id=OHR.BigAir_EN-US2270839035_UHD.jpg)
+
 2022-02-04 | [Corjuem Fort in Goa, India (© Ingvar Kuznetsov/Shutterstock)](https://www.bing.com/th?id=OHR.FortCorjuem_EN-US2158456164_UHD.jpg)
 
 2022-02-03 | [Alpine marmot in Hohe Tauern National Park, Austria (© Misja Smits/Minden Pictures)](https://www.bing.com/th?id=OHR.GHDMarmot_EN-US2087184765_UHD.jpg)
