@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-05 | [漫天飞舞的黑脉金斑蝶，墨西哥 (© Sylvain Cordier/Minden Pictures)](https://www.bing.com/th?id=OHR.MexicoMonarchs_ZH-CN7526758236_UHD.jpg)
+
 2022-02-04 | [亚运村夜景，北京 (© ViewStock/Getty Images)](https://www.bing.com/th?id=OHR.WinterOlymics_ZH-CN7384614076_UHD.jpg)
 
 2022-02-03 | [Corjuem堡垒，印度果阿邦 (© Ingvar Kuznetsov/Shutterstock)](https://www.bing.com/th?id=OHR.FortCorjuem_ZH-CN7295613217_UHD.jpg)
