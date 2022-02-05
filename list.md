@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-06 | [奥伊米亚康的冬天，俄罗斯 (© Alexandr Berdicevschi/Getty Images)](https://www.bing.com/th?id=OHR.Oymyakon_ZH-CN7758768574_UHD.jpg)
+
 2022-02-05 | [漫天飞舞的黑脉金斑蝶，墨西哥 (© Sylvain Cordier/Minden Pictures)](https://www.bing.com/th?id=OHR.MexicoMonarchs_ZH-CN7526758236_UHD.jpg)
 
 2022-02-04 | [亚运村夜景，北京 (© ViewStock/Getty Images)](https://www.bing.com/th?id=OHR.WinterOlymics_ZH-CN7384614076_UHD.jpg)
