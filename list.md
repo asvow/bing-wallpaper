@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-07 | [冰雪节上的冰雕艺术作品，加拿大渥太华 (© S. Garcia Cournoyer/Alamy)](https://www.bing.com/th?id=OHR.WinterludeIce_ZH-CN7868524911_UHD.jpg)
+
 2022-02-06 | [奥伊米亚康的冬天，俄罗斯 (© Alexandr Berdicevschi/Getty Images)](https://www.bing.com/th?id=OHR.Oymyakon_ZH-CN7758768574_UHD.jpg)
 
 2022-02-05 | [漫天飞舞的黑脉金斑蝶，墨西哥 (© Sylvain Cordier/Minden Pictures)](https://www.bing.com/th?id=OHR.MexicoMonarchs_ZH-CN7526758236_UHD.jpg)
