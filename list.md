@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-09 | [七姐妹悬崖上的警卫小屋，英国东萨塞克斯郡 (© Paul Daniels/Alamy)](https://www.bing.com/th?id=OHR.SevenSistersCliffs_ZH-CN5362127173_UHD.jpg)
+
 2022-02-08 | [科西嘉岛上的Speloncato市，法国 (© Jon Ingall/Alamy)](https://www.bing.com/th?id=OHR.SpeloncatoSnow_ZH-CN8115437163_UHD.jpg)
 
 2022-02-07 | [冰雪节上的冰雕艺术作品，加拿大渥太华 (© S. Garcia Cournoyer/Alamy)](https://www.bing.com/th?id=OHR.WinterludeIce_ZH-CN7868524911_UHD.jpg)
