@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-10 | [The Ceremony Hall of Icehotel in Jukkasjarvi, Sweden (© Wolfgang Kaehler/LightRocket via Getty Images)](https://www.bing.com/th?id=OHR.JukkasjarviIcehotel_EN-US2915409149_UHD.jpg)
+
 2022-02-09 | [Rock art near Santa Fe, New Mexico (© Scott Warren/Cavan)](https://www.bing.com/th?id=OHR.UFOPetroglyphs_EN-US2840363119_UHD.jpg)
 
 2022-02-08 | [Rideau Canal Skateway during Winterlude in Ottawa, Canada (© Preappy/Getty Images)](https://www.bing.com/th?id=OHR.RideauSkating_EN-US2750684316_UHD.jpg)
