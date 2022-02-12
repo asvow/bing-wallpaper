@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-13 | [黄石国家公园的美洲野牛，美国怀俄明州 (© Gerald Corsi/Getty Images)](https://www.bing.com/th?id=OHR.FaceOff_ZH-CN9969100257_UHD.jpg)
+
 2022-02-12 | [达尔文岛的达尔文拱门，厄瓜多尔加拉帕戈斯 (© miralex/Getty Images)](https://www.bing.com/th?id=OHR.DarwinsArch_ZH-CN9740478501_UHD.jpg)
 
 2022-02-11 | [慕那尔山区的茶园，印度喀拉拉邦 (© SvitlanaBelinska/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.TeaGardensMunnar_ZH-CN9587720369_UHD.jpg)
