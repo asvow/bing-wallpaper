@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-15 | [成都街头的红灯笼，中国四川省（© kiszon pascal/Moment/Getty Images）](https://www.bing.com/th?id=OHR.Latern2022_ZH-CN0112710917_UHD.jpg)
+
 2022-02-14 | [心形小岛和白沙滩，印度洋马尔代夫 (© Willyam Bradberry/Shutterstock)](https://www.bing.com/th?id=OHR.MaldivesHeart_ZH-CN0032539727_UHD.jpg)
 
 2022-02-13 | [黄石国家公园的美洲野牛，美国怀俄明州 (© Gerald Corsi/Getty Images)](https://www.bing.com/th?id=OHR.FaceOff_ZH-CN9969100257_UHD.jpg)
