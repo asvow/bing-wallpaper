@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-19 | [Great tits on a branch during winter in France (© Eric Ferry/Alamy)](https://www.bing.com/th?id=OHR.GreatTits_EN-US6474534267_UHD.jpg)
+
 2022-02-18 | [Flamenco dancers outside Palma de Majorca, Spain (© Torleif Svensson/Getty Images)](https://www.bing.com/th?id=OHR.FlamencoDance_EN-US9399847343_UHD.jpg)
 
 2022-02-17 | [Beech woodland in hoarfrost, Cranborne Chase, Dorset, England (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.CranborneChase_EN-US7744531561_UHD.jpg)
