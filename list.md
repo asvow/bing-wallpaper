@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-20 | [在海洋里畅游的座头鲸和海豚，美国夏威夷州 (© drewsulockcreations/Getty Images)](https://www.bing.com/th?id=OHR.WhalesDolphins_ZH-CN0636695997_UHD.jpg)
+
 2022-02-19 | [贝希特斯加登阿尔卑斯山脉全景，德国巴伐利亚州 (© Spotcatch/Westend61/Offset)](https://www.bing.com/th?id=OHR.BerchtesgadenerAlpen_ZH-CN0740088231_UHD.jpg)
 
 2022-02-18 | [冬天树枝上的大山雀，法国 (© Eric Ferry/Alamy)](https://www.bing.com/th?id=OHR.GreatTits_ZH-CN0546267922_UHD.jpg)
