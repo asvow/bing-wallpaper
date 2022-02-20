@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-21 | [哈德良长城上空的北极光，英格兰诺森伯兰郡 (© Guy Edwardes/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.SycamoreStars_ZH-CN0996978485_UHD.jpg)
+
 2022-02-20 | [在海洋里畅游的座头鲸和海豚，美国夏威夷州 (© drewsulockcreations/Getty Images)](https://www.bing.com/th?id=OHR.WhalesDolphins_ZH-CN0636695997_UHD.jpg)
 
 2022-02-19 | [贝希特斯加登阿尔卑斯山脉全景，德国巴伐利亚州 (© Spotcatch/Westend61/Offset)](https://www.bing.com/th?id=OHR.BerchtesgadenerAlpen_ZH-CN0740088231_UHD.jpg)
