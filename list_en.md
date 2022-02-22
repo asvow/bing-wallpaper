@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-23 | [Two Bactrian camels in Kazakhstan for Twosday (© Nurlan Kulcha/Alamy)](https://www.bing.com/th?id=OHR.BactrianCamels_EN-US6701629967_UHD.jpg)
+
 2022-02-22 | [The Washington Monument seen from the Lincoln Memorial in Washington, DC (© lucky-photographer/Getty Images)](https://www.bing.com/th?id=OHR.PrezMonument_EN-US6640683728_UHD.jpg)
 
 2022-02-21 | [Humpback whales and dolphins, Hawaii (© drewsulockcreations/Getty Images)](https://www.bing.com/th?id=OHR.WhalesDolphins_EN-US8179813228_UHD.jpg)
