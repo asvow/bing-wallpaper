@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-24 | [冰川洞穴里流动的河流，冰岛瓦特纳冰原 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.CrystalCave_ZH-CN1284839856_UHD.jpg)
+
 2022-02-23 | [雷斯岬国家海岸公园里的柏树隧道，美国加利福尼亚州 (© Spondylolithesis/Getty Images)](https://www.bing.com/th?id=OHR.CypressTunnel_ZH-CN1174542149_UHD.jpg)
 
 2022-02-22 | [两只双峰骆驼 (© Nurlan Kulcha/Alamy)](https://www.bing.com/th?id=OHR.BactrianCamels_ZH-CN1072425996_UHD.jpg)
