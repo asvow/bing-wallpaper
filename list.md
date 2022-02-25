@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-26 | [冰川湾国家公园里的兰普鲁冰川，美国阿拉斯加州 (© Andrew Peacock/Getty Images)](https://www.bing.com/th?id=OHR.LamplughGlacier_ZH-CN5709513673_UHD.jpg)
+
 2022-02-25 | [怀特霍斯市的落日余晖，加拿大育空地区 (© Robert Postma/Design Pics)](https://www.bing.com/th?id=OHR.WheatonYukon_ZH-CN5573629391_UHD.jpg)
 
 2022-02-24 | [冰川洞穴里流动的河流，冰岛瓦特纳冰原 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.CrystalCave_ZH-CN1284839856_UHD.jpg)
