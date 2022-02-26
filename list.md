@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-27 | [在妈妈身旁玩耍的北极熊宝宝们，加拿大曼尼托巴省 (© Andre Gilden/Minden Pictures)](https://www.bing.com/th?id=OHR.IPBDMom_ZH-CN5918907676_UHD.jpg)
+
 2022-02-26 | [冰川湾国家公园里的兰普鲁冰川，美国阿拉斯加州 (© Andrew Peacock/Getty Images)](https://www.bing.com/th?id=OHR.LamplughGlacier_ZH-CN5709513673_UHD.jpg)
 
 2022-02-25 | [怀特霍斯市的落日余晖，加拿大育空地区 (© Robert Postma/Design Pics)](https://www.bing.com/th?id=OHR.WheatonYukon_ZH-CN5573629391_UHD.jpg)
