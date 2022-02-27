@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-02-28 | [霜雪覆盖下的科茨沃尔德，英格兰 (© Peter Adams/Getty Images)](https://www.bing.com/th?id=OHR.WinterCotswolds_ZH-CN6017348883_UHD.jpg)
+
 2022-02-27 | [在妈妈身旁玩耍的北极熊宝宝们，加拿大曼尼托巴省 (© Andre Gilden/Minden Pictures)](https://www.bing.com/th?id=OHR.IPBDMom_ZH-CN5918907676_UHD.jpg)
 
 2022-02-26 | [冰川湾国家公园里的兰普鲁冰川，美国阿拉斯加州 (© Andrew Peacock/Getty Images)](https://www.bing.com/th?id=OHR.LamplughGlacier_ZH-CN5709513673_UHD.jpg)
