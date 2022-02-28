@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-01 | [楚格峰山顶的缆车站，德国格赖瑙市 (© Robert Jank/Alamy)](https://www.bing.com/th?id=OHR.ZugspitzeGipfelstation_ZH-CN6120971585_UHD.jpg)
+
 2022-02-28 | [霜雪覆盖下的科茨沃尔德，英格兰 (© Peter Adams/Getty Images)](https://www.bing.com/th?id=OHR.WinterCotswolds_ZH-CN6017348883_UHD.jpg)
 
 2022-02-27 | [在妈妈身旁玩耍的北极熊宝宝们，加拿大曼尼托巴省 (© Andre Gilden/Minden Pictures)](https://www.bing.com/th?id=OHR.IPBDMom_ZH-CN5918907676_UHD.jpg)
