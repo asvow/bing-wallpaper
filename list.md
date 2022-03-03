@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-04 | [佩格尼茨河上的葡萄酒窖，德国纽伦堡 (© Reinhard Schmid/Huber/eStock Photo)](https://www.bing.com/th?id=OHR.WeinstadelNuernberg_ZH-CN6448054345_UHD.jpg)
+
 2022-03-03 | [加济兰加国家公园里的两头印度犀，印度阿萨姆邦 (© Robert Harding World Imagery/Shutterstock)](https://www.bing.com/th?id=OHR.RhinocerosUnicornis_ZH-CN6380546992_UHD.jpg)
 
 2022-03-02 | [雷尼尔山上空的银河星系，美国华盛顿州 (© Brad Goldpaint/Cavan)](https://www.bing.com/th?id=OHR.MoonlightRainier_ZH-CN6263832605_UHD.jpg)
