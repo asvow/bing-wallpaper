@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-07 | [以新西兰南岛奥拉基/库克山国家公园为背景的特卡波湖 (© Sophie Dover/Getty Images)](https://www.bing.com/th?id=OHR.NZTekapo_ZH-CN6919300257_UHD.jpg)
+
 2022-03-06 | [在暴风雪中畅游的鸬鹚，德国黑森州 (© Wilfried Martin/Getty Images)](https://www.bing.com/th?id=OHR.GreatCormorants_ZH-CN6811149253_UHD.jpg)
 
 2022-03-05 | [圣米歇尔山，法国诺曼底 (© DaLiu/Getty Images)](https://www.bing.com/th?id=OHR.NormandyMont_ZH-CN6657762215_UHD.jpg)
