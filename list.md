@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-11 | [奥卡拉国家森林中的杜松泉，美国佛罗里达州 (© Michael Warren/Getty Images)](https://www.bing.com/th?id=OHR.OcalaNF_ZH-CN1112502059_UHD.jpg)
+
 2022-03-10 | [Ponte Gobbo桥，意大利博比奥 (© afinocchiaro/Getty Images)](https://www.bing.com/th?id=OHR.BobbioItaly_ZH-CN7993515424_UHD.jpg)
 
 2022-03-09 | [纳加尔霍雷国家公园的孔雀，印度卡纳塔克邦 (© Vivek BR/Shutterstock)](https://www.bing.com/th?id=OHR.PeacockNagarahole_ZH-CN7404674152_UHD.jpg)
