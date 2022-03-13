@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-14 | [兰洋夸特墓室，英国康沃尔郡 (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.LanyonQuoit_ZH-CN6278576563_UHD.jpg)
+
 2022-03-13 | [在湿地中跳跃的欧洲野兔，荷兰 (© Jim Brandenburg/Minden Pictures)](https://www.bing.com/th?id=OHR.SpringForward_ZH-CN6154174266_UHD.jpg)
 
 2022-03-12 | [鸟瞰视角下的布雷阿岛，法国阿摩尔滨海省 (© LECLERCQ Olivier/hemis.fr/Alamy)](https://www.bing.com/th?id=OHR.BrehatIsland_ZH-CN6015596530_UHD.jpg)
