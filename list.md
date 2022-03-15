@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-16 | [扶着树干的大熊猫，四川卧龙国家级自然保护区 (© Katherine Feng/Minden Pictures)](https://www.bing.com/th?id=OHR.PandaDay_ZH-CN6584061291_UHD.jpg)
+
 2022-03-15 | [古罗马广场，意大利 (© Peter Zelei Images/Getty Images)](https://www.bing.com/th?id=OHR.RomanView_ZH-CN6469652448_UHD.jpg)
 
 2022-03-14 | [兰洋夸特墓室，英国康沃尔郡 (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.LanyonQuoit_ZH-CN6278576563_UHD.jpg)
