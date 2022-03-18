@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-19 | [日落时的悬日现象，美国芝加哥 (© Razvan Sera/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.Chicagohenge_ZH-CN7070361892_UHD.jpg)
+
 2022-03-18 | [洒红节期间售卖的五彩粉末 (© Nuno Valadas/Getty Images)](https://www.bing.com/th?id=OHR.Holi2022_ZH-CN2265496434_UHD.jpg)
 
 2022-03-17 | [生机盎然的酢浆草和红杉树，美国大草原溪红杉州立公园 (© Jack Dykinga/Minden Pictures)](https://www.bing.com/th?id=OHR.Shamrocks_ZH-CN6712957522_UHD.jpg)
