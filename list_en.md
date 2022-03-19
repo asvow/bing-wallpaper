@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-20 | [Chicagohenge sunset, Chicago, Illinois (© Razvan Sera/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.Chicagohenge_EN-US9296950779_UHD.jpg)
+
 2022-03-19 | [Multicolored powders for sale during Holi (© Nuno Valadas/Getty Images)](https://www.bing.com/th?id=OHR.Holi2022_EN-US9217068703_UHD.jpg)
 
 2022-03-18 | [Coastal redwoods and wood sorrel, Prairie Creek Redwoods State Park, California (© Jack Dykinga/Minden Pictures)](https://www.bing.com/th?id=OHR.Shamrocks_EN-US9111259398_UHD.jpg)
