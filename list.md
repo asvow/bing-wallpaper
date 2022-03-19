@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-20 | [鲜艳多彩的爪哇树蛙，印度尼西亚 (© kuritafsheen/Getty Images)](https://www.bing.com/th?id=OHR.WorldFrogDay_ZH-CN7191299445_UHD.jpg)
+
 2022-03-19 | [日落时的悬日现象，美国芝加哥 (© Razvan Sera/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.Chicagohenge_ZH-CN7070361892_UHD.jpg)
 
 2022-03-18 | [洒红节期间售卖的五彩粉末 (© Nuno Valadas/Getty Images)](https://www.bing.com/th?id=OHR.Holi2022_ZH-CN2265496434_UHD.jpg)
