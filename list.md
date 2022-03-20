@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-21 | [圣三一教堂，英国埃文河畔斯特拉特福 (© James Osmond/Getty Images)](https://www.bing.com/th?id=OHR.TheBard_ZH-CN7318156185_UHD.jpg)
+
 2022-03-20 | [鲜艳多彩的爪哇树蛙，印度尼西亚 (© kuritafsheen/Getty Images)](https://www.bing.com/th?id=OHR.WorldFrogDay_ZH-CN7191299445_UHD.jpg)
 
 2022-03-19 | [日落时的悬日现象，美国芝加哥 (© Razvan Sera/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.Chicagohenge_ZH-CN7070361892_UHD.jpg)
