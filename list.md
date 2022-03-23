@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-24 | [小窝中安睡的欧亚红松鼠，苏格兰高地 (© Neil Anderson/Minden Pictures)](https://www.bing.com/th?id=OHR.SquirrelNesting_ZH-CN7673817247_UHD.jpg)
+
 2022-03-23 | [雷暴下的大峡谷国家公园，亚利桑那州 (© spkeelin/Getty Images)](https://www.bing.com/th?id=OHR.GCThunderstorm_ZH-CN7535350453_UHD.jpg)
 
 2022-03-22 | [千泉州立公园的瀑布，美国爱达荷州 (© knowlesgallery/Getty Images)](https://www.bing.com/th?id=OHR.ThousandSprings_ZH-CN7431323804_UHD.jpg)
