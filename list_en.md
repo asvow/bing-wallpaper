@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-25 | [Red squirrel in a nest of lichen and pine needles, Scottish Highlands (© Neil Anderson/Minden Pictures)](https://www.bing.com/th?id=OHR.SquirrelNesting_EN-US9878096346_UHD.jpg)
+
 2022-03-24 | [Grand Canyon National Park during a thunderstorm, Arizona (© spkeelin/Getty Images)](https://www.bing.com/th?id=OHR.GCThunderstorm_EN-US9801749958_UHD.jpg)
 
 2022-03-23 | [Waterfalls in Thousand Springs State Park, Hagerman Valley, Idaho (© knowlesgallery/Getty Images)](https://www.bing.com/th?id=OHR.ThousandSprings_EN-US9722040396_UHD.jpg)
