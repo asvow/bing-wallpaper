@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-26 | [黄番红花和翩翩起舞的大山雀 (© Nataba/Getty Images)](https://www.bing.com/th?id=OHR.YellowCrocuses_ZH-CN6617862337_UHD.jpg)
+
 2022-03-25 | [劳特布龙嫩山谷，瑞士阿尔卑斯山 (© Leonid Andronov/Getty Images)](https://www.bing.com/th?id=OHR.Rivendell_ZH-CN6669549862_UHD.jpg)
 
 2022-03-24 | [小窝中安睡的欧亚红松鼠，苏格兰高地 (© Neil Anderson/Minden Pictures)](https://www.bing.com/th?id=OHR.SquirrelNesting_ZH-CN7673817247_UHD.jpg)
