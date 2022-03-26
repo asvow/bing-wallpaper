@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-27 | [陶尔米纳古剧院，意大利西西里岛 (© Antonino Bartuccio/eStock Photo)](https://www.bing.com/th?id=OHR.TeatroAntico_ZH-CN7370959605_UHD.jpg)
+
 2022-03-26 | [黄番红花和翩翩起舞的大山雀 (© Nataba/Getty Images)](https://www.bing.com/th?id=OHR.YellowCrocuses_ZH-CN6617862337_UHD.jpg)
 
 2022-03-25 | [劳特布龙嫩山谷，瑞士阿尔卑斯山 (© Leonid Andronov/Getty Images)](https://www.bing.com/th?id=OHR.Rivendell_ZH-CN6669549862_UHD.jpg)
