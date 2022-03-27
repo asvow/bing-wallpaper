@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-28 | [河内藤园里梦幻的紫藤花，日本北九州市 (© Steve Tan C K Photography/Getty Images)](https://www.bing.com/th?id=OHR.Kawachi_ZH-CN6964965791_UHD.jpg)
+
 2022-03-27 | [陶尔米纳古剧院，意大利西西里岛 (© Antonino Bartuccio/eStock Photo)](https://www.bing.com/th?id=OHR.TeatroAntico_ZH-CN7370959605_UHD.jpg)
 
 2022-03-26 | [黄番红花和翩翩起舞的大山雀 (© Nataba/Getty Images)](https://www.bing.com/th?id=OHR.YellowCrocuses_ZH-CN6617862337_UHD.jpg)
