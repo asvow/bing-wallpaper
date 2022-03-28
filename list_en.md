@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-29 | [Wisteria blooms at Kawachi Fuji Garden in Kitakyushu, Japan (© Steve Tan C K Photography/Getty Images)](https://www.bing.com/th?id=OHR.Kawachi_EN-US0111381625_UHD.jpg)
+
 2022-03-28 | [Ancient theater of Taormina in Sicily, Italy (© Antonino Bartuccio/eStock Photo)](https://www.bing.com/th?id=OHR.TeatroAntico_EN-US9864647927_UHD.jpg)
 
 2022-03-27 | [Great tit and yellow crocuses (© Nataba/Getty Images)](https://www.bing.com/th?id=OHR.YellowCrocuses_EN-US9416168776_UHD.jpg)
