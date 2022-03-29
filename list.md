@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-30 | [黑白相间的腰带盖洛韦牛，苏格兰 (© JohnFScott/Getty Images)](https://www.bing.com/th?id=OHR.BeltedGalloway_ZH-CN8570849064_UHD.jpg)
+
 2022-03-29 | [风景秀丽的加勒比海岸，哥伦比亚 (© Nicholas Hills/Getty Images)](https://www.bing.com/th?id=OHR.Buritaca_ZH-CN7178457066_UHD.jpg)
 
 2022-03-28 | [河内藤园里梦幻的紫藤花，日本北九州市 (© Steve Tan C K Photography/Getty Images)](https://www.bing.com/th?id=OHR.Kawachi_ZH-CN6964965791_UHD.jpg)
