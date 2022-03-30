@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-03-31 | [埃菲尔铁塔，法国巴黎 (© Susanne Kremer/eStock Photo)](https://www.bing.com/th?id=OHR.AnniEiffel_ZH-CN8273124420_UHD.jpg)
+
 2022-03-30 | [黑白相间的腰带盖洛韦牛，苏格兰 (© JohnFScott/Getty Images)](https://www.bing.com/th?id=OHR.BeltedGalloway_ZH-CN8570849064_UHD.jpg)
 
 2022-03-29 | [风景秀丽的加勒比海岸，哥伦比亚 (© Nicholas Hills/Getty Images)](https://www.bing.com/th?id=OHR.Buritaca_ZH-CN7178457066_UHD.jpg)
