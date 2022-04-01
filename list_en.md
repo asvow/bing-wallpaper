@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-02 | ['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](https://www.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg)
+
 2022-04-01 | [Eiffel Tower in Paris, France (© Susanne Kremer/eStock Photo)](https://www.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg)
 
 2022-03-31 | [Belted Galloway cows in Scotland (© JohnFScott/Getty Images)](https://www.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg)
