@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-02 | [旺阿雷自然保护区里的旺阿雷瀑布，新西兰北岛 (© Nathan Kavumbura/Getty Images)](https://www.bing.com/th?id=OHR.WhangareiFalls_ZH-CN9150162556_UHD.jpg)
+
 2022-04-01 | [哈瓦泰姬陵，印度拉贾斯坦邦，斋浦尔市 (© Mazur Travel/Shutterstock)](https://www.bing.com/th?id=OHR.HawaMahalJaipur_ZH-CN3863273823_UHD.jpg)
 
 2022-03-31 | [埃菲尔铁塔，法国巴黎 (© Susanne Kremer/eStock Photo)](https://www.bing.com/th?id=OHR.AnniEiffel_ZH-CN8273124420_UHD.jpg)
