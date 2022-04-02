@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-03 | [太湖边盛开的樱花，无锡 (© Eric Yang/Getty Images)](https://www.bing.com/th?id=OHR.TaihuCherry_ZH-CN9040685764_UHD.jpg)
+
 2022-04-02 | [旺阿雷自然保护区里的旺阿雷瀑布，新西兰北岛 (© Nathan Kavumbura/Getty Images)](https://www.bing.com/th?id=OHR.WhangareiFalls_ZH-CN9150162556_UHD.jpg)
 
 2022-04-01 | [哈瓦泰姬陵，印度拉贾斯坦邦，斋浦尔市 (© Mazur Travel/Shutterstock)](https://www.bing.com/th?id=OHR.HawaMahalJaipur_ZH-CN3863273823_UHD.jpg)
