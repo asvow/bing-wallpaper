@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-04 | [裂缝中的谢拉格伯顿石，挪威谢格拉山 (© Angel FAyE/Getty Images)](https://www.bing.com/th?id=OHR.NorwayBoulder_ZH-CN8749661500_UHD.jpg)
+
 2022-04-03 | [太湖边盛开的樱花，无锡 (© Eric Yang/Getty Images)](https://www.bing.com/th?id=OHR.TaihuCherry_ZH-CN9040685764_UHD.jpg)
 
 2022-04-02 | [旺阿雷自然保护区里的旺阿雷瀑布，新西兰北岛 (© Nathan Kavumbura/Getty Images)](https://www.bing.com/th?id=OHR.WhangareiFalls_ZH-CN9150162556_UHD.jpg)
