@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-06 | [正在求偶的凤头卡拉鹰，美国德克萨斯州 (© Alan Murphy/Minden Pictures)](https://www.bing.com/th?id=OHR.NorthernCaracara_ZH-CN9538371843_UHD.jpg)
+
 2022-04-05 | [北极光下的众神瀑布，冰岛 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.Godafoss_ZH-CN9460037606_UHD.jpg)
 
 2022-04-04 | [裂缝中的谢拉格伯顿石，挪威谢格拉山 (© Angel FAyE/Getty Images)](https://www.bing.com/th?id=OHR.NorwayBoulder_ZH-CN8749661500_UHD.jpg)
