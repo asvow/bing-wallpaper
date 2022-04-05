@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-06 | [Goðafoss waterfall under the northern lights, Iceland (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.Godafoss_EN-US1167261968_UHD.jpg)
+
 2022-04-05 | [The Kjeragbolten boulder on the mountain Kjerag in Rogaland county, Norway (© Angel FAyE/Getty Images)](https://www.bing.com/th?id=OHR.NorwayBoulder_EN-US1049217849_UHD.jpg)
 
 2022-04-04 | [Cherry blossoms at Lake Tai at Wuxi, China (© Eric Yang/Getty Images)](https://www.bing.com/th?id=OHR.TaihuCherry_EN-US0871129862_UHD.jpg)
