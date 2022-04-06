@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-07 | [黄昏下的马拉加老城，西班牙 (© Sean Pavone Photo/Getty Images)](https://www.bing.com/th?id=OHR.Malaga_ZH-CN9644862917_UHD.jpg)
+
 2022-04-06 | [正在求偶的凤头卡拉鹰，美国德克萨斯州 (© Alan Murphy/Minden Pictures)](https://www.bing.com/th?id=OHR.NorthernCaracara_ZH-CN9538371843_UHD.jpg)
 
 2022-04-05 | [北极光下的众神瀑布，冰岛 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.Godafoss_ZH-CN9460037606_UHD.jpg)
