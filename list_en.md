@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-08 | [Old town of Málaga, Spain (© Sean Pavone Photo/Getty Images)](https://www.bing.com/th?id=OHR.Malaga_EN-US1459419942_UHD.jpg)
+
 2022-04-07 | [Crested caracara birds courting in Texas (© Alan Murphy/Minden Pictures)](https://www.bing.com/th?id=OHR.NorthernCaracara_EN-US1355888776_UHD.jpg)
 
 2022-04-06 | [Goðafoss waterfall under the northern lights, Iceland (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.Godafoss_EN-US1167261968_UHD.jpg)
