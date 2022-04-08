@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-09 | [光绘摄影下的滑板公园，美国阿瓦达市 (© Jon Paciaroni/Getty Images)](https://www.bing.com/th?id=OHR.LightPainting_ZH-CN8824196181_UHD.jpg)
+
 2022-04-08 | [蓬塔德尔加达附近的海岸，葡萄牙 (© Jan Wlodarczyk/Alamy)](https://www.bing.com/th?id=OHR.PontaDelgada_ZH-CN8596828822_UHD.jpg)
 
 2022-04-07 | [黄昏下的马拉加老城，西班牙 (© Sean Pavone Photo/Getty Images)](https://www.bing.com/th?id=OHR.Malaga_ZH-CN9644862917_UHD.jpg)
