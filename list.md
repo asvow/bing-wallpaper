@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-11 | [卷曲的蕨菜叶，加拿大魁北克 (© Marianna Armata/Getty Images)](https://www.bing.com/th?id=OHR.FernFronds_ZH-CN9338280267_UHD.jpg)
+
 2022-04-10 | [三只狞猫宝宝 (© Marion Vollborn/Minden Pictures)](https://www.bing.com/th?id=OHR.Caracal_ZH-CN7086185498_UHD.jpg)
 
 2022-04-09 | [光绘摄影下的滑板公园，美国阿瓦达市 (© Jon Paciaroni/Getty Images)](https://www.bing.com/th?id=OHR.LightPainting_ZH-CN8824196181_UHD.jpg)
