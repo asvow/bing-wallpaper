@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-12 | [从国际空间站拍摄到的地球上方的渐亏凸月 (© NASA)](https://www.bing.com/th?id=OHR.WaningGibbous_ZH-CN9648865417_UHD.jpg)
+
 2022-04-11 | [卷曲的蕨菜叶，加拿大魁北克 (© Marianna Armata/Getty Images)](https://www.bing.com/th?id=OHR.FernFronds_ZH-CN9338280267_UHD.jpg)
 
 2022-04-10 | [三只狞猫宝宝 (© Marion Vollborn/Minden Pictures)](https://www.bing.com/th?id=OHR.Caracal_ZH-CN7086185498_UHD.jpg)
