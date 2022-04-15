@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-16 | [黄石国家公园的大棱镜泉鸟瞰图，美国怀俄明州 (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.Yellowstone150_ZH-CN0551084440_UHD.jpg)
+
 2022-04-15 | [达特穆尔国家公园的薄雾，英格兰德文郡 (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.DartmoorMist_ZH-CN0317898466_UHD.jpg)
 
 2022-04-14 | [科罗拉多河上的马蹄湾，美国亚利桑那州 (© Michael Dunn/Getty Images)](https://www.bing.com/th?id=OHR.AZBend_ZH-CN9943469006_UHD.jpg)
