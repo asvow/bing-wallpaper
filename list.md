@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-18 | [梅萨维德国家公园的方形塔楼，美国科罗拉多州 (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.SquareTowerHouse_ZH-CN1203640326_UHD.jpg)
+
 2022-04-17 | [蓝色的美洲知更鸟蛋，新泽西州 (© Mira/Alamy)](https://www.bing.com/th?id=OHR.RobinsEgg_ZH-CN0838507211_UHD.jpg)
 
 2022-04-16 | [黄石国家公园的大棱镜泉鸟瞰图，美国怀俄明州 (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.Yellowstone150_ZH-CN0551084440_UHD.jpg)
