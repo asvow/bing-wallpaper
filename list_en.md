@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-21 | [Mute swan chicks shelter under mom's tail feathers, Massapequa Preserve, Long Island, New York (© Vicki Jauron/Getty Images)](https://www.bing.com/th?id=OHR.MuteSwan_EN-US6400507861_UHD.jpg)
+
 2022-04-20 | [Plitvice Lakes National Park, Croatia (© Janne Kahila/Getty Images)](https://www.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_UHD.jpg)
 
 2022-04-19 | [Square Tower House in Mesa Verde National Park, Colorado (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.SquareTowerHouse_EN-US5990660612_UHD.jpg)
