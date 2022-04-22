@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-23 | [维多利亚纪念堂，印度加尔各答 (© Roop_Dey/Shutterstock)](https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ZH-CN5801450386_UHD.jpg)
+
 2022-04-22 | [卡鲁拉国家公园里的小湖，爱沙尼亚 (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.EarthDay2022_ZH-CN5733809629_UHD.jpg)
 
 2022-04-21 | [在公路上吃草的绵羊，冰岛 (© Matthew Kuhns/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.IcelandicSummer_ZH-CN1779278033_UHD.jpg)
