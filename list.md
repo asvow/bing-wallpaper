@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-27 | [午夜的太阳，挪威斯瓦尔巴群岛 (© Nature Picture Library/Alamy)](https://www.bing.com/th?id=OHR.SvalbardSun_ZH-CN6108396467_UHD.jpg)
+
 2022-04-26 | [下莱茵省的胡内城堡，法国阿尔萨斯大区 (© Leonid Andronov/Alamy)](https://www.bing.com/th?id=OHR.Hunebourg_ZH-CN6038786751_UHD.jpg)
 
 2022-04-25 | [圣安德鲁斯湾岸边的三只王企鹅，南乔治亚岛 (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.ThreeKings_ZH-CN5954425982_UHD.jpg)
