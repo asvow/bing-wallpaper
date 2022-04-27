@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-28 | [大脊山，英格兰峰区国家公园 (© John Finney Photography/Moment/Getty Images)](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_UHD.jpg)
+
 2022-04-27 | [午夜的太阳，挪威斯瓦尔巴群岛 (© Nature Picture Library/Alamy)](https://www.bing.com/th?id=OHR.SvalbardSun_ZH-CN6108396467_UHD.jpg)
 
 2022-04-26 | [下莱茵省的胡内城堡，法国阿尔萨斯大区 (© Leonid Andronov/Alamy)](https://www.bing.com/th?id=OHR.Hunebourg_ZH-CN6038786751_UHD.jpg)
