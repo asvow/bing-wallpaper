@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-29 | [Fox kits practice their hunting skills, Quebec, Canada (© Vlad Kamenski/Shutterstock)](https://www.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg)
+
 2022-04-28 | [Midnight sun in Svalbard, Norway (© Nature Picture Library/Alamy)](https://www.bing.com/th?id=OHR.SvalbardSun_EN-US2348209213_UHD.jpg)
 
 2022-04-27 | [Central Park, New York City (© Tony Shi Photography/Getty Images)](https://www.bing.com/th?id=OHR.WalkingCentral_EN-US2266373197_UHD.jpg)
