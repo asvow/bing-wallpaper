@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-04-30 | [正在投喂幼鸟的戴胜鸟，德国 (© Slawek Staszczuk/Alamy)](https://www.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_UHD.jpg)
+
 2022-04-29 | [巨型红杉的小萌芽，加利福尼亚州 (© Hutch Axilrod/Getty Images)](https://www.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_UHD.jpg)
 
 2022-04-28 | [大脊山，英格兰峰区国家公园 (© John Finney Photography/Moment/Getty Images)](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_UHD.jpg)
