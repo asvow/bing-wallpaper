@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-01 | [盛开的金链花树和紫色葱属植物，加拿大温哥华范度森植物园 (© Greg Vaughn/Alamy)](https://www.bing.com/th?id=OHR.VanBlooms_ZH-CN6370306779_UHD.jpg)
+
 2022-04-30 | [正在投喂幼鸟的戴胜鸟，德国 (© Slawek Staszczuk/Alamy)](https://www.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_UHD.jpg)
 
 2022-04-29 | [巨型红杉的小萌芽，加利福尼亚州 (© Hutch Axilrod/Getty Images)](https://www.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_UHD.jpg)
