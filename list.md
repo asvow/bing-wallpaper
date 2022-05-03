@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-04 | [托菲诺的麦肯齐海滩，加拿大不列颠哥伦比亚省 (© Robert Postma/Plainpicture/Design Pics)](https://www.bing.com/th?id=OHR.TofinoOcean_ZH-CN6555392161_UHD.jpg)
+
 2022-05-03 | [鸳鸯妈妈和小鸳鸯们，韩国 (© VDCM image/Getty Images)](https://www.bing.com/th?id=OHR.DuckHen_ZH-CN6493617016_UHD.jpg)
 
 2022-05-02 | [土耳其棉花堡的石灰华梯田 (© bybostanci/Getty Images)](https://www.bing.com/th?id=OHR.TravertineTurkey_ZH-CN6430409651_UHD.jpg)
