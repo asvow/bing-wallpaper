@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-06 | [一条蜿蜒穿过开满蓝铃花森林的小径，英格兰赫特福德郡 (© JayKay57/Getty Images)](https://www.bing.com/th?id=OHR.HertfordshireBluebells_ZH-CN1027832085_UHD.jpg)
+
 2022-05-05 | [蓝色龙舌兰田，墨西哥哈利斯科州龙舌兰酒产区 (© Brian Overcast/Alamy)](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg)
 
 2022-05-04 | [托菲诺的麦肯齐海滩，加拿大不列颠哥伦比亚省 (© Robert Postma/Plainpicture/Design Pics)](https://www.bing.com/th?id=OHR.TofinoOcean_ZH-CN6555392161_UHD.jpg)
