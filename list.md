@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-11 | [圣托里尼岛上的伊亚镇，希腊 (© Zebra-Studio/Shutterstock)](https://www.bing.com/th?id=OHR.OiaVillage_ZH-CN2495652522_UHD.jpg)
+
 2022-05-10 | [春天的豹溪瀑布，吉福德·平肖国家森林，美国华盛顿州 (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GiffordPinchot_ZH-CN2050686223_UHD.jpg)
 
 2022-05-09 | [从观景台俯瞰格雷梅，格雷梅国家公园，土耳其卡帕多西亚省 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.GoremeNationalPark_ZH-CN1861727385_UHD.jpg)
