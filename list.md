@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-12 | [布拉塞河上的雾天黎明，英国湖区国家公园 (© fstopphotography/Getty Images)](https://www.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_UHD.jpg)
+
 2022-05-11 | [圣托里尼岛上的伊亚镇，希腊 (© Zebra-Studio/Shutterstock)](https://www.bing.com/th?id=OHR.OiaVillage_ZH-CN2495652522_UHD.jpg)
 
 2022-05-10 | [春天的豹溪瀑布，吉福德·平肖国家森林，美国华盛顿州 (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GiffordPinchot_ZH-CN2050686223_UHD.jpg)
