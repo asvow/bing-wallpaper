@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-14 | [Masai giraffe in Maasai Mara, Kenya (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.MaasaiGiraffe_EN-US4914727610_UHD.jpg)
+
 2022-05-13 | [Nurses serving with the American Red Cross in Paris, France, in May 1919 (© Universal History Archive/Universal Images Group via Getty Images)](https://www.bing.com/th?id=OHR.RedCross_EN-US5698722803_UHD.jpg)
 
 2022-05-12 | [The village of Oia on the island of Santorini, Greece (© Zebra-Studio/Shutterstock)](https://www.bing.com/th?id=OHR.OiaVillage_EN-US5240840248_UHD.jpg)
