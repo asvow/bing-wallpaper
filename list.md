@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-14 | [金德代克风车群，荷兰 (© Achim Thomae/Getty Images)](https://www.bing.com/th?id=OHR.WindmillDay_ZH-CN3115996668_UHD.jpg)
+
 2022-05-13 | [一只马赛长颈鹿，肯尼亚马赛马拉国家保护区 (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.MaasaiGiraffe_ZH-CN2960157829_UHD.jpg)
 
 2022-05-12 | [布拉塞河上的雾天黎明，英国湖区国家公园 (© fstopphotography/Getty Images)](https://www.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_UHD.jpg)
