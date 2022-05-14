@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-15 | [贝尔尼纳山脉和血月，瑞士 (© Bernd Zoller/Shutterstock)](https://www.bing.com/th?id=OHR.BerninaBloodMoon_ZH-CN3349260043_UHD.jpg)
+
 2022-05-14 | [金德代克风车群，荷兰 (© Achim Thomae/Getty Images)](https://www.bing.com/th?id=OHR.WindmillDay_ZH-CN3115996668_UHD.jpg)
 
 2022-05-13 | [一只马赛长颈鹿，肯尼亚马赛马拉国家保护区 (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.MaasaiGiraffe_ZH-CN2960157829_UHD.jpg)
