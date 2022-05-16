@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-17 | [马拉斯盐田，秘鲁 (© Fotofeeling/Westend61 on Offset/Shutterstock)](https://www.bing.com/th?id=OHR.SaltPondsMaras_ZH-CN3768334932_UHD.jpg)
+
 2022-05-16 | [花丛中的小穴鸮们，美国科罗拉多州 (© Roberta Olenick/Alamy)](https://www.bing.com/th?id=OHR.PawneeOwls_ZH-CN3586129981_UHD.jpg)
 
 2022-05-15 | [贝尔尼纳山脉和血月，瑞士 (© Bernd Zoller/Shutterstock)](https://www.bing.com/th?id=OHR.BerninaBloodMoon_ZH-CN3349260043_UHD.jpg)
