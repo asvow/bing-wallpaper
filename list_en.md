@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-19 | [Museum at Prairiefire, Overland Park, Kansas (© Bernard P. Friel/Universal Images Group via Getty Images)](https://www.bing.com/th?id=OHR.KansasPrairiefire_EN-US6008489579_UHD.jpg)
+
 2022-05-18 | [Salt ponds of Maras in Peru's Sacred Valley of the Incas (© Fotofeeling/Westend61 on Offset/Shutterstock)](https://www.bing.com/th?id=OHR.SaltPondsMaras_EN-US5922073798_UHD.jpg)
 
 2022-05-17 | [Burrowing owl chicks gaze out from among flowers near the Pawnee National Grassland in Colorado (© Roberta Olenick/Alamy)](https://www.bing.com/th?id=OHR.PawneeOwls_EN-US5086668928_UHD.jpg)
