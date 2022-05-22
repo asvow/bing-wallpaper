@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-23 | [A Burchell's zebra and a cattle egret at the Rietvlei Nature Reserve in South Africa (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraEgret_EN-US9268536963_UHD.jpg)
+
 2022-05-22 | [Albion Falls, Hamilton, Ontario, Canada (© Alexander Sviridov/Shutterstock)](https://www.bing.com/th?id=OHR.AlbionFalls_EN-US5365811607_UHD.jpg)
 
 2022-05-21 | [Honey bee flying over crocuses in the Tatra Mountains, Poland (© Mirek Kijewski/Getty Images)](https://www.bing.com/th?id=OHR.ApisMellifera_EN-US1549924485_UHD.jpg)
