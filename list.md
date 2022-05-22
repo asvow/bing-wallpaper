@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-23 | [彩虹河里的佛罗里达红肚龟，彩虹泉州立公园，佛罗里达 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.RedBellied_ZH-CN8667089924_UHD.jpg)
+
 2022-05-22 | [伯切尔氏斑马和一只牛白鹭，南非利特弗雷自然保护区 (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraEgret_ZH-CN8497454146_UHD.jpg)
 
 2022-05-21 | [阿尔比恩瀑布，汉密尔顿，加拿大安大略省 (© Alexander Sviridov/Shutterstock)](https://www.bing.com/th?id=OHR.AlbionFalls_ZH-CN8302577218_UHD.jpg)
