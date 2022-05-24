@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-25 | [格拉纳达的阿尔罕布拉，安达卢西亚省，西班牙 (© Armand Tamboly/Getty Images)](https://www.bing.com/th?id=OHR.Alhambra_ZH-CN9040625762_UHD.jpg)
+
 2022-05-24 | [科纳提国家公园，克罗地亚 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.KornatiNP_ZH-CN8829346235_UHD.jpg)
 
 2022-05-23 | [彩虹河里的佛罗里达红肚龟，彩虹泉州立公园，佛罗里达 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.RedBellied_ZH-CN8667089924_UHD.jpg)
