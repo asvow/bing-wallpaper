@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-26 | [蒙特维德云雾森林中的吊桥，哥斯达黎加 (© Dmitriy Burlakov/Getty Images)](https://www.bing.com/th?id=OHR.Monteverde_ZH-CN9598634812_UHD.jpg)
+
 2022-05-25 | [格拉纳达的阿尔罕布拉，安达卢西亚省，西班牙 (© Armand Tamboly/Getty Images)](https://www.bing.com/th?id=OHR.Alhambra_ZH-CN9040625762_UHD.jpg)
 
 2022-05-24 | [科纳提国家公园，克罗地亚 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.KornatiNP_ZH-CN8829346235_UHD.jpg)
