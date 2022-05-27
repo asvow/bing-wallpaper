@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-28 | [波奴鲁鲁国家公园里的邦格尔邦格尔山脉，澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.PurnululuNP_ZH-CN0102753224_UHD.jpg)
+
 2022-05-27 | [金门大桥和马林岬角，美国加利福尼亚州 (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.MarinHeadlands_ZH-CN9876016714_UHD.jpg)
 
 2022-05-26 | [蒙特维德云雾森林中的吊桥，哥斯达黎加 (© Dmitriy Burlakov/Getty Images)](https://www.bing.com/th?id=OHR.Monteverde_ZH-CN9598634812_UHD.jpg)
