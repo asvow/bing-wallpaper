@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-29 | [加勒廷国家森林里的小溪，美国蒙大拿州 (© Jared Lloyd/Getty Images)](https://www.bing.com/th?id=OHR.HyaliteCreek_ZH-CN0400013447_UHD.jpg)
+
 2022-05-28 | [波奴鲁鲁国家公园里的邦格尔邦格尔山脉，澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.PurnululuNP_ZH-CN0102753224_UHD.jpg)
 
 2022-05-27 | [金门大桥和马林岬角，美国加利福尼亚州 (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.MarinHeadlands_ZH-CN9876016714_UHD.jpg)
