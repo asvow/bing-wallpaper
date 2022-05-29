@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-30 | [日落时分的阿萨巴斯卡瀑布，加拿大 (© Robert Postma/Getty Images)](https://www.bing.com/th?id=OHR.MountFryatt_ZH-CN0611142036_UHD.jpg)
+
 2022-05-29 | [加勒廷国家森林里的小溪，美国蒙大拿州 (© Jared Lloyd/Getty Images)](https://www.bing.com/th?id=OHR.HyaliteCreek_ZH-CN0400013447_UHD.jpg)
 
 2022-05-28 | [波奴鲁鲁国家公园里的邦格尔邦格尔山脉，澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.PurnululuNP_ZH-CN0102753224_UHD.jpg)
