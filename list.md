@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-05-31 | [展开双翅的绯红金刚鹦鹉，哥斯达黎加 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_UHD.jpg)
+
 2022-05-30 | [日落时分的阿萨巴斯卡瀑布，加拿大 (© Robert Postma/Getty Images)](https://www.bing.com/th?id=OHR.MountFryatt_ZH-CN0611142036_UHD.jpg)
 
 2022-05-29 | [加勒廷国家森林里的小溪，美国蒙大拿州 (© Jared Lloyd/Getty Images)](https://www.bing.com/th?id=OHR.HyaliteCreek_ZH-CN0400013447_UHD.jpg)
