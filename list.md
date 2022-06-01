@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-02 | [福森市的莱西瀑布，德国拜仁州 (© Sergej Razvod/agefotostock)](https://www.bing.com/th?id=OHR.LechfallFuessen_ZH-CN3887501600_UHD.jpg)
+
 2022-06-01 | [马罗沃泻湖中的珊瑚礁，所罗门群岛 (© WaterFrame/Alamy)](https://www.bing.com/th?id=OHR.MarovoLagoon_ZH-CN1029152514_UHD.jpg)
 
 2022-05-31 | [展开双翅的绯红金刚鹦鹉，哥斯达黎加 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_UHD.jpg)
