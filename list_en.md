@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-03 | [Buckingham Palace in London, England (© Pajor Pawel/Shutterstock)](https://www.bing.com/th?id=OHR.QueenJubilee_EN-US9964271686_UHD.jpg)
+
 2022-06-02 | [Coral reef in Marovo Lagoon in the Solomon Islands (© WaterFrame/Alamy)](https://www.bing.com/th?id=OHR.MarovoLagoon_EN-US9916170608_UHD.jpg)
 
 2022-06-01 | [Scarlet macaw in Costa Rica (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.ParrotDay_EN-US9824481217_UHD.jpg)
