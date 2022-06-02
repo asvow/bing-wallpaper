@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-03 | [广角镜头下的厦门龙舟池，日落的光洒在传统龙舟上，中国 (© Sen Li/Getty Image)](https://www.bing.com/th?id=OHR.DragonBoat2022_ZH-CN2392684688_UHD.jpg)
+
 2022-06-02 | [福森市的莱西瀑布，德国拜仁州 (© Sergej Razvod/agefotostock)](https://www.bing.com/th?id=OHR.LechfallFuessen_ZH-CN3887501600_UHD.jpg)
 
 2022-06-01 | [马罗沃泻湖中的珊瑚礁，所罗门群岛 (© WaterFrame/Alamy)](https://www.bing.com/th?id=OHR.MarovoLagoon_ZH-CN1029152514_UHD.jpg)
