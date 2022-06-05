@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-06 | [奥杜邦中心的一只靛蓝彩鹀，美国宾夕法尼亚州 (© Vicki Jauron/Getty Images)](https://www.bing.com/th?id=OHR.IndigoBunting_ZH-CN3172415219_UHD.jpg)
+
 2022-06-05 | [萨勒克国家公园的拉帕谷，瑞典 (© Alena Vishina/Alamy)](https://www.bing.com/th?id=OHR.RapadalenSNP_ZH-CN3018224759_UHD.jpg)
 
 2022-06-04 | [安塞尔·亚当斯的荒野，加利福尼亚 (© Michael DeYoung Photography/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BannerPeak_ZH-CN2693006060_UHD.jpg)
