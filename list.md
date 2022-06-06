@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-07 | [赫尔辛基的哈加杜鹃花公园，芬兰 (© Samuli Vainionpää/Getty Images)](https://www.bing.com/th?id=OHR.HaagaRhododendron_ZH-CN3375001658_UHD.jpg)
+
 2022-06-06 | [奥杜邦中心的一只靛蓝彩鹀，美国宾夕法尼亚州 (© Vicki Jauron/Getty Images)](https://www.bing.com/th?id=OHR.IndigoBunting_ZH-CN3172415219_UHD.jpg)
 
 2022-06-05 | [萨勒克国家公园的拉帕谷，瑞典 (© Alena Vishina/Alamy)](https://www.bing.com/th?id=OHR.RapadalenSNP_ZH-CN3018224759_UHD.jpg)
