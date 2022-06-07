@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-08 | [正在狩猎太平洋沙丁鱼的长吻真海豚和南非鲣鸟，南非东开普省 (© Pete Oxford/Minden Pictures)](https://www.bing.com/th?id=OHR.CommonDolphin_ZH-CN3524729916_UHD.jpg)
+
 2022-06-07 | [赫尔辛基的哈加杜鹃花公园，芬兰 (© Samuli Vainionpää/Getty Images)](https://www.bing.com/th?id=OHR.HaagaRhododendron_ZH-CN3375001658_UHD.jpg)
 
 2022-06-06 | [奥杜邦中心的一只靛蓝彩鹀，美国宾夕法尼亚州 (© Vicki Jauron/Getty Images)](https://www.bing.com/th?id=OHR.IndigoBunting_ZH-CN3172415219_UHD.jpg)
