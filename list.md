@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-11 | [米苏尔岛，拉贾安帕特群岛中的岛屿，印度尼西亚 (© rusm/Getty Images)](https://www.bing.com/th?id=OHR.MisoolIsland_ZH-CN9038691748_UHD.jpg)
+
 2022-06-10 | [斑鹿，滕波尔国家公园，印度 (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.SpottedDeers_ZH-CN8790816034_UHD.jpg)
 
 2022-06-09 | [邓弗里斯和加洛韦的甜心修道院，苏格兰 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.SweetheartAbbey_ZH-CN8325969067_UHD.jpg)
