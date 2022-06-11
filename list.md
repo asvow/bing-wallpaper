@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-12 | [大弯曲国家公园的塞拉庞塞和格兰德河边的悬崖，美国得克萨斯州 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.SierraPonce_ZH-CN9720358958_UHD.jpg)
+
 2022-06-11 | [米苏尔岛，拉贾安帕特群岛中的岛屿，印度尼西亚 (© rusm/Getty Images)](https://www.bing.com/th?id=OHR.MisoolIsland_ZH-CN9038691748_UHD.jpg)
 
 2022-06-10 | [斑鹿，滕波尔国家公园，印度 (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.SpottedDeers_ZH-CN8790816034_UHD.jpg)
