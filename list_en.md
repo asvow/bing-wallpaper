@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-14 | [Elephant walking in the Okavango River, Botswana (© Markus Pavlowsky/Getty Images)](https://www.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_UHD.jpg)
+
 2022-06-13 | [Cliffs of the Sierra Ponce and Rio Grande, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.SierraPonce_EN-US7735077868_UHD.jpg)
 
 2022-06-12 | [Misool Island, one of the four major islands in the Raja Ampat Islands in West Papua, Indonesia (© Elsy Saldek/Getty Images)](https://www.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_UHD.jpg)
