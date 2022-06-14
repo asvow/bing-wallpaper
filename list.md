@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-15 | [大雾山国家公园，田纳西州 (© Tony Barber/Getty Images)](https://www.bing.com/th?id=OHR.ClingmansDome_ZH-CN0900594339_UHD.jpg)
+
 2022-06-14 | [纽约大都会艺术博物馆 (© Susanne Pommer/Shutterstock)](https://www.bing.com/th?id=OHR.MuseumMile_ZH-CN0641581371_UHD.jpg)
 
 2022-06-13 | [行走在奥卡万戈河中的大象，博茨瓦纳，非洲南部 (© Markus Pavlowsky/Getty Images)](https://www.bing.com/th?id=OHR.OkavangoElephant_ZH-CN0058670579_UHD.jpg)
