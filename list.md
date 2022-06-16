@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-17 | [山下盛开的箭叶脂根菊，美国大提顿国家公园 (© Mike Cavaroc/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.Balsamroot_ZH-CN9456182640_UHD.jpg)
+
 2022-06-16 | [仙岩寺中的升仙桥，韩国曹溪山道立公园 (© Aaron Choi/Getty Images)](https://www.bing.com/th?id=OHR.SeonamTemple_ZH-CN3460236076_UHD.jpg)
 
 2022-06-15 | [大雾山国家公园，田纳西州 (© Tony Barber/Getty Images)](https://www.bing.com/th?id=OHR.ClingmansDome_ZH-CN0900594339_UHD.jpg)
