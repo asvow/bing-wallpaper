@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-20 | [Southern cassowary father with chicks, Kuranda, Queensland, Australia (© Martin Willis/Minden Pictures)](https://www.bing.com/th?id=OHR.Cassowary_EN-US8797645265_UHD.jpg)
+
 2022-06-19 | [Surfers catching waves at Palm Beach on the Gold Coast, Queensland, Australia (© Darren Tierney/Getty Images)](https://www.bing.com/th?id=OHR.CelebratingSurfing_EN-US8732112733_UHD.jpg)
 
 2022-06-18 | [Balsamroot wildflowers bloom below the Teton Mountains in Grand Teton National Park, Wyoming (© Mike Cavaroc/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.Balsamroot_EN-US8641268598_UHD.jpg)
