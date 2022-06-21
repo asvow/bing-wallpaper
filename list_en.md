@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-22 | [View of Glastonbury Tor from Walton Hill, Somerset, England (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.GlastonburySolstice_EN-US7196057692_UHD.jpg)
+
 2022-06-21 | [Old World swallowtail butterflies on a flower (© Alberto Ghizzi Panizza/Getty Images)](https://www.bing.com/th?id=OHR.SwallowtailFlower_EN-US6952825144_UHD.jpg)
 
 2022-06-20 | [Southern cassowary father with chicks, Kuranda, Queensland, Australia (© Martin Willis/Minden Pictures)](https://www.bing.com/th?id=OHR.Cassowary_EN-US8797645265_UHD.jpg)
