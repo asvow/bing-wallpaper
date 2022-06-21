@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-22 | [亚苏尼国家公园，厄瓜多尔 (© Paul Bertner/Minden Pictures)](https://www.bing.com/th?id=OHR.AmazonianEcuador_ZH-CN9873999948_UHD.jpg)
+
 2022-06-21 | [格拉斯顿伯里山丘上的日出，英格兰 (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.GlastonburySolstice_ZH-CN9694169797_UHD.jpg)
 
 2022-06-20 | [停在同一朵花上的两只金凤蝶 (© Alberto Ghizzi Panizza/Getty Images)](https://www.bing.com/th?id=OHR.SwallowtailFlower_ZH-CN5950463168_UHD.jpg)
