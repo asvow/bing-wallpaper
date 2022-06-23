@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-24 | [潜水员探索文图拉斯港附近的水下天然井，墨西哥 (© Extreme Photographer/Getty Images)](https://www.bing.com/th?id=OHR.CenoteDiver_ZH-CN7334440742_UHD.jpg)
+
 2022-06-23 | [莫斯塔尔古桥，波斯尼亚和黑塞哥维那 (© Ayhan Altun/Getty Images)](https://www.bing.com/th?id=OHR.MostarBridge_ZH-CN5920156936_UHD.jpg)
 
 2022-06-22 | [亚苏尼国家公园，厄瓜多尔 (© Paul Bertner/Minden Pictures)](https://www.bing.com/th?id=OHR.AmazonianEcuador_ZH-CN9873999948_UHD.jpg)
