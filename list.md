@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-25 | [卡特迈国家公园和保护区的棕熊妈妈和幼崽，阿拉斯加 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BBMomCub_ZH-CN7715738841_UHD.jpg)
+
 2022-06-24 | [潜水员探索文图拉斯港附近的水下天然井，墨西哥 (© Extreme Photographer/Getty Images)](https://www.bing.com/th?id=OHR.CenoteDiver_ZH-CN7334440742_UHD.jpg)
 
 2022-06-23 | [莫斯塔尔古桥，波斯尼亚和黑塞哥维那 (© Ayhan Altun/Getty Images)](https://www.bing.com/th?id=OHR.MostarBridge_ZH-CN5920156936_UHD.jpg)
