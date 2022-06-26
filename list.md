@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-27 | [普罗旺斯瓦朗索勒高原上的薰衣草田，法国 (© Shutterstock)](https://www.bing.com/th?id=OHR.ValensoleLavender_ZH-CN8778885260_UHD.jpg)
+
 2022-06-26 | [一只正在树上睡觉的考拉 (© Anton Rogozin/Getty Images)](https://www.bing.com/th?id=OHR.KoalaSleeping_ZH-CN8369657308_UHD.jpg)
 
 2022-06-25 | [卡特迈国家公园和保护区的棕熊妈妈和幼崽，阿拉斯加 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BBMomCub_ZH-CN7715738841_UHD.jpg)
