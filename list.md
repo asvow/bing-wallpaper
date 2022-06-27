@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-28 | [塔菲拉勒地区的一座古老古堡, 摩洛哥 (© José Antonio Moreno/agefotostock)](https://www.bing.com/th?id=OHR.TafilaletOasis_ZH-CN9143950935_UHD.jpg)
+
 2022-06-27 | [普罗旺斯瓦朗索勒高原上的薰衣草田，法国 (© Shutterstock)](https://www.bing.com/th?id=OHR.ValensoleLavender_ZH-CN8778885260_UHD.jpg)
 
 2022-06-26 | [一只正在树上睡觉的考拉 (© Anton Rogozin/Getty Images)](https://www.bing.com/th?id=OHR.KoalaSleeping_ZH-CN8369657308_UHD.jpg)
