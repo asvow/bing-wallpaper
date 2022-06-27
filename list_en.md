@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-28 | [Lavender fields on the Valensole Plateau in Provence, France (© Shutterstock)](https://www.bing.com/th?id=OHR.ValensoleLavender_EN-US7717234716_UHD.jpg)
+
 2022-06-27 | [Rainbow flag (© Matt Jeacock/Getty Images)](https://www.bing.com/th?id=OHR.Pride2022_EN-US7651790852_UHD.jpg)
 
 2022-06-26 | [Brown bear mother and cub in Katmai National Park and Preserve, Alaska (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BBMomCub_EN-US7553314922_UHD.jpg)
