@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-06-30 | [基伯龙半岛上的海滩，法国布列塔尼地区 (© hardyun/Adobe)](https://www.bing.com/th?id=OHR.CoteSauvage_ZH-CN9967984163_UHD.jpg)
+
 2022-06-29 | [攀牙湾安达曼海的红树林，泰国 (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.PhangNgaBay_ZH-CN9408705933_UHD.jpg)
 
 2022-06-28 | [塔菲拉勒地区的一座古老古堡, 摩洛哥 (© José Antonio Moreno/agefotostock)](https://www.bing.com/th?id=OHR.TafilaletOasis_ZH-CN9143950935_UHD.jpg)
