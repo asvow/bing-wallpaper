@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-03 | [赤狐 (© Yossi Eshbol/Minden Pictures)](https://www.bing.com/th?id=OHR.SummerDogs_ZH-CN1604998367_UHD.jpg)
+
 2022-07-02 | [分隔两个湖泊的公路，苏格兰高地 (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.HalfwayDay_ZH-CN1333459630_UHD.jpg)
 
 2022-07-01 | [阿圭罗村庄, 韦斯卡, 西班牙 (© Francesco Carovillano/eStock)](https://www.bing.com/th?id=OHR.AgueroVillage_ZH-CN1007741117_UHD.jpg)
