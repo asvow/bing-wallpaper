@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-04 | [一列火车穿过卡纳塔克邦的沙拉瓦蒂桥，印度 (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.SharavatiBridge_ZH-CN2011371774_UHD.jpg)
+
 2022-07-03 | [赤狐 (© Yossi Eshbol/Minden Pictures)](https://www.bing.com/th?id=OHR.SummerDogs_ZH-CN1604998367_UHD.jpg)
 
 2022-07-02 | [分隔两个湖泊的公路，苏格兰高地 (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.HalfwayDay_ZH-CN1333459630_UHD.jpg)
