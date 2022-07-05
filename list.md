@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-06 | [一对大西洋海雀在接吻，设得兰群岛，苏格兰 (© Vince Burton/Minden Pictures)](https://www.bing.com/th?id=OHR.KissingPuffins_ZH-CN2578608262_UHD.jpg)
+
 2022-07-05 | [被翡翠湾环绕的芬尼特岛，太浩湖，加利福尼亚 (© Rachid Dahnoun/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.FannetteIsland_ZH-CN2395055456_UHD.jpg)
 
 2022-07-04 | [一列火车穿过卡纳塔克邦的沙拉瓦蒂桥，印度 (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.SharavatiBridge_ZH-CN2011371774_UHD.jpg)
