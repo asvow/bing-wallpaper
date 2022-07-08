@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-09 | [多洛米蒂山上空的银河，意大利 (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.DolomitesMW_ZH-CN3307894335_UHD.jpg)
+
 2022-07-08 | [普雷维利峡谷里的河流和棕榈树森林，希腊克里特岛 (© borchee/Getty Images)](https://www.bing.com/th?id=OHR.PreveliGorge_ZH-CN3109665395_UHD.jpg)
 
 2022-07-07 | [哈萨塔角灯塔，佛罗伦萨，俄勒冈州 (© Tom Schwabel/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HecetaHead_ZH-CN2813876594_UHD.jpg)
