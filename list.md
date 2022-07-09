@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-10 | [鸟瞰视角下的彩色船只，土耳其欧鲁旦尼斯 (© den-belitsky/Getty Images)](https://www.bing.com/th?id=OHR.OludenizTurkey_ZH-CN3467496108_UHD.jpg)
+
 2022-07-09 | [多洛米蒂山上空的银河，意大利 (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.DolomitesMW_ZH-CN3307894335_UHD.jpg)
 
 2022-07-08 | [普雷维利峡谷里的河流和棕榈树森林，希腊克里特岛 (© borchee/Getty Images)](https://www.bing.com/th?id=OHR.PreveliGorge_ZH-CN3109665395_UHD.jpg)
