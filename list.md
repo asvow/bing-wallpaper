@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-11 | [巴塞罗那城市上空，西班牙 (© SW Photography/Getty Images)](https://www.bing.com/th?id=OHR.BarcelonaPop_ZH-CN3687855585_UHD.jpg)
+
 2022-07-10 | [鸟瞰视角下的彩色船只，土耳其欧鲁旦尼斯 (© den-belitsky/Getty Images)](https://www.bing.com/th?id=OHR.OludenizTurkey_ZH-CN3467496108_UHD.jpg)
 
 2022-07-09 | [多洛米蒂山上空的银河，意大利 (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.DolomitesMW_ZH-CN3307894335_UHD.jpg)
