@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-13 | [巨人堤道上的玄武岩柱，英国北爱尔兰 (© Olimpio Fantuz/eStock Photo)](https://www.bing.com/th?id=OHR.BasaltGiants_ZH-CN4038085235_UHD.jpg)
+
 2022-07-12 | [悉尼奥林匹克公园里的湾标瞭望台，澳大利亚 (© ai_yoshi/Getty Images)](https://www.bing.com/th?id=OHR.SpiralHill_ZH-CN3829252235_UHD.jpg)
 
 2022-07-11 | [巴塞罗那城市上空，西班牙 (© SW Photography/Getty Images)](https://www.bing.com/th?id=OHR.BarcelonaPop_ZH-CN3687855585_UHD.jpg)
