@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-15 | [阿罗内镇的村落，意大利翁布里亚大区 (© Maurizio Rellini/eStock Photo)](https://www.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_UHD.jpg)
+
 2022-07-14 | [爱丽丝镇附近水域中的柠檬鲨宝宝，巴哈马比米尼岛 (© Ken Kiefer 2/Getty Images)](https://www.bing.com/th?id=OHR.BabyLemons_ZH-CN4212701834_UHD.jpg)
 
 2022-07-13 | [巨人堤道上的玄武岩柱，英国北爱尔兰 (© Olimpio Fantuz/eStock Photo)](https://www.bing.com/th?id=OHR.BasaltGiants_ZH-CN4038085235_UHD.jpg)
