@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-17 | [Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](https://www.bing.com/th?id=OHR.AmericanGoldfinch_EN-US2664017758_UHD.jpg)
+
 2022-07-16 | [The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)](https://www.bing.com/th?id=OHR.Arrone_EN-US2438328393_UHD.jpg)
 
 2022-07-15 | [Baby lemon sharks swimming among mangroves near Alice Town, Bimini, Bahamas (© Ken Kiefer 2/Getty Images)](https://www.bing.com/th?id=OHR.BabyLemons_EN-US8232804860_UHD.jpg)
