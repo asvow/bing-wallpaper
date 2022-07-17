@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-18 | [布满奇石的青海岛，日本北长门海岸国定公园 (© Sean Pavone Photo/Adobe Stock)](https://www.bing.com/th?id=OHR.OmijimaIsland_ZH-CN3328515301_UHD.jpg)
+
 2022-07-17 | [北狼丘里的"波浪谷"，美国亚利桑那州 (© Dennis Frates/Alamy)](https://www.bing.com/th?id=OHR.CoyoteButtes_ZH-CN3166159419_UHD.jpg)
 
 2022-07-16 | [向日葵上的金翅雀，美国南卡罗来纳州 (© Teresa Kopec/Getty Images)](https://www.bing.com/th?id=OHR.AmericanGoldfinch_ZH-CN2996912015_UHD.jpg)
