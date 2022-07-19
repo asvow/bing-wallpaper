@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-20 | [一组月相照片 (© Delpixart/Getty Images)](https://www.bing.com/th?id=OHR.MoonPhases_ZH-CN3779272016_UHD.jpg)
+
 2022-07-19 | [基姆湖上的淑女岛，德国巴伐利亚州 (© Malorny/Getty Images)](https://www.bing.com/th?id=OHR.FraueninselChiemsee_ZH-CN3541482552_UHD.jpg)
 
 2022-07-18 | [布满奇石的青海岛，日本北长门海岸国定公园 (© Sean Pavone Photo/Adobe Stock)](https://www.bing.com/th?id=OHR.OmijimaIsland_ZH-CN3328515301_UHD.jpg)
