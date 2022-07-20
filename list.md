@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-21 | [伯里圣埃德蒙兹镇的修道院公园，英国萨福克郡 (© Charles Martinez/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.AbbeyGardens_ZH-CN4831631801_UHD.jpg)
+
 2022-07-20 | [一组月相照片 (© Delpixart/Getty Images)](https://www.bing.com/th?id=OHR.MoonPhases_ZH-CN3779272016_UHD.jpg)
 
 2022-07-19 | [基姆湖上的淑女岛，德国巴伐利亚州 (© Malorny/Getty Images)](https://www.bing.com/th?id=OHR.FraueninselChiemsee_ZH-CN3541482552_UHD.jpg)
