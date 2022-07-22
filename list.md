@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-23 | [毛地黄上的红天蛾 (© David Chapman/Alamy)](https://www.bing.com/th?id=OHR.FoxgloveHawkmoth_ZH-CN4486704889_UHD.jpg)
+
 2022-07-22 | [科托尔湾的圣乔治海峡和圣母湾，黑山 (© Dmitrii Sakharov/Shutterstock)](https://www.bing.com/th?id=OHR.SGIMontenegro_ZH-CN4155831603_UHD.jpg)
 
 2022-07-21 | [伯里圣埃德蒙兹镇的修道院公园，英国萨福克郡 (© Charles Martinez/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.AbbeyGardens_ZH-CN4831631801_UHD.jpg)
