@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-07-26 | [萨卢姆三角洲国家公园的红树林，塞内加尔共和国 (© mariusz_prusaczyk/Getty Images)](https://www.bing.com/th?id=OHR.MangroveDay_ZH-CN5590436101_UHD.jpg)
+
 2022-07-25 | [兰贝里斯山口脚下的多尔巴达恩城堡，威尔士 (© Viktoria Rodriguez/Getty Images)](https://www.bing.com/th?id=OHR.DolbadarnCastle_ZH-CN5397592090_UHD.jpg)
 
 2022-07-24 | [双杰克湖，班夫国家公园，艾伯塔省，加拿大 (© SnapRapid/Offset)](https://www.bing.com/th?id=OHR.TwoJackLake_ZH-CN4716355677_UHD.jpg)
