@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-01 | [漏出“天窗”的熔岩管，夏威夷火山国家公园 (© Tom Schwabel/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_UHD.jpg)
+
 2022-07-31 | [立陶宛的夜光云 (© ljphoto7/Getty Images)](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_UHD.jpg)
 
 2022-07-30 | [米尔福德峡湾附近的徒步雨林，新西兰 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_UHD.jpg)
