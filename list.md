@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-05 | [夜晚的爱丁堡城市天际线，苏格兰 (© Suranga Weeratuna/Alamy)](https://www.bing.com/th?id=OHR.MilitaryTattoo_ZH-CN0302287210_UHD.jpg)
+
 2022-08-04 | [上海浦东森林心形洞穴鸟瞰图，中国 (© Yaorusheng/Getty Images)](https://www.bing.com/th?id=OHR.QiXiFestival2022_ZH-CN2628111266_UHD.jpg)
 
 2022-08-03 | [在德国的赤颈鸊鷉 (© Edo van Uchelen/Minden Pictures)](https://www.bing.com/th?id=OHR.RedneckedGrebe_ZH-CN6036749974_UHD.jpg)
