@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-07 | [杭州西湖的古典中国园林 (© DANNY HU/Getty Images)](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_UHD.jpg)
+
 2022-08-06 | [旧金山湾的盐滩 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SFSaltFlats_ZH-CN7261637239_UHD.jpg)
 
 2022-08-05 | [夜晚的爱丁堡城市天际线，苏格兰 (© Suranga Weeratuna/Alamy)](https://www.bing.com/th?id=OHR.MilitaryTattoo_ZH-CN0302287210_UHD.jpg)
