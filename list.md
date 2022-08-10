@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-11 | [日本长野县安昙野附近的燕岳山 (© Joshua Hawley/Getty Images)](https://www.bing.com/th?id=OHR.MtTsubakuro_ZH-CN0305525340_UHD.jpg)
+
 2022-08-10 | [约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_UHD.jpg)
 
 2022-08-09 | [阿根廷圣克鲁斯的洛斯马诺斯洞穴 (© Adwo/Alamy)](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_UHD.jpg)
