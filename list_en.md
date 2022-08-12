@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-13 | [Herd of African elephants in Amboseli National Park, Kenya (© Susan Portnoy/Shutterstock)](https://www.bing.com/th?id=OHR.AmboseliElephants_EN-US1510486473_UHD.jpg)
+
 2022-08-12 | [Mount Tsubakuro near Azumino, Nagano, Japan (© Joshua Hawley/Getty Images)](https://www.bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg)
 
 2022-08-11 | [Joshua trees in Joshua Tree National Park, California (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg)
