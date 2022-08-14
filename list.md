@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-15 | [奇陶尔加尔堡，印度 (© Anand Purohit/Getty Images)](https://www.bing.com/th?id=OHR.ChittorgarhFort_ZH-CN2955182965_UHD.jpg)
+
 2022-08-14 | [琥珀山国家公园里的豹变色龙，马达加斯加 (© Christian Ziegler/Minden Pictures)](https://www.bing.com/th?id=OHR.PantherChameleon_ZH-CN2554514270_UHD.jpg)
 
 2022-08-13 | [阿斯佩山谷中的蒙塔尼翁湖，法国 (© thieury/Adobe photo stock)](https://www.bing.com/th?id=OHR.LacMontagnon_ZH-CN8301464080_UHD.jpg)
