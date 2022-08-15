@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-16 | [Chittorgarh Fort, India (© Anand Purohit/Getty Images)](https://www.bing.com/th?id=OHR.ChittorgarhFort_EN-US2246278299_UHD.jpg)
+
 2022-08-15 | [Panther chameleon in Amber Mountain National Park, Madagascar (© Christian Ziegler/Minden Pictures)](https://www.bing.com/th?id=OHR.PantherChameleon_EN-US2150362477_UHD.jpg)
 
 2022-08-14 | [Boundary Waters Canoe Area Wilderness, Superior National Forest, Minnesota (© Dukas/Universal Images Group via Getty Images)](https://www.bing.com/th?id=OHR.BoundaryWaters_EN-US1592534087_UHD.jpg)
