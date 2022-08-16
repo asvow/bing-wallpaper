@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-17 | [大自然的水族馆中的水下景观，巴西 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.AquarioNatural_ZH-CN3886634374_UHD.jpg)
+
 2022-08-16 | [夕阳下的大白鲨过山车，美国新泽西州 (© John Van Decker/Alamy)](https://www.bing.com/th?id=OHR.GreatWhiteRoller_ZH-CN1541809088_UHD.jpg)
 
 2022-08-15 | [奇陶尔加尔堡，印度 (© Anand Purohit/Getty Images)](https://www.bing.com/th?id=OHR.ChittorgarhFort_ZH-CN2955182965_UHD.jpg)
