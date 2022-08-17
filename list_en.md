@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-18 | [Freshwater plants and tetra fish, Aquário Natural, Rio Baía Bonita, Mato Grosso do Sul, Brazil (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.AquarioNatural_EN-US2602910599_UHD.jpg)
+
 2022-08-17 | [The Great White Roller Coaster at Wildwood, New Jersey (© John Van Decker/Alamy)](https://www.bing.com/th?id=OHR.GreatWhiteRoller_EN-US2453743631_UHD.jpg)
 
 2022-08-16 | [Chittorgarh Fort, India (© Anand Purohit/Getty Images)](https://www.bing.com/th?id=OHR.ChittorgarhFort_EN-US2246278299_UHD.jpg)
