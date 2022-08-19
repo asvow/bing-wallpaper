@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-20 | [西班牙阿斯图里亚斯省穆涅略斯自然保护区的蜂箱 (© ABB Photo/Shutterstock)](https://www.bing.com/th?id=OHR.BearProof_ZH-CN4950171791_UHD.jpg)
+
 2022-08-19 | [康沃尔郡的彭赞斯，英国 (© Murray Bosley Photography/Getty Images)](https://www.bing.com/th?id=OHR.PenzancePool_ZH-CN4493022613_UHD.jpg)
 
 2022-08-18 | [哥德堡群岛的岸边，瑞典 (© Martin Wahlborg/Getty Images)](https://www.bing.com/th?id=OHR.SourHerring_ZH-CN4136738467_UHD.jpg)
