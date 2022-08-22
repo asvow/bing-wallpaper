@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-23 | [芒通，法国 (© Flavio Foglietta/Getty Images)](https://www.bing.com/th?id=OHR.MentonFrance_ZH-CN5849270429_UHD.jpg)
+
 2022-08-22 | [南佛罗里达的一只穴小鸮雏鸟和一只成年穴小鸮，美国 (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.TenderMoment_ZH-CN5447705408_UHD.jpg)
 
 2022-08-21 | [加利西亚省科斯塔达莫尔特的灯塔，西班牙 (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.CostadaMorte_ZH-CN5219249535_UHD.jpg)
