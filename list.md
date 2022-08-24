@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-25 | [华盛顿州北瀑布国家公园，美国 (© Ethan Welty/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_UHD.jpg)
+
 2022-08-24 | [格洛里亚附近的码头和糖面包山，巴西里约热内卢 (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_UHD.jpg)
 
 2022-08-23 | [芒通，法国 (© Flavio Foglietta/Getty Images)](https://www.bing.com/th?id=OHR.MentonFrance_ZH-CN5849270429_UHD.jpg)
