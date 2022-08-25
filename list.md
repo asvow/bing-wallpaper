@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-26 | [克罗地亚佩列沙茨半岛附近的风筝冲浪者和风帆冲浪者 (© helivideo/Getty Images)](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_UHD.jpg)
+
 2022-08-25 | [华盛顿州北瀑布国家公园，美国 (© Ethan Welty/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_UHD.jpg)
 
 2022-08-24 | [格洛里亚附近的码头和糖面包山，巴西里约热内卢 (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_UHD.jpg)
