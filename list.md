@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-27 | [圣海伦斯山国家火山纪念区的边界小径，美国华盛顿州 (© Don Geyer/Alamy)](https://www.bing.com/th?id=OHR.MSHV_ZH-CN9630204701_UHD.jpg)
+
 2022-08-26 | [克罗地亚佩列沙茨半岛附近的风筝冲浪者和风帆冲浪者 (© helivideo/Getty Images)](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_UHD.jpg)
 
 2022-08-25 | [华盛顿州北瀑布国家公园，美国 (© Ethan Welty/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_UHD.jpg)
