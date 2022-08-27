@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-28 | [荷兰弗莱福兰湿地的文须雀 (© Gert-Jan IJzerman/Minden Pictures)](https://www.bing.com/th?id=OHR.BeardedTit_ZH-CN0065279700_UHD.jpg)
+
 2022-08-27 | [圣海伦斯山国家火山纪念区的边界小径，美国华盛顿州 (© Don Geyer/Alamy)](https://www.bing.com/th?id=OHR.MSHV_ZH-CN9630204701_UHD.jpg)
 
 2022-08-26 | [克罗地亚佩列沙茨半岛附近的风筝冲浪者和风帆冲浪者 (© helivideo/Getty Images)](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_UHD.jpg)
