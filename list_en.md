@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-28 | [Boundary Trail in Mount St. Helens National Volcanic Monument, Washington (© Don Geyer/Alamy)](https://www.bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg)
+
 2022-08-27 | [Kiteboarders and windsurfers off the Pelješac Peninsula, Croatia (© helivideo/Getty Images)](https://www.bing.com/th?id=OHR.PeljesacWind_EN-US5380116190_UHD.jpg)
 
 2022-08-26 | [North Cascades National Park, Washington (© Ethan Welty/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CascadesNP_EN-US3684575794_UHD.jpg)
