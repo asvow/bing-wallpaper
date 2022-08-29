@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-30 | [米利亚里诺自然公园，圣罗索尔，意大利马萨西犹可利 (© Stefano Valeri/Alamy)](https://www.bing.com/th?id=OHR.Migliarino_ZH-CN0744250844_UHD.jpg)
+
 2022-08-29 | [爱沙尼亚波罗的海 (© fotoman-kharkov/Getty Images)](https://www.bing.com/th?id=OHR.EstoniaBaltic_ZH-CN0314555299_UHD.jpg)
 
 2022-08-28 | [荷兰弗莱福兰湿地的文须雀 (© Gert-Jan IJzerman/Minden Pictures)](https://www.bing.com/th?id=OHR.BeardedTit_ZH-CN0065279700_UHD.jpg)
