@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-08-31 | [新爱尔兰岛上的蓝指海星，巴布亚新几内亚 (© Jurgen Freund/Minden Pictures)](https://www.bing.com/th?id=OHR.BlueLinckia_ZH-CN1103817183_UHD.jpg)
+
 2022-08-30 | [米利亚里诺自然公园，圣罗索尔，意大利马萨西犹可利 (© Stefano Valeri/Alamy)](https://www.bing.com/th?id=OHR.Migliarino_ZH-CN0744250844_UHD.jpg)
 
 2022-08-29 | [爱沙尼亚波罗的海 (© fotoman-kharkov/Getty Images)](https://www.bing.com/th?id=OHR.EstoniaBaltic_ZH-CN0314555299_UHD.jpg)
