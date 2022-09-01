@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-02 | [Wildlife crossing in Wierden, Netherlands (© Frans Lemmens/Alamy)](https://www.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg)
+
 2022-09-01 | [Blue linckia sea stars off New Ireland in Papua New Guinea (© Jurgen Freund/Minden Pictures)](https://www.bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg)
 
 2022-08-31 | [Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](https://www.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg)
