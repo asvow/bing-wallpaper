@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-03 | [吉隆坡石油双塔，马来西亚 (© tampatra/Getty Images)](https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ZH-CN1989513449_UHD.jpg)
+
 2022-09-02 | [克里特岛上的海滩，希腊 (© Georgios Tsichlis/Alamy)](https://www.bing.com/th?id=OHR.SeitanLimania_ZH-CN3831790369_UHD.jpg)
 
 2022-09-01 | [维尔登的野生动物通道，荷兰 (© Frans Lemmens/Alamy)](https://www.bing.com/th?id=OHR.WildlifeCrossing_ZH-CN1493053695_UHD.jpg)
