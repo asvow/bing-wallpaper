@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-04 | [果阿邦的阿兰博尔海滩，印度 (© Ben Pipe/Alamy)](https://www.bing.com/th?id=OHR.ArambolBeach_ZH-CN2149857876_UHD.jpg)
+
 2022-09-03 | [吉隆坡石油双塔，马来西亚 (© tampatra/Getty Images)](https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ZH-CN1989513449_UHD.jpg)
 
 2022-09-02 | [克里特岛上的海滩，希腊 (© Georgios Tsichlis/Alamy)](https://www.bing.com/th?id=OHR.SeitanLimania_ZH-CN3831790369_UHD.jpg)
