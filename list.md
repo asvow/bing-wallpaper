@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-05 | [北魁北克的公路，加拿大 (© Posnov/Getty Images)](https://www.bing.com/th?id=OHR.TaigaRoad_ZH-CN2567537158_UHD.jpg)
+
 2022-09-04 | [果阿邦的阿兰博尔海滩，印度 (© Ben Pipe/Alamy)](https://www.bing.com/th?id=OHR.ArambolBeach_ZH-CN2149857876_UHD.jpg)
 
 2022-09-03 | [吉隆坡石油双塔，马来西亚 (© tampatra/Getty Images)](https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ZH-CN1989513449_UHD.jpg)
