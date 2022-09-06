@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-07 | [Red squirrel carrying a mushroom (© Michael Quinton/Minden Pictures)](https://www.bing.com/th?id=OHR.SquirrelMushroom_EN-US8955570535_UHD.jpg)
+
 2022-09-06 | [Labor Day parade in 1934, Gastonia, North Carolina (© Bettmann/Getty Images)](https://www.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg)
 
 2022-09-05 | [Arambol Beach in Goa, India (© Ben Pipe/Alamy)](https://www.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg)
