@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-15 | [Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)](https://www.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg)
+
 2022-09-14 | [Great Sand Dunes National Park and Preserve, Colorado (© Y Paudel/Getty Images)](https://www.bing.com/th?id=OHR.GSDNPest_EN-US6985335988_UHD.jpg)
 
 2022-09-13 | [Chestnut-eared aracari in the Pantanal region of Brazil (© Ana Gram/Shutterstock)](https://www.bing.com/th?id=OHR.Aracari_EN-US6920359857_UHD.jpg)
