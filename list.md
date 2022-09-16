@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-17 | [布莱克浦塔和中央码头，英国兰开夏郡 (© Bailey-Cooper Photography/Alamy)](https://www.bing.com/th?id=OHR.BlackpoolBeach_ZH-CN2646268897_UHD.jpg)
+
 2022-09-16 | [百内国家公园中的一头美洲狮，智利巴塔哥尼亚 (© Ingo Arndt/Minden Pictures)](https://www.bing.com/th?id=OHR.PianePuma_ZH-CN1482049046_UHD.jpg)
 
 2022-09-15 | [罗兰豁口上空的银河，法国上比利牛斯省 (© SPANI Arnaud/Alamy)](https://www.bing.com/th?id=OHR.PyreneesPark_ZH-CN1341030921_UHD.jpg)
