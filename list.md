@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-19 | [巴斯利卡塔的卡斯泰尔梅扎诺村，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_UHD.jpg)
+
 2022-09-18 | [幽鹤国家公园的翡翠湖, 加拿大不列颠哥伦比亚省 (© Cavan Images/Offset)](https://www.bing.com/th?id=OHR.EmeraldYoho_ZH-CN4524610330_UHD.jpg)
 
 2022-09-17 | [布莱克浦塔和中央码头，英国兰开夏郡 (© Bailey-Cooper Photography/Alamy)](https://www.bing.com/th?id=OHR.BlackpoolBeach_ZH-CN2646268897_UHD.jpg)
