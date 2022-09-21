@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-22 | [春角礁灯塔，缅因州南波特兰 (© Haizhan Zheng/Getty Images)](https://www.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_UHD.jpg)
+
 2022-09-21 | [赫努姆的茅草屋顶, 德国叙尔特岛 (© Francesco Carovillano/eStock Photo)](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_UHD.jpg)
 
 2022-09-20 | [阿拉斯加州锡特卡海峡的海獭，美国 (© Robert Harding/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_UHD.jpg)
