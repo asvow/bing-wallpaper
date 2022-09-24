@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-25 | [亚马逊河鸟瞰图，巴西 (© Curioso.Photography/Shutterstock)](https://www.bing.com/th?id=OHR.AmazonMangroves_ZH-CN2154443859_UHD.jpg)
+
 2022-09-24 | [阿卡迪亚国家公园上空的银河系，美国缅因州 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_UHD.jpg)
 
 2022-09-23 | [最后一美元公路旁的白杨树，科罗拉多州特鲁莱德市附近 (© Grant Ordelheide/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LastDollarRoad_ZH-CN1462265798_UHD.jpg)
