@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-25 | [Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg)
+
 2022-09-24 | [Golden jellyfish in Jellyfish Lake on the island of Eil Malk, Palau (© Nature Picture Library/Alamy)](https://www.bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg)
 
 2022-09-23 | [The aspen canopy along the Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg)
