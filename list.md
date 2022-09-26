@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-27 | [黄石国家公园里的上间歇泉盆地，美国怀俄明州 (© Ray Urner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.YellowstoneUGB_ZH-CN2518690319_UHD.jpg)
+
 2022-09-26 | [两头穿越苏西特纳河的驯鹿，美国阿拉斯加 (© Tim Plowden/Alamy)](https://www.bing.com/th?id=OHR.SusitnaRiver_ZH-CN2317772890_UHD.jpg)
 
 2022-09-25 | [亚马逊河鸟瞰图，巴西 (© Curioso.Photography/Shutterstock)](https://www.bing.com/th?id=OHR.AmazonMangroves_ZH-CN2154443859_UHD.jpg)
