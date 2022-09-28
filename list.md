@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-29 | [约翰斯顿峡谷，加拿大班夫国家公园 (© Jason Hatfield/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_UHD.jpg)
+
 2022-09-28 | [卡伯特镇的福斯特廊桥，美国佛蒙特州 (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_UHD.jpg)
 
 2022-09-27 | [黄石国家公园里的上间歇泉盆地，美国怀俄明州 (© Ray Urner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.YellowstoneUGB_ZH-CN2518690319_UHD.jpg)
