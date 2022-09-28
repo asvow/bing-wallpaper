@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-09-29 | [A. M. Foster Bridge in Cabot, Vermont (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg)
+
 2022-09-28 | [Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg)
 
 2022-09-27 | [Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](https://www.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg)
