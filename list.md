@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-01 | [山上的日出，河北蔚县 (© zhao zhenhao/Getty Images)](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_UHD.jpg)
+
 2022-09-30 | [在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures)](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg)
 
 2022-09-29 | [约翰斯顿峡谷，加拿大班夫国家公园 (© Jason Hatfield/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_UHD.jpg)
