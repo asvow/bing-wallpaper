@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-02 | [倒映在湖中的勃朗峰山脉，法国霞慕尼市 (© Stefan Huwiler/Alamy)](https://www.bing.com/th?id=OHR.LacChesserys_ZH-CN4136691056_UHD.jpg)
+
 2022-10-01 | [山上的日出，河北蔚县 (© zhao zhenhao/Getty Images)](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_UHD.jpg)
 
 2022-09-30 | [在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures)](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg)
