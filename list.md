@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-05 | [加勒比海红鹳，里奥拉加托斯自然保护区，墨西哥 (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.FlamingoTeacher_ZH-CN5688509752_UHD.jpg)
+
 2022-10-04 | [黄山的日出，中国 (© zhouyousifang/Getty Images)](https://www.bing.com/th?id=OHR.ChongyangFestival_ZH-CN5260976551_UHD.jpg)
 
 2022-10-03 | [仙女谷，苏格兰斯凯岛 (© e55evu/Getty Images)](https://www.bing.com/th?id=OHR.FairyGlen_ZH-CN4521633106_UHD.jpg)
