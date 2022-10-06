@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-07 | [温德米尔湖的风景，坎布里亚湖区，英格兰 (© Chris Warren/eStock Photo)](https://www.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_UHD.jpg)
+
 undefined | [undefined](undefined)
 
 2022-10-06 | [巴斯克海岸世界地质公园的比斯开湾，西班牙 (© Olimpio Fantuz/eStock Photo)](https://www.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_UHD.jpg)
