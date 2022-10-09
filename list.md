@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-10 | [瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省 (© wmaster890/Getty Images)](https://www.bing.com/th?id=OHR.ValvestinoDam_ZH-CN8397604653_UHD.jpg)
+
 2022-10-09 | [楚科奇海的浮游植物水华，美国阿拉斯加州海岸附近 (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://www.bing.com/th?id=OHR.ChukchiSea_ZH-CN7218471261_UHD.jpg)
 
 2022-10-08 | [佛得角附近大西洋中的玻璃章鱼 (© Solvin Zankl/Minden Pictures)](https://www.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_UHD.jpg)
