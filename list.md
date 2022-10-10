@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-11 | [带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures)](https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_UHD.jpg)
+
 2022-10-10 | [瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省 (© wmaster890/Getty Images)](https://www.bing.com/th?id=OHR.ValvestinoDam_ZH-CN8397604653_UHD.jpg)
 
 2022-10-09 | [楚科奇海的浮游植物水华，美国阿拉斯加州海岸附近 (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://www.bing.com/th?id=OHR.ChukchiSea_ZH-CN7218471261_UHD.jpg)
