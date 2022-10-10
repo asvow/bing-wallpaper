@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-11 | [The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](https://www.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg)
+
 2022-10-10 | [Phytoplankton blooming in the Chukchi Sea off the coast of Alaska (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://www.bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg)
 
 2022-10-09 | [Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](https://www.bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg)
