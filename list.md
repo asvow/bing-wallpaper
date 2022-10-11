@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-12 | [蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地 (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_UHD.jpg)
+
 2022-10-11 | [带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures)](https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_UHD.jpg)
 
 2022-10-10 | [瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省 (© wmaster890/Getty Images)](https://www.bing.com/th?id=OHR.ValvestinoDam_ZH-CN8397604653_UHD.jpg)
