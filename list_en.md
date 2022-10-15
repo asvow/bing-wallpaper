@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-16 | [Naqsh-e Rostam archaeological site near Persepolis, Iran (© mshirani/Shutterstock)](https://www.bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg)
+
 2022-10-15 | [Waterfall on the Río Arazas in Ordesa y Monte Perdido National Park, Pyrenees, Spain (© David Santiago Garcia/Cavan Images)](https://www.bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg)
 
 2022-10-14 | [Bull and female moose in Denali National Park, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg)
