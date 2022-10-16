@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-17 | [Prince Christian Sound in southern Greenland (© Posnov/Getty Images)](https://www.bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg)
+
 2022-10-16 | [Naqsh-e Rostam archaeological site near Persepolis, Iran (© mshirani/Shutterstock)](https://www.bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg)
 
 2022-10-15 | [Waterfall on the Río Arazas in Ordesa y Monte Perdido National Park, Pyrenees, Spain (© David Santiago Garcia/Cavan Images)](https://www.bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg)
