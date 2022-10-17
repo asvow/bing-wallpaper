@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-18 | [Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_UHD.jpg)
+
 2022-10-17 | [捷克共和国波希米亚-摩拉维亚高地的长耳鸮 (© Ondrej Prosicky/Alamy)](https://www.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_UHD.jpg)
 
 2022-10-16 | [克里斯蒂安王子之声，格陵兰岛 (© Posnov/Getty Images)](https://www.bing.com/th?id=OHR.PrinceChristianSound_ZH-CN0274463143_UHD.jpg)
