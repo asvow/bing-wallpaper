@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-18 | [Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy)](https://www.bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg)
+
 2022-10-17 | [Prince Christian Sound in southern Greenland (© Posnov/Getty Images)](https://www.bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg)
 
 2022-10-16 | [Naqsh-e Rostam archaeological site near Persepolis, Iran (© mshirani/Shutterstock)](https://www.bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg)
