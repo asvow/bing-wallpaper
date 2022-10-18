@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-19 | [秋天的图林根森林与瓦特堡城堡，德国 (© ezypix/Getty Images)](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_UHD.jpg)
+
 2022-10-18 | [Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_UHD.jpg)
 
 2022-10-17 | [捷克共和国波希米亚-摩拉维亚高地的长耳鸮 (© Ondrej Prosicky/Alamy)](https://www.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_UHD.jpg)
