@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-22 | [中国桂林漓江国家公园的喀斯特山脉 (© Sean Pavone/Alamy)](https://www.bing.com/th?id=OHR.KarstMountains_ZH-CN4719178982_UHD.jpg)
+
 2022-10-21 | [秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg)
 
 2022-10-20 | [塔拉曼卡旧港的霍氏树懒母子，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_UHD.jpg)
