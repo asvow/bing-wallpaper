@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-23 | [疣鼻天鹅，荷兰瓦尔肯霍斯特自然保护区 (© David Pattyn/Minden Pictures)](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_UHD.jpg)
+
 2022-10-22 | [中国桂林漓江国家公园的喀斯特山脉 (© Sean Pavone/Alamy)](https://www.bing.com/th?id=OHR.KarstMountains_ZH-CN4719178982_UHD.jpg)
 
 2022-10-21 | [秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg)
