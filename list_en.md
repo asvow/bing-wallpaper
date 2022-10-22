@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-23 | [Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy)](https://www.bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg)
+
 2022-10-22 | [Cypress trees in autumn, Georgia (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg)
 
 2022-10-21 | [Hoffmann's two-toed sloth mother and young, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg)
