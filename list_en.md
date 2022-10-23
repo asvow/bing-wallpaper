@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-24 | [Mute swan in Valkenhorst Nature Reserve, near Valkenswaard, the Netherlands (© David Pattyn/Minden Pictures)](https://www.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg)
+
 2022-10-23 | [Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy)](https://www.bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg)
 
 2022-10-22 | [Cypress trees in autumn, Georgia (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg)
