@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-25 | [怪物公园里的奥库斯雕像, 意大利博马尔佐花园 (© Scott Wilson/Alamy)](https://www.bing.com/th?id=OHR.OrcusMouth_ZH-CN7303142999_UHD.jpg)
+
 2022-10-24 | [玛利恩堡，德国莱茵兰-普法尔茨州采尔县附近 (© Eiben, Hans Georg/Alamy)](https://www.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_UHD.jpg)
 
 2022-10-23 | [疣鼻天鹅，荷兰瓦尔肯霍斯特自然保护区 (© David Pattyn/Minden Pictures)](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_UHD.jpg)
