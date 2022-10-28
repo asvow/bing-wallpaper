@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-29 | [海洋天使 (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_UHD.jpg)
+
 2022-10-28 | [洛桑日内瓦湖上空的暴风雨，瑞典 (© Suradech Singhanat/Shutterstock)](https://www.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_UHD.jpg)
 
 2022-10-27 | [意大利威尼斯的叹息桥 (© Doug Pearson/Alamy)](https://www.bing.com/th?id=OHR.BridgeofSighs_ZH-CN5414607871_UHD.jpg)
