@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-30 | [Sea angel (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg)
+
 2022-10-29 | [Stormy sky over Lake Geneva in Lausanne, Switzerland (© Suradech Singhanat/Shutterstock)](https://www.bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg)
 
 2022-10-28 | [Bridge of Sighs in Venice, Italy (© Doug Pearson/Alamy)](https://www.bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg)
