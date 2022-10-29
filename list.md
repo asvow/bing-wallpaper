@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-10-30 | [哈德逊湾边缘的北极熊，加拿大 (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_UHD.jpg)
+
 2022-10-29 | [海洋天使 (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_UHD.jpg)
 
 2022-10-28 | [洛桑日内瓦湖上空的暴风雨，瑞典 (© Suradech Singhanat/Shutterstock)](https://www.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_UHD.jpg)
