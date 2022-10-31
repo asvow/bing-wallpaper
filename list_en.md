@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-01 | [Trees in Wychwood Forest near Chipping Norton, Oxfordshire, England (© Frederick Ardley/Getty Images)](https://www.bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg)
+
 2022-10-31 | [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg)
 
 2022-10-30 | [Sea angel (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg)
