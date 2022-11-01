@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-02 | [慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock)](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_UHD.jpg)
+
 2022-11-01 | [神秘森林里木桌上的两个微笑的万圣节南瓜 (© sandsun/Getty Images)](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_UHD.jpg)
 
 2022-10-31 | [牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images)](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg)
