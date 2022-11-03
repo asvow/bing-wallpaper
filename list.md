@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-04 | [班夫国家公园的沛托湖，加拿大艾伯塔省 (© Ben Girardi/Cavan Images)](https://www.bing.com/th?id=OHR.PeytoIce_ZH-CN7517633327_UHD.jpg)
+
 2022-11-03 | [乞力马扎罗山和非洲水牛，肯尼亚 (© RealityImages/Shutterstock)](https://www.bing.com/th?id=OHR.AmboseliBioshere_ZH-CN7220940943_UHD.jpg)
 
 2022-11-02 | [慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock)](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_UHD.jpg)
