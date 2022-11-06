@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-07 | [Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge (© David Madison/Getty Images)](https://www.bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg)
+
 2022-11-06 | [Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)](https://www.bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg)
 
 2022-11-05 | [Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](https://www.bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg)
