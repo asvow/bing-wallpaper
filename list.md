@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-07 | [庐山冬季美景，中国江西省 (© silkwayrain/Getty Images)](https://www.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_UHD.jpg)
+
 2022-11-06 | [1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥 (© David Madison/Getty Images)](https://www.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_UHD.jpg)
 
 2022-11-05 | [阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰 (© Fortunato Gatto/eStock Photo)](https://www.bing.com/th?id=OHR.Trossachs_ZH-CN9299955040_UHD.jpg)
