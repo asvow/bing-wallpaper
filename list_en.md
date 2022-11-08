@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-09 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](https://www.bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg)
+
 2022-11-08 | [Lunar eclipse above Mount Crested Butte, Colorado (© Mengzhonghua Photography/Getty Images)](https://www.bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg)
 
 2022-11-07 | [Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge (© David Madison/Getty Images)](https://www.bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg)
