@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-09 | [萨塞克斯郡的西欧刺猬，英国 (© Jules Cox/Minden Pictures)](https://www.bing.com/th?id=OHR.HedgehogNest_ZH-CN0781850458_UHD.jpg)
+
 2022-11-08 | [清迈易鹏节升起的天灯，泰国 (© Suttipong Sutiratanachai/Getty Images)](https://www.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_UHD.jpg)
 
 2022-11-07 | [庐山冬季美景，中国江西省 (© silkwayrain/Getty Images)](https://www.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_UHD.jpg)
