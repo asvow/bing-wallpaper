@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-13 | [Bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures)](https://www.bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg)
+
 2022-11-12 | [The Vietnam Women's Memorial in Washington, DC (© Cvandyke/Shutterstock)](https://www.bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg)
 
 2022-11-11 | [Rock formations in Badlands National Park during a lightning storm, South Dakota (© DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.BadLightning_EN-US0865590962_UHD.jpg)
