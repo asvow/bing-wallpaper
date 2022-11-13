@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-14 | [哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊 (© Massimo Ripani/eStock Photo)](https://www.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_UHD.jpg)
+
 2022-11-13 | [伊萨尔河鸟瞰图，德国伦格里斯 (© Martin Siepmann/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_UHD.jpg)
 
 2022-11-12 | [阿拉斯加州海恩斯附近的秃鹰群，美国 (© Marion Vollborn/Minden Pictures)](https://www.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_UHD.jpg)
