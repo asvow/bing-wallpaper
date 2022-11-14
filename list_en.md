@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-15 | [Ruins of the medieval castle of the Knights of St. John above the village of Chorio, Halki Island, Greece (© Massimo Ripani/eStock Photo)](https://www.bing.com/th?id=OHR.SanGiovanni_EN-US1675492729_UHD.jpg)
+
 2022-11-14 | [The Punch Bowl on the River Quoich in the Cairngorms, Aberdeenshire, Scotland (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.PunchBowl_EN-US0351920520_UHD.jpg)
 
 2022-11-13 | [Bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures)](https://www.bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg)
