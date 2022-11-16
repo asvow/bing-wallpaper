@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-17 | [威拉米特国家森林麦肯齐河步道上的桥，美国 (© Don Paulson/Danita Delimont)](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_UHD.jpg)
+
 2022-11-16 | [梅萨维德国家公园的悬崖宫，美国 (© Brad McGinley Photography/Getty Images)](https://www.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_UHD.jpg)
 
 2022-11-15 | [北美水獭在阿卡迪亚国家公园游泳，美国 (© George Sanker/Minden Pictures)](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_UHD.jpg)
