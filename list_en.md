@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-18 | [Bridge on the McKenzie River Trail, Willamette National Forest, Oregon (© Don Paulson/Danita Delimont)](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_EN-US2967958579_UHD.jpg)
+
 2022-11-17 | [Cliff dwellings in Mesa Verde National Park, Colorado (© Brad McGinley Photography/Getty Images)](https://www.bing.com/th?id=OHR.Unesco50_EN-US1537915198_UHD.jpg)
 
 2022-11-16 | [North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](https://www.bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg)
