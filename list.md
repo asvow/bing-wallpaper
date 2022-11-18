@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-19 | [犹他州锡安国家公园的维尔京河，美国 (© Jonathan Ross/Getty)](https://www.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_UHD.jpg)
+
 2022-11-18 | [菲斯皇宫的大门，摩洛哥 (© Adam Smigielski/Getty Images)](https://www.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg)
 
 2022-11-17 | [威拉米特国家森林麦肯齐河步道上的桥，美国 (© Don Paulson/Danita Delimont)](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_UHD.jpg)
