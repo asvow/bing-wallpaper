@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-20 | [船底星云中的宇宙悬崖 (© NASA, ESA, CSA, and STScI)](https://www.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg)
+
 2022-11-19 | [犹他州锡安国家公园的维尔京河，美国 (© Jonathan Ross/Getty)](https://www.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_UHD.jpg)
 
 2022-11-18 | [菲斯皇宫的大门，摩洛哥 (© Adam Smigielski/Getty Images)](https://www.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg)
