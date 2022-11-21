@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-22 | [阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰 (© Edwin Giesbers/Minden Pictures)](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg)
+
 2022-11-21 | [伊索拉贝拉岛，意大利马焦雷湖 (© Massimo Ripani/eStock)](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg)
 
 2022-11-20 | [船底星云中的宇宙悬崖 (© NASA, ESA, CSA, and STScI)](https://www.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg)
