@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-25 | [Cranberry bog (© SHSPhotography/Getty Images)](https://www.bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg)
+
 2022-11-24 | [Sunflower (© Dileep Chandran/Alamy)](https://www.bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg)
 
 2022-11-23 | [Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures)](https://www.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg)
