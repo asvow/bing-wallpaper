@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-11-29 | [正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国 (© Imagebroker/Alamy)](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg)
+
 2022-11-28 | [火星（© NASA/Alamy）](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg)
 
 2022-11-27 | [一片飘落在龙虾爪瓣上的号角树树叶，墨西哥 (© Gerry Ellis/Minden Pictures)](https://www.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_UHD.jpg)
