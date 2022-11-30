@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-01 | [天堂湾，南极洲 (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5719164468_UHD.jpg)
+
 2022-11-30 | [罗维尼老城，克罗地亚 (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg)
 
 2022-11-29 | [正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国 (© Imagebroker/Alamy)](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg)
