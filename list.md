@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-02 | [特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国 (© Dawn Wilson Photography/Getty Images)](https://www.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_UHD.jpg)
+
 2022-12-01 | [天堂湾，南极洲 (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5719164468_UHD.jpg)
 
 2022-11-30 | [罗维尼老城，克罗地亚 (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg)
