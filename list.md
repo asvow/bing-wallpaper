@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-07 | [贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大 (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_UHD.jpg)
+
 2022-12-06 | [大沼泽国家公园里的一只大白鹭，美国佛罗里达州 (© Troy Harrison/Getty Images)](https://www.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_UHD.jpg)
 
 2022-12-05 | [古瓦哈提的竹子，印度阿萨姆邦 (© Page Bazar/500px/Getty Images)](https://www.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg)
