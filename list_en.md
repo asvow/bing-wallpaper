@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-09 | [The Cathedral of Florence, Italy (© Alexander Baert/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.FlorenceAerial_EN-US1751882328_UHD.jpg)
+
 2022-12-08 | [Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii (© Riddhish Chakraborty/Getty Images)](https://www.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg)
 
 2022-12-07 | [A great egret in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://www.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg)
