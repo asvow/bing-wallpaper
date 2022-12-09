@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-10 | [玻利维亚的乌尤尼盐沼 (© Theo Allofs/Minden Pictures)](https://www.bing.com/th?id=OHR.SaltDesert_ZH-CN4728398785_UHD.jpg)
+
 2022-12-09 | [多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威 (© Robert Haasmann/Minden Pictures)](https://www.bing.com/th?id=OHR.NorwayMuskox_ZH-CN6137934745_UHD.jpg)
 
 2022-12-08 | [多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威 (© Robert Haasmann/Minden Pictures)](https://www.bing.com/th?id=OHR.WistmansWood_ZH-CN4453301808_UHD.jpg)
