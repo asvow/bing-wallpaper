@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-13 | [Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg)
+
 2022-12-12 | [Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg)
 
 2022-12-11 | [Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](https://www.bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg)
