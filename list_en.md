@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-14 | [Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](https://www.bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg)
+
 2022-12-13 | [Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg)
 
 2022-12-12 | [Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg)
