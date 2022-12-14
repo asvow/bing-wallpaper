@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-15 | [Great horned owls and a gilded flicker on a saguaro cactus in the Sonoran Desert, Arizona (© John Cancalosi/Minden Pictures)](https://www.bing.com/th?id=OHR.GildedFlicker_EN-US2911251361_UHD.jpg)
+
 2022-12-14 | [Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](https://www.bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg)
 
 2022-12-13 | [Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg)
