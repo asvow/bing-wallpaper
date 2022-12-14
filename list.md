@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-15 | [博罗韦茨，保加利亚 (© Grigor Ivanov/Cavan Images)](https://www.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_UHD.jpg)
+
 2022-12-14 | [大帕拉迪索国家公园，意大利 (© agustavop/Getty Images)](https://www.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_UHD.jpg)
 
 2022-12-13 | [哈尔施塔特，奥地利 (© Jon Arnold Images Ltd/Alamy)](https://www.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_UHD.jpg)
