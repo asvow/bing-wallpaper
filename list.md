@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-18 | [迈阿密南海滩，美国佛罗里达州 (© Claudia Uripos/eStock Photo)](https://www.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_UHD.jpg)
+
 2022-12-17 | [冰川国家公园的山羊，美国蒙大拿州 (© Sumio Harada/Minden Pictures)](https://www.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_UHD.jpg)
 
 2022-12-16 | [杜德萨加尔瀑布，印度果阿 (© Lucky-photographer/Getty Images)](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_UHD.jpg)
