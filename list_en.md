@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-21 | [Christmas market at Belvedere in Vienna, Austria (© Diyana Dimitrova/Alamy)](https://www.bing.com/th?id=OHR.PalaceBelvedere_EN-US5817237970_UHD.jpg)
+
 2022-12-20 | [A northern cardinal perched in a common winterberry bush in Marion County, Illinois (© Richard and Susan Day/Danita Delimont)](https://www.bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg)
 
 2022-12-19 | [South Beach in Miami Beach, Florida (© Claudia Uripos/eStock Photo)](https://www.bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg)
