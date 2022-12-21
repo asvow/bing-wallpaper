@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-22 | [安纳西，法国上瓦萨省 (© Sabine Klein/Alamy)](https://www.bing.com/th?id=OHR.AnnecyXmas_ZH-CN2540694929_UHD.jpg)
+
 2022-12-21 | [多洛米蒂山脉安特莫亚湖上的日晕，意大利 (© Walter Donega/Getty Images)](https://www.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_UHD.jpg)
 
 2022-12-20 | [维也纳美景宫的圣诞市场，奥地利 (© Diyana Dimitrova/Alamy)](https://www.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_UHD.jpg)
