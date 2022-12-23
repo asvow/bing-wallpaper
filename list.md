@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-24 | [狍子，特伦蒂诺-上阿迪杰大区，意大利 (© Federica Cattaruzzi/eStock)](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_UHD.jpg)
+
 2022-12-23 | [南极洲的巴布亚企鹅 (© Nature Picture Library/Alamy)](https://www.bing.com/th?id=OHR.GentooGrievances_ZH-CN2875292726_UHD.jpg)
 
 2022-12-22 | [安纳西，法国上瓦萨省 (© Sabine Klein/Alamy)](https://www.bing.com/th?id=OHR.AnnecyXmas_ZH-CN2540694929_UHD.jpg)
