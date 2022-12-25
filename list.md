@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-26 | [贝弗利·韦斯特伍德，东约克郡，英格兰 (© Les Gibbon/Alamy)](https://www.bing.com/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_UHD.jpg)
+
 2022-12-25 | [黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省 (© VisualCommunications/Getty Images)](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_UHD.jpg)
 
 2022-12-24 | [狍子，特伦蒂诺-上阿迪杰大区，意大利 (© Federica Cattaruzzi/eStock)](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_UHD.jpg)
