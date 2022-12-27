@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-28 | [Blue Lagoon, Grindavík, Iceland (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg)
+
 2022-12-27 | [Beverley Westwood Common, East Yorkshire, England (© Les Gibbon/Alamy)](https://www.bing.com/th?id=OHR.BeverleyWestwood_EN-US6464100653_UHD.jpg)
 
 2022-12-26 | [Miniature holiday scene in Strasbourg, France (© Kavalenkava Volha/Alamy)](https://www.bing.com/th?id=OHR.ChristmasSouvenir_EN-US6355954352_UHD.jpg)
