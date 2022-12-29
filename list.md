@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2022-12-30 | [白沙漠中的岩石，埃及 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg)
+
 2022-12-29 | [斯托尔石山，天空之岛，苏格兰 (© Aliaume Chapelle/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg)
 
 2022-12-28 | [马洛亚，瑞士 (© Roberto Moiola/Getty)](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg)
