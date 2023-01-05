@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-06 | [英格兰湖区的Black Fell (© Daniel Kay/Shutterstock)](https://www.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_UHD.jpg)
+
 2023-01-05 | [白鼬 (Mustela erminea), 上巴伐利亚，德国 (© Konrad Wothe/Minden Pictures)](https://www.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_UHD.jpg)
 
 2023-01-04 | [从国际空间站看到的地球 (© JSC/NASA)](https://www.bing.com/th?id=OHR.Perihelion_ZH-CN8681537155_UHD.jpg)
