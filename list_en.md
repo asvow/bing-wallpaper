@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-11 | [Hummock ice on Lake Peipus in Estonia (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.HummockIce_EN-US4606231645_UHD.jpg)
+
 2023-01-10 | [Bison in Wind Cave National Park, South Dakota (© Charlie Summers/Minden Pictures)](https://www.bing.com/th?id=OHR.BisonWindCave_EN-US4537340482_UHD.jpg)
 
 2023-01-09 | [Breckenridge, Colorado (© Sean Pavone/Shutterstock)](https://www.bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg)
