@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-14 | [吃樱桃树枝的毛驴 (© Juniors Bildarchiv GmbH/Alamy)](https://www.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_UHD.jpg)
+
 2023-01-13 | [海峡群岛国家公园的巨藻，美国加利福尼亚州 (© Brandon Cole Images/Shutterstock)](https://www.bing.com/th?id=OHR.Pneumatocysts_ZH-CN5721988566_UHD.jpg)
 
 2023-01-12 | [博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔 (© Drone in Wonderland/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.RumeliHisari_ZH-CN0185820275_UHD.jpg)
