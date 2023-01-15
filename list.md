@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-16 | [麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省 (© Tom Mackie/plainpicture)](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_UHD.jpg)
+
 2023-01-15 | [横贯图尔库的奥拉河, 芬兰 (© Jarmo Piironen/Alamy)](https://www.bing.com/th?id=OHR.Turku_ZH-CN6008877545_UHD.jpg)
 
 2023-01-14 | [吃樱桃树枝的毛驴 (© Juniors Bildarchiv GmbH/Alamy)](https://www.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_UHD.jpg)
