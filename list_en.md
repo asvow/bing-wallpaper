@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-17 | [Inscription Wall at the Martin Luther King Jr. Memorial in Washington, DC (© Ken Howard/Alamy)](https://www.bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_UHD.jpg)
+
 2023-01-16 | [Aura River in Turku, Finland (© Jarmo Piironen/Alamy)](https://www.bing.com/th?id=OHR.Turku_EN-US1258814703_UHD.jpg)
 
 2023-01-15 | [Domestic donkey feeding on cherry twigs (© Juniors Bildarchiv GmbH/Alamy)](https://www.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg)
