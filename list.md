@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-20 | [王企鹅，福克兰群岛 (© Elmar Weiss/Getty Images)](https://www.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_UHD.jpg)
+
 2023-01-19 | [帕克城, 美国犹他州 (© Kruck20/Getty Images)](https://www.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_UHD.jpg)
 
 2023-01-18 | [白沙国家公园，美国新墨西哥州 (© Andrea Harrell/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.WhiteSands_ZH-CN6500188005_UHD.jpg)
