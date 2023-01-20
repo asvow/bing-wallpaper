@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-21 | [除夕夜的中国新年灯笼 (© Toa55/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve2023_ZH-CN7188893388_UHD.jpg)
+
 2023-01-20 | [王企鹅，福克兰群岛 (© Elmar Weiss/Getty Images)](https://www.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_UHD.jpg)
 
 2023-01-19 | [帕克城, 美国犹他州 (© Kruck20/Getty Images)](https://www.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_UHD.jpg)
