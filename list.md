@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-23 | [复活节岛上的摩艾石像，智利 (© Karine Aigner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_UHD.jpg)
+
 2023-01-22 | [春节的桃花和红灯笼 (© David Ng+EyeEm/Getty Images)](https://www.bing.com/th?id=OHR.ChineseSpringFestival2023_ZH-CN7281854882_UHD.jpg)
 
 2023-01-21 | [除夕夜的中国新年灯笼 (© Toa55/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve2023_ZH-CN7188893388_UHD.jpg)
