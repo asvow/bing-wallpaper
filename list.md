@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-26 | [天门洞，湖南天门山国家森林公园，中国 (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_UHD.jpg)
+
 2023-01-25 | [位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰 (© Dennis Barnes/Getty Images)](https://www.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_UHD.jpg)
 
 2023-01-24 | [多洛米蒂山谷中的科莱圣卢恰小镇，意大利 (© mauritius images GmbH/Alamy)](https://www.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_UHD.jpg)
