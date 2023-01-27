@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-28 | [Red mangrove tree seedlings in Guanahacabibes National Park, Cuba (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg)
+
 2023-01-27 | [Heaven's Gate Cave in Tianmen Mountain National Park, China (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg)
 
 2023-01-26 | [Statue of Robert Burns in the Birks of Aberfeldy, Perth and Kinross, Scotland (© Dennis Barnes/Getty Images)](https://www.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg)
