@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-01-30 | [卡纳塔克邦的纳加尔霍雷国家公园，印度 (© Vivek BR/Shutterstock)](https://www.bing.com/th?id=OHR.NagarholeNationalPark_ZH-CN2550578922_UHD.jpg)
+
 2023-01-29 | [埃塞克斯的乌鸫，英国 (© Bill Coster/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BlackbirdDay_ZH-CN2291101162_UHD.jpg)
 
 2023-01-28 | [从国际空间站看到的巴哈马周围的蓝绿色水域 (© NASA)](https://www.bing.com/th?id=OHR.BlueBahamas_ZH-CN2083290847_UHD.jpg)
