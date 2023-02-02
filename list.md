@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-02-03 | [费尔蒙芳堤娜城堡酒店，魁北克省，加拿大 (© Romiana Lee/Shutterstock)](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_UHD.jpg)
+
 2023-02-02 | [高地陶恩国家公园内的高山土拨鼠，奥地利 (© Michaela Walch/Alamy)](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_UHD.jpg)
 
 2023-02-01 | [皮埃尔丰城堡，皮卡第大区，法国 (© Hemis/Alamy)](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_UHD.jpg)
