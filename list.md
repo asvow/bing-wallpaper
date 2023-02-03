@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-02-04 | [永福樱花园，福建省龙岩市, 中国 (© SEN LI/Getty Images)](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_UHD.jpg)
+
 2023-02-03 | [费尔蒙芳堤娜城堡酒店，魁北克省，加拿大 (© Romiana Lee/Shutterstock)](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_UHD.jpg)
 
 2023-02-02 | [高地陶恩国家公园内的高山土拨鼠，奥地利 (© Michaela Walch/Alamy)](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_UHD.jpg)
