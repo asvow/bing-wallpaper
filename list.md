@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-02-06 | [峡湾国家公园，新西兰南岛 (© WitR/Adobe Stock)](https://www.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_UHD.jpg)
+
 2023-02-05 | [毛茸茸又可爱的山兔 (© Ben Hall/Minden Pictures)](https://www.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_UHD.jpg)
 
 2023-02-04 | [永福樱花园，福建省龙岩市, 中国 (© SEN LI/Getty Images)](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_UHD.jpg)
