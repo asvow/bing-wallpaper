@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-02-07 | [拉布罗小镇，列蒂省，意大利 (© Marco Ilari/Shutterstock)](https://www.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_UHD.jpg)
+
 2023-02-06 | [峡湾国家公园，新西兰南岛 (© WitR/Adobe Stock)](https://www.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_UHD.jpg)
 
 2023-02-05 | [毛茸茸又可爱的山兔 (© Ben Hall/Minden Pictures)](https://www.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_UHD.jpg)
