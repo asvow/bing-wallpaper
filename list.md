@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-02-11 | [死亡谷扎布里斯基角上空的银河，美国加利福尼亚州 (© Matt Anderson Photography/Getty Images)](https://www.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_UHD.jpg)
+
 2023-02-10 | [埃庇道鲁斯剧场, 希腊阿尔戈利斯省 (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_UHD.jpg)
 
 2023-02-09 | [下羚羊峡谷，亚利桑那州，美国 (© AZCat/Getty Images)](https://www.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_UHD.jpg)
