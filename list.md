@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-02-15 | [河马妈妈和宝宝，乔贝国家公园，博茨瓦纳 (© jacobeukman/Getty Images)](https://www.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_UHD.jpg)
+
 2023-02-14 | [日本北海道小樽雪灯之路的冰屋 (© T Photography/Shutterstock)](https://www.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_UHD.jpg)
 
 2023-02-13 | [阿卡切斯瞭望台，月亮谷，智利 (© Ignacio Palacios/Getty Images)](https://www.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_UHD.jpg)
