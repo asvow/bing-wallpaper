@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-02-19 | [毛伊岛附近的座头鲸，美国夏威夷 (© Flip Nicklin/Minden Pictures)](https://www.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg)
+
 2023-02-18 | [埃本冰洞，密歇根上半岛，美国 (© Dean Pennala/Shutterstock)](https://www.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_UHD.jpg)
 
 2023-02-17 | [栖息在红袋鼠爪枝干上的艾氏煌蜂鸟 (© GypsyPictureShow/Shutterstock)](https://www.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_UHD.jpg)
