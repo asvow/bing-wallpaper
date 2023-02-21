@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-02-22 | [French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg)
+
 2023-02-21 | [Washington Monument and Capitol Building on the National Mall, Washington, DC (© AevanStock/Shutterstock)](https://www.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg)
 
 2023-02-20 | [Humpback whales, Maui, Hawaii (© Flip Nicklin/Minden Pictures)](https://www.bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg)
