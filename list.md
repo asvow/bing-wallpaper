@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-02-26 | [亚马孙雨林的树冠探险，秘鲁 (© Pere Rubi/Getty Images)](https://www.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_UHD.jpg)
+
 2023-02-25 | [布莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)](https://www.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg)
 
 2023-02-24 | [里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures)](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_UHD.jpg)
