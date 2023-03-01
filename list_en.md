@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-02 | [Portrait Monument of women's suffrage pioneers, Capitol Rotunda, Washington, DC (© Andrew Harrer/Bloomberg/Getty Images)](https://www.bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg)
+
 2023-03-01 | [Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](https://www.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg)
 
 2023-02-28 | [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg)
