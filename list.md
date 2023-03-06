@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-07 | [梯田鸟瞰图，元阳，中国 (© AlexGcs/Getty Images)](https://www.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_UHD.jpg)
+
 2023-03-06 | [站在自己领域的冰岛马，冰岛 (© Rodrigo Lourezini/Shutterstock)](https://www.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_UHD.jpg)
 
 2023-03-05 | [袋鼠妈妈和宝宝 (© Belle Ciezak/Shutterstock)](https://www.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_UHD.jpg)
