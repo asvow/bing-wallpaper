@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-11 | [马萨诸塞州格洛斯特的沼泽地 (© Thomas H. Mitchell/Getty Images)](https://www.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_UHD.jpg)
+
 2023-03-10 | [埃代尔，峰区，英国 (© John Finney/Getty Images)](https://www.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_UHD.jpg)
 
 2023-03-09 | [威美亚峡谷和怀波奥瀑布上空的彩虹,考艾岛，夏威夷，美国 (© Beverley Van Praagh/Getty Images)](https://www.bing.com/th?id=OHR.WaimeaRainbow_ZH-CN1127225170_UHD.jpg)
