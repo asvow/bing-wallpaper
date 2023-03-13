@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-14 | [阿伊纳帕植物园灌木丛迷宫，塞浦路斯 (© Tpopova/Getty Images)](https://www.bing.com/th?id=OHR.CyprusMaze_ZH-CN9448060895_UHD.jpg)
+
 2023-03-13 | [正在睡觉的母狮, 塞伦盖蒂国家公园，坦桑利亚 (© Cavan Images/Shutterstock)](https://www.bing.com/th?id=OHR.LionessesNap_ZH-CN9240393299_UHD.jpg)
 
 2023-03-12 | [南唐斯国家公园的绵羊，东萨塞克斯郡，英国 (© Slawek Staszczuk/Alamy)](https://www.bing.com/th?id=OHR.SouthDownsSheep_ZH-CN8986424729_UHD.jpg)
