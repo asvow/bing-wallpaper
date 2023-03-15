@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-16 | [成都大熊猫繁育研究基地，中国 (© Jim Zuckerman/Jaynes Gallery/DanitaDelimont)](https://www.bing.com/th?id=OHR.ChengduPanda_ZH-CN0043208941_UHD.jpg)
+
 2023-03-15 | [阿圭罗村庄，西班牙 (© Andrea Comi/Getty Images)](https://www.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_UHD.jpg)
 
 2023-03-14 | [阿伊纳帕植物园灌木丛迷宫，塞浦路斯 (© Tpopova/Getty Images)](https://www.bing.com/th?id=OHR.CyprusMaze_ZH-CN9448060895_UHD.jpg)
