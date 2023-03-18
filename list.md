@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-19 | [仓鸮，英格兰 (© Ondrej Prosicky/Getty Images)](https://www.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_UHD.jpg)
+
 2023-03-18 | [甘博阿陨击坑，火星 (© NASA/JPL-Caltech/University of Arizona)](https://www.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_UHD.jpg)
 
 2023-03-17 | [ballyvooney海岸，科佩海岸地质公园，爱尔兰 (© Andrea Pistolesi/Getty Images)](https://www.bing.com/th?id=OHR.BallyvooneyCove_ZH-CN0284564457_UHD.jpg)
