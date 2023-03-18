@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-19 | [Gamboa Crater, Mars (© NASA/JPL-Caltech/University of Arizona)](https://www.bing.com/th?id=OHR.MarsTars_EN-US7511744420_UHD.jpg)
+
 2023-03-18 | [Ballyvooney Cove, Copper Coast Geopark, County Waterford, Ireland (© Andrea Pistolesi/Getty Images)](https://www.bing.com/th?id=OHR.BallyvooneyCove_EN-US7329921498_UHD.jpg)
 
 2023-03-17 | [Giant panda at Chengdu Panda Base, China (© Jim Zuckerman/Jaynes Gallery/DanitaDelimont)](https://www.bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg)
