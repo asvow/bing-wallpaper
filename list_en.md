@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-23 | [Lake Powell on the Colorado River (© Peter Schaefer/Alamy)](https://www.bing.com/th?id=OHR.LakePowellAerial_EN-US5762979140_UHD.jpg)
+
 2023-03-22 | [Colorful pastel chalk (© Stephen Shepherd/plainpicture)](https://www.bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg)
 
 2023-03-21 | [Crocus flowers (© Raimund Linke/Getty Images)](https://www.bing.com/th?id=OHR.PurpleCrocus_EN-US4432411089_UHD.jpg)
