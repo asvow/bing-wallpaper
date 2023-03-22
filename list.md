@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-23 | [杜费里峡谷，上萨瓦省，法国 (© Jean-Philippe Delobelle/Biosphoto/Alamy)](https://www.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_UHD.jpg)
+
 2023-03-22 | [鲍威尔湖，美国 (© Peter Schaefer/Alamy)](https://www.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_UHD.jpg)
 
 2023-03-21 | [彩色粉笔 (© Stephen Shepherd/Plainpicture)](https://www.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_UHD.jpg)
