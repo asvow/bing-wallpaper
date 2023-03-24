@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-25 | [塞西尔布鲁尔楼梯，伦敦，英国 (© Yiran An/Getty Images)](https://www.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_UHD.jpg)
+
 2023-03-24 | [盛开的野蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images)](https://www.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_UHD.jpg)
 
 2023-03-23 | [杜费里峡谷，上萨瓦省，法国 (© Jean-Philippe Delobelle/Biosphoto/Alamy)](https://www.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_UHD.jpg)
