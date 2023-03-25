@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-26 | [Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)](https://www.bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg)
+
 2023-03-25 | [Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty Images)](https://www.bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg)
 
 2023-03-24 | [Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)](https://www.bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg)
