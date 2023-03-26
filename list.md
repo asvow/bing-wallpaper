@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-03-27 | [云层中的纽约市天际线 (© Orbon Alija/Getty Images)](https://www.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_UHD.jpg)
+
 2023-03-26 | [安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国 (© Ron and Patty Thomas/Getty Images)](https://www.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_UHD.jpg)
 
 2023-03-25 | [塞西尔布鲁尔楼梯，伦敦，英国 (© Yiran An/Getty Images)](https://www.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_UHD.jpg)
