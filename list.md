@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-03 | [大岛上的霍瑙瑙国家历史公园，夏威夷 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_UHD.jpg)
+
 2023-04-02 | [爪哇岛东部的婆罗摩火山，印度尼西亚 (© Bento Fotography/Getty Images)](https://www.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_UHD.jpg)
 
 2023-04-01 | [爪哇树蛙 (© kuritafsheen/Getty Images)](https://www.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_UHD.jpg)
