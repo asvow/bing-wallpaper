@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-05 | [杭州西湖水墨意境般的风景，浙江省，中国 (© zhangshuang/Getty Images)](https://www.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg)
+
 2023-04-04 | [科尔多瓦的古罗马桥，西班牙 (© Jeremy Woodhouse/Getty Images)](https://www.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg)
 
 2023-04-03 | [大岛上的霍瑙瑙国家历史公园，夏威夷 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_UHD.jpg)
