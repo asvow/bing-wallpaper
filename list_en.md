@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-06 | [Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)](https://www.bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg)
+
 2023-04-05 | [Roman bridge, Córdoba, Spain (© Jeremy Woodhouse/Getty Images)](https://www.bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg)
 
 2023-04-04 | [Pu'uhonua o Hōnaunau National Historical Park, Big Island, Hawaii (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg)
