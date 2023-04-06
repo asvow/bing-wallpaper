@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-07 | [欧亚河狸宝宝，芬兰 (© Danny Green/Minden Pictures)](https://www.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_UHD.jpg)
+
 2023-04-06 | [月亮升起，图森，亚利桑那州，美国 (© Tim Murphy/Shutterstock)](https://www.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_UHD.jpg)
 
 2023-04-05 | [杭州西湖水墨意境般的风景，浙江省，中国 (© zhangshuang/Getty Images)](https://www.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg)
