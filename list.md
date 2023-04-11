@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-12 | [从国际空间站拍摄的地球 (© Tim Peake/ESA/NASA via Getty Images)](https://www.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_UHD.jpg)
+
 2023-04-11 | [哥伦比亚河峡谷，俄勒冈州，美国 (© Chase Dekker Wild-Life Images/Getty Images)](https://www.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_UHD.jpg)
 
 2023-04-10 | [安博塞利国家公园的大象，肯尼亚 (© Diana Robinson/Getty Images)](https://www.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_UHD.jpg)
