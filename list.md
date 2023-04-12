@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-13 | [斯诺登尼亚国家公园，威尔士，英国 (© Sebastian Wasek/eStock Photo)](https://www.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_UHD.jpg)
+
 2023-04-12 | [从国际空间站拍摄的地球 (© Tim Peake/ESA/NASA via Getty Images)](https://www.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_UHD.jpg)
 
 2023-04-11 | [哥伦比亚河峡谷，俄勒冈州，美国 (© Chase Dekker Wild-Life Images/Getty Images)](https://www.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_UHD.jpg)
