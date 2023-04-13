@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-14 | [红海星, 地中海 (© Hans Leijnse/Minden Pictures)](https://www.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_UHD.jpg)
+
 2023-04-13 | [斯诺登尼亚国家公园，威尔士，英国 (© Sebastian Wasek/eStock Photo)](https://www.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_UHD.jpg)
 
 2023-04-12 | [从国际空间站拍摄的地球 (© Tim Peake/ESA/NASA via Getty Images)](https://www.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_UHD.jpg)
