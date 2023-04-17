@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-18 | [马丘比丘，秘鲁 (© Dora Dalton/Getty Images)](https://www.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_UHD.jpg)
+
 2023-04-17 | [布列塔尼的小米努灯塔，法国 (© RooM the Agency/Alamy)](https://www.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_UHD.jpg)
 
 2023-04-16 | [阿德莱德国际风筝节，澳大利亚 (© Andrey Moisseyev/Alamy)](https://www.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_UHD.jpg)
