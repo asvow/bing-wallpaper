@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-19 | [Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://www.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg)
+
 2023-04-18 | ['One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England (© Guy Bell/Alamy Live News)](https://www.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg)
 
 2023-04-17 | [Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)](https://www.bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg)
