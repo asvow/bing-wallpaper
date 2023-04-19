@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-20 | [Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/Minden Pictures)](https://www.bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg)
+
 2023-04-19 | [Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://www.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg)
 
 2023-04-18 | ['One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England (© Guy Bell/Alamy Live News)](https://www.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg)
