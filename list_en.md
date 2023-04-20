@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-21 | [Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)](https://www.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg)
+
 2023-04-20 | [Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/Minden Pictures)](https://www.bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg)
 
 2023-04-19 | [Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://www.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg)
