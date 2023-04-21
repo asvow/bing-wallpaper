@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-22 | [Procida, Italy (© Sean Pavone/Shutterstock)](https://www.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg)
+
 2023-04-21 | [Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)](https://www.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg)
 
 2023-04-20 | [Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/Minden Pictures)](https://www.bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg)
