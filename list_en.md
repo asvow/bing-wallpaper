@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-24 | [Stuttgart Public Library, Germany (© Axel Brunst/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg)
+
 2023-04-23 | [Island fox in Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg)
 
 2023-04-22 | [Procida, Italy (© Sean Pavone/Shutterstock)](https://www.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg)
