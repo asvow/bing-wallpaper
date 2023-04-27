@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-28 | [优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州 (© Orbon Alija/Getty Images)](https://www.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_UHD.jpg)
+
 2023-04-27 | [南帕德里岛，美国得克萨斯州 (© Jeff R Clow/Getty Images)](https://www.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_UHD.jpg)
 
 2023-04-26 | [大雕鸮幼崽 (© Michael Morse/Getty Images)](https://www.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_UHD.jpg)
