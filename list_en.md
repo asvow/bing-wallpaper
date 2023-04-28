@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-04-29 | [Mariposa Grove of Giant Sequoias in Yosemite National Park, California (© Orbon Alija/Getty Images)](https://www.bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg)
+
 2023-04-28 | [South Padre Island, Texas (© Jeff R Clow/Getty Images)](https://www.bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg)
 
 2023-04-27 | [Great horned owl fledglings (© Michael Morse/Getty Images)](https://www.bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg)
