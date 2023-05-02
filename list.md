@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-03 | [马赛马拉的角马，肯尼亚 (© Matt Polski/Getty Images)](https://www.bing.com/th?id=OHR.ThreeWildebeest_ZH-CN0175563521_UHD.jpg)
+
 2023-05-02 | [阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，瑞士 (© Florin Baumann/Getty Images)](https://www.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_UHD.jpg)
 
 2023-05-01 | [横跨圣劳伦斯河下游的魁北克大桥，加拿大 (© Ronald Santerre/Getty Images)](https://www.bing.com/th?id=OHR.QuebecCityBridge_ZH-CN9618387961_UHD.jpg)
