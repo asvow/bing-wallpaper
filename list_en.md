@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-06 | [Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico (© Radius Images/Shutterstock)](https://www.bing.com/th?id=OHR.Popocatepetl_EN-US0582960818_UHD.jpg)
+
 2023-05-05 | [Mayan ruins in Tikal, Guatemala (© THP Creative/Getty Images)](https://www.bing.com/th?id=OHR.RebelBase_EN-US9162228478_UHD.jpg)
 
 2023-05-04 | [Wildebeests in the Maasai Mara National Reserve, Kenya (© Matt Polski/Getty Images)](https://www.bing.com/th?id=OHR.ThreeWildebeest_EN-US9446203427_UHD.jpg)
