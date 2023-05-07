@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-08 | [精致拱门，拱门国家公园，犹他州 (© Mark Brodkin Photography/Getty Images)](https://www.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_UHD.jpg)
+
 2023-05-07 | [海豹幼崽，伦迪岛，英国 (© Henley Spiers/Minden Pictures)](https://www.bing.com/th?id=OHR.SealLaughing_ZH-CN5809094643_UHD.jpg)
 
 2023-05-06 | [大麦和矢车菊, 诺德豪森, 德国 (© Mandy Tabatt/Getty Images)](https://www.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_UHD.jpg)
