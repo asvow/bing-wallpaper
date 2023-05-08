@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-09 | [卡韦希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame/Alamy)](https://www.bing.com/th?id=OHR.Atoll_ZH-CN9469093805_UHD.jpg)
+
 2023-05-08 | [精致拱门，拱门国家公园，犹他州 (© Mark Brodkin Photography/Getty Images)](https://www.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_UHD.jpg)
 
 2023-05-07 | [海豹幼崽，伦迪岛，英国 (© Henley Spiers/Minden Pictures)](https://www.bing.com/th?id=OHR.SealLaughing_ZH-CN5809094643_UHD.jpg)
