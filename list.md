@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-10 | [科尔杜昂灯塔，罗扬市，夏朗德省，法国 (© FRTimelapse/Getty Images)](https://www.bing.com/th?id=OHR.CordouanLighthouse_ZH-CN6267155218_UHD.jpg)
+
 2023-05-09 | [卡韦希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame/Alamy)](https://www.bing.com/th?id=OHR.Atoll_ZH-CN9469093805_UHD.jpg)
 
 2023-05-08 | [精致拱门，拱门国家公园，犹他州 (© Mark Brodkin Photography/Getty Images)](https://www.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_UHD.jpg)
