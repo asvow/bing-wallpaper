@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-12 | [紫色和蓝色的野生羽扇豆 (© silverjohn/Getty Images Plus)](https://www.bing.com/th?id=OHR.WildLupine_ZH-CN6623952879_UHD.jpg)
+
 2023-05-11 | [亨宁斯韦尔体育场，挪威 (© Morten Falch Sortland/Getty Images)](https://www.bing.com/th?id=OHR.FootballField_ZH-CN6439594719_UHD.jpg)
 
 2023-05-10 | [科尔杜昂灯塔，罗扬市，夏朗德省，法国 (© FRTimelapse/Getty Images)](https://www.bing.com/th?id=OHR.CordouanLighthouse_ZH-CN6267155218_UHD.jpg)
