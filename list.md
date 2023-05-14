@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-15 | [莫罗哈夫莱海滩和科罗拉达斯海滩，富埃特文图拉岛，西班牙加那利群岛 (© Gavin Hellier/Getty Images)](https://www.bing.com/th?id=OHR.MorroJable_ZH-CN7382027688_UHD.jpg)
+
 2023-05-14 | [白尾鹿母鹿和刚出生的小鹿，美国蒙大拿州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_ZH-CN6941501455_UHD.jpg)
 
 2023-05-13 | [曼海姆水塔，德国 (© tichr/Getty Images)](https://www.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_UHD.jpg)
