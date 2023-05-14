@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-15 | [White-tailed deer doe and newborn fawn, Montana (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_EN-US1668598337_UHD.jpg)
+
 2023-05-14 | [Pelicans at Sonny Bono Salton Sea National Wildlife Refuge, California (© David McNew/Getty Images)](https://www.bing.com/th?id=OHR.SonnyBonoPelicans_EN-US1524460012_UHD.jpg)
 
 2023-05-13 | [Wild lupines in bloom (© silverjohn/Getty Images Plus)](https://www.bing.com/th?id=OHR.WildLupine_EN-US1382733552_UHD.jpg)
