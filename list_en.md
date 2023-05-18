@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-19 | [Museo Soumaya, Plaza Carso, Mexico City, Mexico (© Juan Romero/Alamy)](https://www.bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg)
+
 2023-05-18 | [Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg)
 
 2023-05-17 | [Canoeing in Okefenokee National Wildlife Refuge, Georgia (© Brad Beck/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg)
