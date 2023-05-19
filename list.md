@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-20 | [谢菲尔德的欧洲蜜蜂, 英格兰 (© Deborah Vernon/Alamy)](https://www.bing.com/th?id=OHR.EuropeanHoneybee_ZH-CN5191293837_UHD.jpg)
+
 2023-05-19 | [苏门答腊犀牛，韦卡巴斯国家公园，印度尼西亚 (© Cyril Ruoso/Minden Pictures)](https://www.bing.com/th?id=OHR.SumatranRhino_ZH-CN4529744910_UHD.jpg)
 
 2023-05-18 | [拉曼加，穆尔西亚，西班牙 (© SOMATUSCANI/Getty Images)](https://www.bing.com/th?id=OHR.SardineBurial_ZH-CN9563091726_UHD.jpg)
