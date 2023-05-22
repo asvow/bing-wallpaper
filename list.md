@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-23 | [西部箱龟 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.WesternBoxTurtle_ZH-CN6203163704_UHD.jpg)
+
 2023-05-22 | [阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加 (© Kevin Wells/Getty Images)](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_UHD.jpg)
 
 2023-05-21 | [塞纳河，巴黎，法国 (© StockByM/Getty Images)](https://www.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_UHD.jpg)
