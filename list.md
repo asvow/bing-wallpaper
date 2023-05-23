@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-24 | [科孚岛旧城堡 (© Netfalls Remy Musser/Shutterstock)](https://www.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_UHD.jpg)
+
 2023-05-23 | [西部箱龟 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.WesternBoxTurtle_ZH-CN6203163704_UHD.jpg)
 
 2023-05-22 | [阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加 (© Kevin Wells/Getty Images)](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_UHD.jpg)
