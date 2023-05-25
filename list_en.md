@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-26 | [Saksun, Faroe Islands, Denmark (© miroslav_1/Getty Images)](https://www.bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg)
+
 2023-05-25 | [The Old Fortress of Corfu, Greece (© Netfalls Remy Musser/Shutterstock)](https://www.bing.com/th?id=OHR.OldFortress_EN-US3033490074_UHD.jpg)
 
 2023-05-24 | [Western box turtle (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg)
