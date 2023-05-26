@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-05-27 | [纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_UHD.jpg)
+
 2023-05-26 | [西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)](https://www.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_UHD.jpg)
 
 2023-05-25 | [法罗群岛，丹麦 (© miroslav_1/Getty Images)](https://www.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_UHD.jpg)
