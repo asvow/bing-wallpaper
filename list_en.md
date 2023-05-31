@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-01 | [Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg)
+
 2023-05-31 | [Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)](https://www.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg)
 
 2023-05-30 | [Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii (© Naomi Hayes of Island Memories Photography/Getty Images)](https://www.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg)
