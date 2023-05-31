@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-01 | [大堡礁的航拍图，澳大利亚 (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_UHD.jpg)
+
 2023-05-31 | [海獭宝宝，威廉王子湾，美国阿拉斯加州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_UHD.jpg)
 
 2023-05-30 | [埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥 (© ferrantraite/Getty Images)](https://www.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_UHD.jpg)
