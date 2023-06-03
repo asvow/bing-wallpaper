@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-04 | [怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国 (© Matt Anderson Photography/Getty Images)](https://www.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_UHD.jpg)
+
 2023-06-03 | [大峡谷国家公园的南凯巴布步道，亚利桑那州，美国 (© Roman Khomlyak/Getty Images)](https://www.bing.com/th?id=OHR.SouthKaibabTrail_ZH-CN1186135534_UHD.jpg)
 
 2023-06-02 | [沙丘中的南非剑羚，纳米比亚 (© Sergey Gorshkov/Alamy)](https://www.bing.com/th?id=OHR.GemsbokNamibia_ZH-CN0963988839_UHD.jpg)
