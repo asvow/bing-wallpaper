@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-06 | [The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](https://www.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_UHD.jpg)
+
 2023-06-05 | [辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)](https://www.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_UHD.jpg)
 
 2023-06-04 | [怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国 (© Matt Anderson Photography/Getty Images)](https://www.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_UHD.jpg)
