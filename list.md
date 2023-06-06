@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-07 | [普韦布洛·博尼托镇，查科文化国家历史公园，美国新墨西哥州 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.ChacoCulture_ZH-CN2098865361_UHD.jpg)
+
 2023-06-06 | [The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](https://www.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_UHD.jpg)
 
 2023-06-05 | [辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)](https://www.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_UHD.jpg)
