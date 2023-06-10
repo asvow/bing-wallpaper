@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-11 | [巨鹭，克鲁格国家公园，南非 (© Johan Swanepoel/Alamy)](https://www.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_UHD.jpg)
+
 2023-06-10 | [波尔图大教堂, 葡萄牙 (© Reinhard Schmid/Huber/eStock Photo)](https://www.bing.com/th?id=OHR.PortugalDay_ZH-CN2939429166_UHD.jpg)
 
 2023-06-09 | [卡帕多西亚, 土耳其 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.BalloonsTurkey_ZH-CN2791109350_UHD.jpg)
