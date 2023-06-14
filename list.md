@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-15 | [同步萤火虫，大烟山国家公园，田纳西州，美国 (© Floris Van Bruegel/Minden Pictures)](https://www.bing.com/th?id=OHR.SmokyFireflies_ZH-CN3840923626_UHD.jpg)
+
 2023-06-14 | [多瑙河畔的帕绍市，巴伐利亚，德国 (© Scott Wilson/Alamy)](https://www.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_UHD.jpg)
 
 2023-06-13 | [奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国 (© Emmer Photo/Alamy)](https://www.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_UHD.jpg)
