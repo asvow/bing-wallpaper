@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-16 | [Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)](https://www.bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg)
+
 2023-06-15 | [US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)](https://www.bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg)
 
 2023-06-14 | [Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)](https://www.bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg)
