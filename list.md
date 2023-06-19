@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-20 | [秃鹰，通加斯国家森林，阿拉斯加，美国 (© Jaynes Gallery/Shutterstock)](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_UHD.jpg)
+
 2023-06-19 | [奔跑在诺曼底草地上的小狍，法国 (© Gerard Lacz/Minden)](https://www.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_UHD.jpg)
 
 2023-06-18 | [普通燕鸥父亲和宝宝，长岛，纽约州，美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_UHD.jpg)
