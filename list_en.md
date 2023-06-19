@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-20 | [City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutterstock)](https://www.bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg)
+
 2023-06-19 | [Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg)
 
 2023-06-18 | ['Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)](https://www.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg)
