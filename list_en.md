@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-22 | [Stonehenge, Salisbury Plain, Wiltshire, England (© Captain Skyhigh/Getty Images)](https://www.bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg)
+
 2023-06-21 | [Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)](https://www.bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg)
 
 2023-06-20 | [City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutterstock)](https://www.bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg)
