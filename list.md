@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-06-26 | [维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)](https://www.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_UHD.jpg)
+
 2023-06-25 | [佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)](https://www.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_UHD.jpg)
 
 2023-06-24 | [芽富湾，芽庄，越南 (© Thang Tat Nguyen/Getty Images)](https://www.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_UHD.jpg)
