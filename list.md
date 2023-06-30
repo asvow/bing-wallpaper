@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-01 | [从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)](https://www.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_UHD.jpg)
+
 2023-06-30 | [棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg)
 
 2023-06-29 | [巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)](https://www.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_UHD.jpg)
