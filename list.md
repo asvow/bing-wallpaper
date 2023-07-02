@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-03 | [班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.CoyoteBanff_ZH-CN4183627255_UHD.jpg)
+
 2023-07-02 | [费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)](https://www.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_UHD.jpg)
 
 2023-07-01 | [从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)](https://www.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_UHD.jpg)
