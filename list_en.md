@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-05 | [Empire State Building on the Fourth of July, New York City (© Tetra Images/Getty Images)](https://www.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg)
+
 2023-07-04 | [A coyote in Banff, Alberta, Canada (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg)
 
 2023-07-03 | [Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)](https://www.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)
