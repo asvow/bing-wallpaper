@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-06 | [南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)](https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_UHD.jpg)
+
 2023-07-05 | [蒂莫尼港海滩，科孚岛，希腊 (© nantonov/Getty Images)](https://www.bing.com/th?id=OHR.CorfuBeach_ZH-CN8660068587_UHD.jpg)
 
 2023-07-04 | [草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_UHD.jpg)
