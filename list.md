@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-08 | [米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州 (© Eddie Brady/Getty Images)](https://www.bing.com/th?id=OHR.CooperChapel_ZH-CN1150924688_UHD.jpg)
+
 2023-07-07 | [安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)](https://www.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_UHD.jpg)
 
 2023-07-06 | [南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)](https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_UHD.jpg)
