@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-10 | [萨默塞特郡的薰衣草田，英国 (© Doug Chinnery/Getty Images)](https://www.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_UHD.jpg)
+
 2023-07-09 | [克罗夫附近的摩泽尔河，德国 (© Jorg Greuel/Getty Images)](https://www.bing.com/th?id=OHR.MoselleRiver_ZH-CN1283415242_UHD.jpg)
 
 2023-07-08 | [米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州 (© Eddie Brady/Getty Images)](https://www.bing.com/th?id=OHR.CooperChapel_ZH-CN1150924688_UHD.jpg)
