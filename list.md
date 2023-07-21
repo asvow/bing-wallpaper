@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-22 | [在一棵秃柏树上吊床露营，佛罗里达州，美国 (© Mac Stone/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HammockDay_ZH-CN9368760971_UHD.jpg)
+
 2023-07-21 | [斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)](https://www.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_UHD.jpg)
 
 2023-07-20 | [从美国宇航局猎户座飞船上看到的月球 (© NASA)](https://www.bing.com/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_UHD.jpg)
