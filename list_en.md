@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-22 | [Storseisundet Bridge, Atlantic Ocean Road, Norway (© Morten Falch Sortland/Getty Images)](https://www.bing.com/th?id=OHR.BridgeNorway_EN-US1530199433_UHD.jpg)
+
 2023-07-21 | [The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)](https://www.bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg)
 
 2023-07-20 | [Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)](https://www.bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg)
