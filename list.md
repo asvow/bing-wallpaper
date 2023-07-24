@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-25 | [托雷维耶哈潟湖，阿利坎特，西班牙 (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.LasLagunas_ZH-CN9917702340_UHD.jpg)
+
 2023-07-24 | [斑马，塔兰吉雷国家公园，坦桑尼亚 (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.ZebraCousins_ZH-CN8159888859_UHD.jpg)
 
 2023-07-23 | [爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡 (© Jeremy Woodhouse/Getty Images)](https://www.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_UHD.jpg)
