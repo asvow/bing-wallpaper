@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-29 | [孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_UHD.jpg)
+
 2023-07-28 | [圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)](https://www.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_UHD.jpg)
 
 2023-07-27 | [卡鲁塞尔凯旋门和卢浮宫金字塔，巴黎，法国 (© Jon Hicks/Getty Images)](https://www.bing.com/th?id=OHR.ParisLouvre_ZH-CN0341884841_UHD.jpg)
