@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-31 | [Farmland in the Palouse, Washington (© EJ-J/Getty Images)](https://www.bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg)
+
 2023-07-30 | [Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg)
 
 2023-07-29 | [San Blas Islands, Panama (© bgremler/Shutterstock)](https://www.bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg)
