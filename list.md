@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-07-31 | [霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg)
+
 2023-07-30 | [帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)](https://www.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_UHD.jpg)
 
 2023-07-29 | [孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_UHD.jpg)
