@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-08-01 | [从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_UHD.jpg)
+
 2023-07-31 | [霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg)
 
 2023-07-30 | [帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)](https://www.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_UHD.jpg)
