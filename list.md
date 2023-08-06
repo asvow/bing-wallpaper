@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-08-07 | [博迪岛灯塔，马头城，北卡罗来纳州，美国 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.BodieNC_ZH-CN9027999004_UHD.jpg)
+
 2023-08-06 | [镜池，长野，日本 (© Shoji Fujita/Getty Images)](https://www.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_UHD.jpg)
 
 2023-08-05 | [大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)](https://www.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_UHD.jpg)
