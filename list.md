@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-08-10 | [马赛马拉的一头狮子，肯尼亚 (© Federico Veronesi/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_UHD.jpg)
+
 2023-08-09 | [马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)](https://www.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_UHD.jpg)
 
 2023-08-08 | [五花海，阿坝九寨沟旅游景区，四川省，中国 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.LiQiu2023_ZH-CN9197909278_UHD.jpg)
