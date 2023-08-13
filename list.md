@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-08-14 | [叶片上的小壁虎 (© Darren Greenwood/Alamy)](https://www.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_UHD.jpg)
+
 2023-08-13 | [英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国 (© Joshua Meador/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_UHD.jpg)
 
 2023-08-12 | [大象家族，安波塞利国家公园，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_UHD.jpg)
