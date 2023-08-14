@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-08-15 | [四月九日广场，陶尔米纳，西西里岛，意大利 (© rudi1976/Alamy)](https://www.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_UHD.jpg)
+
 2023-08-14 | [叶片上的小壁虎 (© Darren Greenwood/Alamy)](https://www.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_UHD.jpg)
 
 2023-08-13 | [英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国 (© Joshua Meador/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_UHD.jpg)
