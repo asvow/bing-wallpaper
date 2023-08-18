@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-08-19 | [看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)](https://www.bing.com/th?id=OHR.CameraSquirrel_ZH-CN3580119980_UHD.jpg)
+
 2023-08-18 | [哈利路亚山，张家界国家森林公园，中国 (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.AvatarMountain_ZH-CN3268610045_UHD.jpg)
 
 2023-08-17 | [罕肯瀑布,威尔斯格雷省立公园, 加拿大不列颠哥伦比亚省 (© Laurens Verhoeven/Getty Images)](https://www.bing.com/th?id=OHR.HelmckenWaterfall_ZH-CN9694510761_UHD.jpg)
