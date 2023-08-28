@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-08-29 | [美洲野牛，大提顿国家公园，怀俄明州 (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/th?id=OHR.TetonBison_ZH-CN9384306649_UHD.jpg)
+
 2023-08-28 | [洛夫里耶纳克堡，西港，杜布罗夫尼克，克罗地亚 (© Benny Marty/Shutterstock)](https://www.bing.com/th?id=OHR.DubrovnikHarbor_ZH-CN8590217905_UHD.jpg)
 
 2023-08-27 | [城山日出峰，济州岛上的凝灰岩锥，韩国 (© Quynh Anh Nguyen/Getty Images)](https://www.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_UHD.jpg)
