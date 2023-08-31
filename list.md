@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-09-01 | [火鸡尾蘑菇，布里瓦德，北卡罗来纳州，美国 (© Bill Gozansky/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.TurkeyTailMush_ZH-CN9683744281_UHD.jpg)
+
 2023-08-31 | [巨人柱，铁木森林国家纪念地，亚利桑那州，美国 (© Jack Dykinga/Minden Pictures)](https://www.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_UHD.jpg)
 
 2023-08-30 | [鲸鲨，宁加洛珊瑚礁，西澳大利亚 (© Jason Edwards/Getty Images)](https://www.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_UHD.jpg)
