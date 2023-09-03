@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-09-04 | [布尔日的沼泽，法国 (© Tuul & Bruno Morandi/Getty Images)](https://www.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_UHD.jpg)
+
 2023-09-03 | [曼哈顿鸟瞰图，纽约市，美国 (© Wojtek Zagorski/Getty Images)](https://www.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_UHD.jpg)
 
 2023-09-02 | [艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© mallardg500/Getty Images)](https://www.bing.com/th?id=OHR.TinyHummer_ZH-CN9853929957_UHD.jpg)
