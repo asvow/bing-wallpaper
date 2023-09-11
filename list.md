@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-09-12 | [北海日落，诺德多夫，德国 (© Frederick Doerschem/Getty Images)](https://www.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_UHD.jpg)
+
 2023-09-11 | [波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)](https://www.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_UHD.jpg)
 
 2023-09-10 | [斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)](https://www.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_UHD.jpg)
