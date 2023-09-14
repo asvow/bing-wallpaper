@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-09-15 | [格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)](https://www.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_UHD.jpg)
+
 2023-09-14 | [普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_UHD.jpg)
 
 2023-09-13 | [赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度 (© Images of india/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_UHD.jpg)
