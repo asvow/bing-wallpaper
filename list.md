@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-09-16 | [施布吕根山口，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.SplugenPass_ZH-CN8347591461_UHD.jpg)
+
 2023-09-15 | [格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)](https://www.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_UHD.jpg)
 
 2023-09-14 | [普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_UHD.jpg)
