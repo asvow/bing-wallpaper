@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-09-16 | [Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New Mexico (© Thomas Roche/Getty Images)](https://www.bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg)
+
 2023-09-15 | [Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg)
 
 2023-09-14 | [Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](https://www.bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg)
