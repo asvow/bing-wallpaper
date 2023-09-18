@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-09-19 | [Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)](https://www.bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg)
+
 2023-09-18 | [Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)](https://www.bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg)
 
 2023-09-17 | [A beer tent at Oktoberfest in Theresienwiese, Munich, Germany (© Peter Kneffel/picture alliance via Getty Images)](https://www.bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_UHD.jpg)
