@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-09-21 | [诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)](https://www.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_UHD.jpg)
+
 2023-09-20 | [罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)](https://www.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_UHD.jpg)
 
 2023-09-19 | [哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)](https://www.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_UHD.jpg)
