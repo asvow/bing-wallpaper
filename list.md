@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-09-27 | [克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)](https://www.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_UHD.jpg)
+
 2023-09-26 | [日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州 (© EXTREME-PHOTOGRAPHER/Getty Images)](https://www.bing.com/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_UHD.jpg)
 
 2023-09-25 | [巴特利特湾的海獭，冰川湾国家公园，阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GlacierBayOtter_ZH-CN6065209551_UHD.jpg)
