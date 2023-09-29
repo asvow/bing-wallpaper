@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-09-30 | [Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)](https://www.bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg)
+
 2023-09-29 | [Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)](https://www.bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg)
 
 2023-09-28 | [The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](https://www.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg)
