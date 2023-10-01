@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-10-02 | [韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg)
+
 2023-10-01 | [雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg)
 
 2023-09-30 | [仙纳度国家公园的秋色，弗吉尼亚州 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_UHD.jpg)
