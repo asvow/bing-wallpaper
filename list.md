@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-10-04 | [狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜 (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](https://www.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg)
+
 2023-10-03 | [白天堂海滩，圣灵群岛，昆士兰州，澳大利亚 (© Coral Brunner/Shutterstock)](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg)
 
 2023-10-02 | [韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg)
