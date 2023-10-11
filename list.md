@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-10-12 | [帕卢斯地区的老谷仓和油菜田，爱达荷州，美国 (© Terry Eggers/Getty Images)](https://www.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_UHD.jpg)
+
 2023-10-11 | [约翰迪化石床国家纪念地中的彩绘山，俄勒冈州，美国 (© Ben Herndon/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.JohnDayFossil_ZH-CN6265838332_UHD.jpg)
 
 2023-10-10 | [索普里斯山，科罗拉多州，美国 (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SoprisSunrise_ZH-CN5935701155_UHD.jpg)
