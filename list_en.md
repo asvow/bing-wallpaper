@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-10-13 | [Old barn and canola field, Palouse region, Idaho (© Terry Eggers/Getty Images)](https://www.bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg)
+
 2023-10-12 | [The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg)
 
 2023-10-11 | [Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg)
