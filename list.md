@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-10-15 | [躲在树皮中欧洲刺猬，苏塞克斯，英国 (© Jules Cox/Minden Pictures)](https://www.bing.com/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_UHD.jpg)
+
 2023-10-14 | ["火环”日环食，多哈，卡特尔 (© Sorin Furcoi/Getty Images)](https://www.bing.com/th?id=OHR.RingEclipse_ZH-CN7063841581_UHD.jpg)
 
 2023-10-13 | [加尔加诺半岛上的维埃斯特，阿普利亚，意大利 (© Pilat666/Getty Images)](https://www.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_UHD.jpg)
