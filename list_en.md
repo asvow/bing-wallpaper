@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-10-29 | [Windmills in Castilla-La Mancha, Spain (© Getty Images)](https://www.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg)
+
 2023-10-28 | [Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg)
 
 2023-10-27 | [Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)](https://www.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg)
