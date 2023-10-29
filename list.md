@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-10-30 | [普通乌鸦坐在树枝上 (© WildMedia/Shutterstock)](https://www.bing.com/th?id=OHR.AutumnRaven_ZH-CN7897841947_UHD.jpg)
+
 2023-10-29 | [博纳温彻墓地，萨凡纳，佐治亚州，美国 (© Kelly vanDellen/Alamy)](https://www.bing.com/th?id=OHR.SavannahSculpture_ZH-CN7663694208_UHD.jpg)
 
 2023-10-28 | [卡斯蒂利亚-拉曼恰的风车，西班牙 (© Getty Images)](https://www.bing.com/th?id=OHR.FiveWinds_ZH-CN7503464049_UHD.jpg)
