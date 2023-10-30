@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-10-31 | [万圣节南瓜灯 (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg)
+
 2023-10-30 | [普通乌鸦坐在树枝上 (© WildMedia/Shutterstock)](https://www.bing.com/th?id=OHR.AutumnRaven_ZH-CN7897841947_UHD.jpg)
 
 2023-10-29 | [博纳温彻墓地，萨凡纳，佐治亚州，美国 (© Kelly vanDellen/Alamy)](https://www.bing.com/th?id=OHR.SavannahSculpture_ZH-CN7663694208_UHD.jpg)
