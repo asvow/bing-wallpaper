@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-03 | [卡梅尔海岸的太平洋海荨麻水母，加利福尼亚，美国 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SeaNettles_ZH-CN1735729435_UHD.jpg)
+
 2023-11-02 | [恶水盆地的盐滩，死亡谷国家公园，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.DeathValleySalt_ZH-CN8438207719_UHD.jpg)
 
 2023-11-01 | [上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)](https://www.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg)
