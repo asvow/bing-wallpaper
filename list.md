@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-12 | [秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)](https://www.bing.com/th?id=OHR.MallarDucks_ZH-CN7422818269_UHD.jpg)
+
 2023-11-11 | [富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)](https://www.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_UHD.jpg)
 
 2023-11-10 | [恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_UHD.jpg)
