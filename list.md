@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-14 | [特卡波湖沿岸的鲁冰花，南岛，新西兰 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.RussellLupines_ZH-CN8552113285_UHD.jpg)
+
 2023-11-13 | [特拉蒙塔纳山中的老橄榄园，马略卡岛，西班牙 (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.OliveOrchard_ZH-CN8198989130_UHD.jpg)
 
 2023-11-12 | [秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)](https://www.bing.com/th?id=OHR.MallarDucks_ZH-CN7422818269_UHD.jpg)
