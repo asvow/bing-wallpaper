@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-14 | [Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg)
+
 2023-11-13 | [Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)](https://www.bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg)
 
 2023-11-12 | [Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Images)](https://www.bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg)
