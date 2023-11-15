@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-16 | [雅典和卫城，希腊 (© Mlenny/Getty Images)](https://www.bing.com/th?id=OHR.AthensAcropolis_ZH-CN9942357439_UHD.jpg)
+
 2023-11-15 | [萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)](https://www.bing.com/th?id=OHR.SarekSweden_ZH-CN9728518595_UHD.jpg)
 
 2023-11-14 | [特卡波湖沿岸的鲁冰花，南岛，新西兰 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.RussellLupines_ZH-CN8552113285_UHD.jpg)
