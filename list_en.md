@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-16 | [Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)](https://www.bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg)
+
 2023-11-15 | [Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg)
 
 2023-11-14 | [Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg)
