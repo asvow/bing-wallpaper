@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-20 | [科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲 (© Billy Stock/robertharding/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.CastleCoch_ZH-CN0917284602_UHD.jpg)
+
 2023-11-19 | [Alam-Pedja自然保护区，爱沙尼亚 (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.FrozenBog_ZH-CN0712859386_UHD.jpg)
 
 2023-11-18 | [北极熊妈妈和幼崽，丘吉尔城，曼尼托巴省，加拿大 (© Thorsten Milse/Getty Images)](https://www.bing.com/th?id=OHR.MilsePolarBear_ZH-CN0567475122_UHD.jpg)
