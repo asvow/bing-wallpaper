@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-25 | [托莱多，西班牙 (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_UHD.jpg)
+
 2023-11-24 | [奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国 (© James Randklev/Getty Images)](https://www.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_UHD.jpg)
 
 2023-11-23 | [泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙 (© Javier Martínez Morán/Alamy)](https://www.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_UHD.jpg)
