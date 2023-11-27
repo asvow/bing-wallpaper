@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-28 | [Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](https://www.bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg)
+
 2023-11-27 | [Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)](https://www.bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg)
 
 2023-11-26 | [Toledo, Spain (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg)
