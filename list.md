@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-28 | [阿西尼博因山省级公园，加拿大 (© matt macpherson/500px/Getty Images)](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_UHD.jpg)
+
 2023-11-27 | [内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)](https://www.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_UHD.jpg)
 
 2023-11-26 | [布拉德盖特公园的小鹿，莱斯特郡，英国 (© Chris Bainbridge/Alamy)](https://www.bing.com/th?id=OHR.BradgateFallow_ZH-CN1852334581_UHD.jpg)
