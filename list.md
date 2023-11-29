@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-30 | [斯托尔，斯凯岛上展露的岩石尖峰，苏格兰，英国 (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_UHD.jpg)
+
 2023-11-29 | [什未林湖上的什未林城堡，梅克伦堡-前波美拉尼亚州，德国 (© Hannes Wendt/Shutterstock)](https://www.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_UHD.jpg)
 
 2023-11-28 | [阿西尼博因山省级公园，加拿大 (© matt macpherson/500px/Getty Images)](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_UHD.jpg)
