@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-11-30 | [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](https://www.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg)
+
 2023-11-29 | [Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)](https://www.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg)
 
 2023-11-28 | [Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](https://www.bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg)
