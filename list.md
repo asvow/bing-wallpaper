@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-02 | [瓜廖尔堡，中央邦，印度 (© Dmitry Rukhlenko-Photos of India/Alamy)](https://www.bing.com/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_UHD.jpg)
+
 2023-12-01 | [罗斯海的冰山，南极洲 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_UHD.jpg)
 
 2023-11-30 | [斯托尔，斯凯岛上展露的岩石尖峰，苏格兰，英国 (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_UHD.jpg)
