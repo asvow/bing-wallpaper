@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-05 | [天鹅堡和旧天鹅堡，巴伐利亚阿尔卑斯山，德国 (© Harald Nachtmann/Getty Images)](https://www.bing.com/th?id=OHR.AlpsCastles_ZH-CN5078013932_UHD.jpg)
+
 2023-12-04 | [一只猎豹妈妈和她的幼崽，马赛马拉国家保护区，肯尼亚 (© Scott Davis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CheetahDay_ZH-CN5114530695_UHD.jpg)
 
 2023-12-03 | [砂岩岩层，红悬崖国家保护区，亚利桑那州，美国 (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.VermilionCliffs_ZH-CN3945784250_UHD.jpg)
