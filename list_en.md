@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-11 | [Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg)
+
 2023-12-10 | [Guanacos in Los Glaciares National Park, Patagonia, Argentina (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg)
 
 2023-12-09 | [La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)](https://www.bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg)
