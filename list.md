@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-13 | [传统钓鱼小屋，斯沃尔韦尔，罗弗敦群岛，挪威 (© Roberto Moiola/Sysaworld/Getty Images)](https://www.bing.com/th?id=OHR.LofotenRorbu_ZH-CN7790383976_UHD.jpg)
+
 2023-12-12 | [一品红 (© Yarygin/Getty Images)](https://www.bing.com/th?id=OHR.Poinsettia_ZH-CN7255902344_UHD.jpg)
 
 2023-12-11 | [黄山的冬天，中国 (© Hung Chung Chih/Shutterstock)](https://www.bing.com/th?id=OHR.MountainDayChina_ZH-CN6894169616_UHD.jpg)
