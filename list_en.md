@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-14 | [Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)](https://www.bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg)
+
 2023-12-13 | [Poinsettias (© Yarygin/Getty Images)](https://www.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg)
 
 2023-12-12 | [Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](https://www.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg)
