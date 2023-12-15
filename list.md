@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-16 | [大广场，布鲁塞尔，比利时 (© Richard Taylor/Sime/eStock Photo)](https://www.bing.com/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_UHD.jpg)
+
 2023-12-15 | [罗瓦涅米的圣诞老人公园，拉普兰德，芬兰 (© lukutin77/Getty Images)](https://www.bing.com/th?id=OHR.SantaPark_ZH-CN7444715899_UHD.jpg)
 
 2023-12-14 | [北方猫头鹰，萨斯喀彻温省，加拿大 (© Nick Saunders/Minden Pictures)](https://www.bing.com/th?id=OHR.BorealOwl_ZH-CN7957240111_UHD.jpg)
