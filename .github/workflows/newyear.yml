@@ -1,0 +1,38 @@
+name: Happy New Year
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 8 31 12 *'
+
+jobs:
+  GetInfo:
+    runs-on: ubuntu-latest
+    if: github.repository == 'asvow/bing-wallpaper'
+    steps:
+
+    - uses: actions/checkout@v2
+    - name: Commit files
+      run: | 
+        current_year=$(date +'%Y')
+        last_year=$((current_year - 1))
+        mkdir -p "$current_year"
+        mv *.md $current_year
+        mv *.json $current_year
+        git config --local user.email "asvow@users.noreply.github.com"
+        git config --local user.name "asvow"
+        git add -A
+        git commit -m "Goodbye $last_year👋 Hello $current_year🎉"
+
+    - name: Push changes
+      uses:  ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.MY_GIT_TOKEN }}
+        branch: main
+
+    - name: Delete Workflow Runs
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        token: ${{ github.token }}
+        repository: ${{ github.repository }}
+        retain_days: 0
+        keep_minimum_runs: 0
