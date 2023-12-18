@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-19 | [城堡广场的圣诞树，华沙古城，波兰 (© Panther Media GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.WarsawChristmas_ZH-CN0949732911_UHD.jpg)
+
 2023-12-18 | [圆顶礁国家公园，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_UHD.jpg)
 
 2023-12-17 | [波西米亚太平鸟栖息在树枝上，加拿大 (© Jim Cumming/Shutterstock)](https://www.bing.com/th?id=OHR.WinterWaxwings_ZH-CN9274297835_UHD.jpg)
