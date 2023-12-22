@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-23 | [帽带企鹅，南桑威奇群岛，南大西洋 (© Jan Vermeer/Minden Pictures)](https://www.bing.com/th?id=OHR.FestivusPenguins_ZH-CN5191348531_UHD.jpg)
+
 2023-12-22 | [天鹅泉湿地公园，伊犁，新疆，中国 (© 500px Asia/Getty images)](https://www.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_UHD.jpg)
 
 2023-12-21 | [卢布尔雅那，斯洛文尼亚共和国 (© kasto80/Getty images)](https://www.bing.com/th?id=OHR.LjubljanaLights_ZH-CN3179297953_UHD.jpg)
