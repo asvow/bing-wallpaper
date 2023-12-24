@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-25 | [驯鹿在雪中奔跑，阿拉斯加，美国 (© Michael Quinton/Minden Pictures)](https://www.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_UHD.jpg)
+
 2023-12-24 | [市政厅广场，塔尔图，爱沙尼亚 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_UHD.jpg)
 
 2023-12-23 | [帽带企鹅，南桑威奇群岛，南大西洋 (© Jan Vermeer/Minden Pictures)](https://www.bing.com/th?id=OHR.FestivusPenguins_ZH-CN5191348531_UHD.jpg)
