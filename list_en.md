@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-26 | [Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)](https://www.bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg)
+
 2023-12-25 | [Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_UHD.jpg)
 
 2023-12-24 | [Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg)
