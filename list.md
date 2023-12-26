@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-27 | [教堂山，斯奈山半岛，冰岛 (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_UHD.jpg)
+
 2023-12-26 | [冬季日出，戴德姆，科尔切斯特，英格兰 (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_UHD.jpg)
 
 2023-12-25 | [驯鹿在雪中奔跑，阿拉斯加，美国 (© Michael Quinton/Minden Pictures)](https://www.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_UHD.jpg)
