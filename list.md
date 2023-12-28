@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2023-12-29 | [旧西街区，阿姆斯特丹 ，荷兰 (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_UHD.jpg)
+
 2023-12-28 | [座头鲸，迪斯科湾，格陵兰 (© Paul Souders/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_UHD.jpg)
 
 2023-12-27 | [教堂山，斯奈山半岛，冰岛 (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_UHD.jpg)
