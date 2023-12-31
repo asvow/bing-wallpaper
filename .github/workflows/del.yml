@@ -1,8 +1,8 @@
-name: Happy New Year
+name: DEL
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 8 31 12 *'
+    - cron: '30 9 31 12 *'
 
 jobs:
   GetInfo:
@@ -13,15 +13,11 @@ jobs:
     - uses: actions/checkout@v2
     - name: Commit files
       run: | 
-        current_year=$(date +'%Y')
-        next_year=$((current_year + 1))
-        mkdir -p "$current_year"
-        mv *.md $current_year
-        mv *.json $current_year
+        rm README.md bing.json list.md
         git config --local user.email "asvow@users.noreply.github.com"
         git config --local user.name "asvow"
         git add -A
-        git commit -m "Goodbye $current_year👋 Hello $next_year🎉"
+        git commit -m "DEL"
 
     - name: Push changes
       uses:  ad-m/github-push-action@master
