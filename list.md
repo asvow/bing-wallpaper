@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-01-05 | [巴伐利亚阿尔卑斯山脉，德国 (© JFL Photography/Adobe Stock)](https://www.bing.com/th?id=OHR.AlpsReflecting_ZH-CN4036320440_UHD.jpg)
+
 2024-01-04 | [金门大桥，旧金山，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GoldenGateLight_ZH-CN3874822904_UHD.jpg)
 
 2024-01-03 | [明尼汪卡湖，阿尔伯塔省，加拿大 (© Ken Phung/500px/Getty Images)](https://www.bing.com/th?id=OHR.MinnewankaLake_ZH-CN3020982568_UHD.jpg)
