@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-01-09 | [格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国 (© Jennifer MacCornack/Shutterstock)](https://www.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_UHD.jpg)
+
 2024-01-08 | [贝尔尼纳山口的滑雪场，格劳宾登州，瑞士 (© Francesco Bergamaschi/Getty Images)](https://www.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_UHD.jpg)
 
 2024-01-07 | [魔鬼大理石保护区，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.DevilsMarbles_ZH-CN4897809914_UHD.jpg)
