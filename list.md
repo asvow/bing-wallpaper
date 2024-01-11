@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-01-12 | [北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)](https://www.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_UHD.jpg)
+
 2024-01-11 | [雪中的欧亚猞猁 (© Jan Stria/Shutterstock)](https://www.bing.com/th?id=OHR.LynxSnow_ZH-CN8908082275_UHD.jpg)
 
 2024-01-10 | [米罗伯塔莫斯海岸线上的楼梯，色萨利，希腊 (© Orestis Zoumpos/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.MilopotamosStairs_ZH-CN8013521384_UHD.jpg)
