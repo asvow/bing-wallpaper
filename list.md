@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-01-13 | [哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.HanaHighway_ZH-CN8601588011_UHD.jpg)
+
 2024-01-12 | [北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)](https://www.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_UHD.jpg)
 
 2024-01-11 | [雪中的欧亚猞猁 (© Jan Stria/Shutterstock)](https://www.bing.com/th?id=OHR.LynxSnow_ZH-CN8908082275_UHD.jpg)
