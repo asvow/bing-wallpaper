@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-01-16 | [路易斯湖，班夫国家公园，阿尔伯塔省，加拿大 (© Mr. Simon Paul/Shutterstock)](https://www.bing.com/th?id=OHR.LakeLouise_ZH-CN9592539152_UHD.jpg)
+
 2024-01-15 | [瓦茨曼山脚下的冰教堂，巴伐利亚，德国 (© Christian Bäck/eStock Photo)](https://www.bing.com/th?id=OHR.IceChapel_ZH-CN9189733666_UHD.jpg)
 
 2024-01-14 | [屈斜路湖的天鹅，日本 (© Darrell Gulin/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_UHD.jpg)
