@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-01-20 | [Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)](https://www.bing.com/th?id=OHR.PlitviceWinter_EN-US1870468945_UHD.jpg)
+
 2024-01-19 | [Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)](https://www.bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg)
 
 2024-01-18 | [Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)](https://www.bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg)
