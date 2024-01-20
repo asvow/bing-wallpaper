@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-01-21 | [欧亚红松鼠，荷兰 (© Ernst Dirksen/Minden Pictures)](https://www.bing.com/th?id=OHR.SquirrelNetherlands_ZH-CN0757138587_UHD.jpg)
+
 2024-01-20 | [马可罗尼企鹅，德雷克海峡，智利 (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.MacaroniPenguins_ZH-CN0600867997_UHD.jpg)
 
 2024-01-19 | [十六湖国家公园，克罗地亚 (© Massimo_S8/Getty Images)](https://www.bing.com/th?id=OHR.PlitviceWinter_ZH-CN0407572344_UHD.jpg)
