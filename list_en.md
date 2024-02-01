@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-02 | [Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)](https://www.bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg)
+
 2024-02-01 | [Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg)
 
 2024-01-31 | [Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg)
