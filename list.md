@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-04 | [德弗塔什卡洞, Devetaki村庄，保加利亚 (© Jasmine_K/Shutterstock)](https://www.bing.com/th?id=OHR.DevetashkaCave_ZH-CN5186222166_UHD.jpg)
+
 2024-02-03 | [大运河与安康圣母大教堂，威尼斯，意大利 (© Rudy Balasko/Getty Images)](https://www.bing.com/th?id=OHR.VeniceCarnival_ZH-CN4965898587_UHD.jpg)
 
 2024-02-02 | [从洞穴中探出头的土拨鼠 (© Scacciamosche/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_UHD.jpg)
