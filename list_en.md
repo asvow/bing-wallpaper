@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-04 | [Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)](https://www.bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_UHD.jpg)
+
 2024-02-03 | [Marmot peeking out of its burrow (© Scacciamosche/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg)
 
 2024-02-02 | [Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)](https://www.bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg)
