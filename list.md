@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-08 | [胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images)](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_UHD.jpg)
+
 2024-02-07 | [圣詹姆斯潮汐池，开普敦，南非 (© AmazingAerialAgency/Adobe)](https://www.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_UHD.jpg)
 
 2024-02-06 | [盆景岩，太浩湖，内华达州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LakeTahoeRock_ZH-CN5770740919_UHD.jpg)
