@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-11 | [乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_UHD.jpg)
+
 2024-02-10 | [中国舞狮，大年初一 (© SENEZ/Getty Images)](https://www.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_UHD.jpg)
 
 2024-02-09 | [灯光秀点亮夜幕中的西安城墙，中国春节 (© Eastimages/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_UHD.jpg)
