@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-14 | [丹顶鹤向伴侣鞠躬，北海道，日本 (© Steve Bloom Images/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_UHD.jpg)
+
 2024-02-13 | [马里尼的狂欢节彩珠，新奥尔良，美国 (© Erik Pronske Photography/Getty Images)](https://www.bing.com/th?id=OHR.MarignyBeads_ZH-CN9346804869_UHD.jpg)
 
 2024-02-12 | [阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.GiantTortoise_ZH-CN9220903689_UHD.jpg)
