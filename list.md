@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-18 | [抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)](https://www.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_UHD.jpg)
+
 2024-02-17 | [多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_UHD.jpg)
 
 2024-02-16 | [一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国 (© outtakes/Getty Images)](https://www.bing.com/th?id=OHR.BackyardBird_ZH-CN0522695977_UHD.jpg)
