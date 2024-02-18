@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-19 | [鸟瞰克鲁斯港色彩斑斓的房屋，特内里费岛，西班牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.CarnavalTenerife_ZH-CN1559136778_UHD.jpg)
+
 2024-02-18 | [抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)](https://www.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_UHD.jpg)
 
 2024-02-17 | [多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_UHD.jpg)
