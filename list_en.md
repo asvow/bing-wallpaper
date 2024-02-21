@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-22 | [Firefall at Horsetail Fall, Yosemite National Park, California (© Gregory B Cuvelier/Shutterstock)](https://www.bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg)
+
 2024-02-21 | [Kinder Scout at sunrise, Peak District National Park, England (© john finney photography/Getty Images)](https://www.bing.com/th?id=OHR.PeakDistrictNP_EN-US8094447567_UHD.jpg)
 
 2024-02-20 | [Lincoln Memorial, Washington, DC (© Steve Whiston/Fallen Log Photography/Getty Images)](https://www.bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg)
