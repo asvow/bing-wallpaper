@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-25 | [Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg)
+
 2024-02-24 | [Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg)
 
 2024-02-23 | [Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](https://www.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg)
