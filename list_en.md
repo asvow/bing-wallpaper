@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-02-28 | [Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg)
+
 2024-02-27 | [Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)](https://www.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg)
 
 2024-02-26 | ['United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)](https://www.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg)
