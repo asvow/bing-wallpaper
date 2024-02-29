@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-01 | [德国草地上的蝴蝶 (© Albert Fertl/Getty Images)](https://www.bing.com/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_UHD.jpg)
+
 2024-02-29 | [欧亚红松鼠 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg)
 
 2024-02-28 | [班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)](https://www.bing.com/th?id=OHR.BamburghCastleUK_ZH-CN3201531782_UHD.jpg)
