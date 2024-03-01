@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-02 | [莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)](https://www.bing.com/th?id=OHR.ModicaItaly_ZH-CN3893147952_UHD.jpg)
+
 2024-03-01 | [德国草地上的蝴蝶 (© Albert Fertl/Getty Images)](https://www.bing.com/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_UHD.jpg)
 
 2024-02-29 | [欧亚红松鼠 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg)
