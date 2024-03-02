@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-03 | [树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)](https://www.bing.com/th?id=OHR.KrugerLeopard_ZH-CN4125884091_UHD.jpg)
+
 2024-03-02 | [莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)](https://www.bing.com/th?id=OHR.ModicaItaly_ZH-CN3893147952_UHD.jpg)
 
 2024-03-01 | [德国草地上的蝴蝶 (© Albert Fertl/Getty Images)](https://www.bing.com/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_UHD.jpg)
