@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-04 | [Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)](https://www.bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg)
+
 2024-03-03 | [Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](https://www.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg)
 
 2024-03-02 | [Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images)](https://www.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg)
