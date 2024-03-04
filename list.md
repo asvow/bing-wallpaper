@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-05 | [曼谷的交通圈和高速公路，泰国 (© Avigator Fortuner/Shutterstock)](https://www.bing.com/th?id=OHR.BangkokCircle_ZH-CN4702412806_UHD.jpg)
+
 2024-03-04 | [从蒙特维多看到的阿雷纳尔火山,哥斯达黎加 (© Lukas Bischoff/Getty Images)](https://www.bing.com/th?id=OHR.ArenalCostaRica_ZH-CN4466297855_UHD.jpg)
 
 2024-03-03 | [树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)](https://www.bing.com/th?id=OHR.KrugerLeopard_ZH-CN4125884091_UHD.jpg)
