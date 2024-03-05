@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-06 | [Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.WahclellaFalls_ZH-CN4932852217_UHD.jpg)
+
 2024-03-05 | [曼谷的交通圈和高速公路，泰国 (© Avigator Fortuner/Shutterstock)](https://www.bing.com/th?id=OHR.BangkokCircle_ZH-CN4702412806_UHD.jpg)
 
 2024-03-04 | [从蒙特维多看到的阿雷纳尔火山,哥斯达黎加 (© Lukas Bischoff/Getty Images)](https://www.bing.com/th?id=OHR.ArenalCostaRica_ZH-CN4466297855_UHD.jpg)
