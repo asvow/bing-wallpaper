@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-09 | [比斯第恶土，新墨西哥州，美国 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BistiBlue_ZH-CN4991705833_UHD.jpg)
+
 2024-03-08 | [伊瓜苏大瀑布鸟瞰图，巴西 (© Nido Huebl/Shutterstock)](https://www.bing.com/th?id=OHR.IguazuFalls_ZH-CN4749837052_UHD.jpg)
 
 2024-03-07 | [Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙 (© Sergi Boixader/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.TarragonaSpain_ZH-CN5488361711_UHD.jpg)
