@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-10 | [圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州 (© Richard T. Nowitz/Getty Images)](https://www.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_UHD.jpg)
+
 2024-03-09 | [比斯第恶土，新墨西哥州，美国 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BistiBlue_ZH-CN4991705833_UHD.jpg)
 
 2024-03-08 | [伊瓜苏大瀑布鸟瞰图，巴西 (© Nido Huebl/Shutterstock)](https://www.bing.com/th?id=OHR.IguazuFalls_ZH-CN4749837052_UHD.jpg)
