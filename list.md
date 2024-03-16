@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-17 | [圣菲尼安湾，凯里郡，爱尔兰 (© Atlantide Phototravel/Getty Images)](https://www.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_UHD.jpg)
+
 2024-03-16 | [正在吃竹子的大熊猫，中国成都 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BambooPanda_ZH-CN8455481760_UHD.jpg)
 
 2024-03-15 | [安沙波利哥沙漠州立公园，美国加利福尼亚州 (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_ZH-CN8284458835_UHD.jpg)
