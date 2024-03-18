@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-19 | [盛开的扁桃树, 加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AlmondBloom_ZH-CN9441550492_UHD.jpg)
+
 2024-03-18 | [大象岩，古城欧拉，沙特阿拉伯 (© Lubo Ivanko/Shutterstock)](https://www.bing.com/th?id=OHR.ElephantRock_ZH-CN9293300383_UHD.jpg)
 
 2024-03-17 | [圣菲尼安湾，凯里郡，爱尔兰 (© Atlantide Phototravel/Getty Images)](https://www.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_UHD.jpg)
