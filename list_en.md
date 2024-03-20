@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-21 | [The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC (© f11photo/Shutterstock)](https://www.bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg)
+
 2024-03-20 | [Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg)
 
 2024-03-19 | [Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)](https://www.bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg)
