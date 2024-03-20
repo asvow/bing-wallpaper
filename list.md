@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-21 | [布恩迪国家公园，乌干达 (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.BwindiNationalForest_ZH-CN0436137473_UHD.jpg)
+
 2024-03-20 | [鸟瞰春日盛开的樱花，中国 (© outcast85/Getty images)](https://www.bing.com/th?id=OHR.Springequinox2024_ZH-CN5647214924_UHD.jpg)
 
 2024-03-19 | [盛开的扁桃树, 加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AlmondBloom_ZH-CN9441550492_UHD.jpg)
