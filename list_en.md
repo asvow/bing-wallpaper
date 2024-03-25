@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-03-26 | [Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)](https://www.bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg)
+
 2024-03-25 | [Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)](https://www.bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg)
 
 2024-03-24 | [Large anvil clouds above the Amazon in Brazil (© NASA)](https://www.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg)
