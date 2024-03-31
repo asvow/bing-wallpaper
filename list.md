@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-04-01 | [勃朗峰上的冰海，夏慕尼，法国 (© Hagenmuller Jean-François/Hemis/Alamy)](https://www.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg)
+
 2024-03-31 | [潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images)](https://www.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg)
 
 2024-03-30 | [睡在号角树上的褐喉树懒，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/th?id=OHR.SleepySloth_ZH-CN6084460583_UHD.jpg)
