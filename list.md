@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-04-03 | [At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦 (© Emad aljumah/Getty Images)](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_ZH-CN8027219590_UHD.jpg)
+
 2024-04-02 | [日德兰半岛的山毛榉树和野生海葵 ，丹麦 (© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_UHD.jpg)
 
 2024-04-01 | [勃朗峰上的冰海，夏慕尼，法国 (© Hagenmuller Jean-François/Hemis/Alamy)](https://www.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg)
