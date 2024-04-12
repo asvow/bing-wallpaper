@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-04-13 | [春天的苹果树，德国 (© Smileus/Getty Images)](https://www.bing.com/th?id=OHR.SpringApple_ZH-CN0101917345_UHD.jpg)
+
 2024-04-12 | [拱门国家公园，犹他州，美国 (© Anthony Heflin/Shutterstock)](https://www.bing.com/th?id=OHR.SunsetArchesNP_ZH-CN9875945974_UHD.jpg)
 
 2024-04-11 | [丘伦梅鲁瀑布鸟瞰图，委内瑞拉 (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.DragonWaterfall_ZH-CN9580105565_UHD.jpg)
