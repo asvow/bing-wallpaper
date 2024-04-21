@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-04-22 | [绿海龟，圣地亚哥，加利福尼亚，美国 (© Ralph Pace/Minden Pictures)](https://www.bing.com/th?id=OHR.EarthDayTurtle_ZH-CN4642042701_UHD.jpg)
+
 2024-04-21 | [Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)](https://www.bing.com/th?id=OHR.CadesCove_ZH-CN3950297181_UHD.jpg)
 
 2024-04-20 | [日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneGeyser_ZH-CN3441008468_UHD.jpg)
