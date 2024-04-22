@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-04-23 | [Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg)
+
 2024-04-22 | [Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)](https://www.bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg)
 
 2024-04-21 | [Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg)
