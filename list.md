@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-04-25 | [南极洲冰山上的阿德利企鹅 (© Patrick J. Endres/Getty Images)](https://www.bing.com/th?id=OHR.PenguinDirections_ZH-CN8498684753_UHD.jpg)
+
 2024-04-24 | [盛开的白延龄草，安大略省，加拿大 (© Jun Zhang/Getty Images)](https://www.bing.com/th?id=OHR.TrilliumOntario_ZH-CN8327395975_UHD.jpg)
 
 2024-04-23 | [三一学院图书馆，都柏林，爱尔兰 (© Lukas Bischoff/Getty Images)](https://www.bing.com/th?id=OHR.TrinityDublin_ZH-CN7902993255_UHD.jpg)
