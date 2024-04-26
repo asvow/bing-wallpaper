@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-04-27 | [Tree of Life, Kalaloch Beach, Olympic National Park, Washington (© Abbie Warnock-Matthews/Shutterstock)](https://www.bing.com/th?id=OHR.KalalochTree_EN-US5565386489_UHD.jpg)
+
 2024-04-26 | [Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)](https://www.bing.com/th?id=OHR.PenguinDirections_EN-US5469437415_UHD.jpg)
 
 2024-04-25 | [White trilliums blooming in Ontario, Canada (© Jun Zhang/Getty Images)](https://www.bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg)
