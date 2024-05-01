@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-05-02 | [蓝龙熔岩流，月球陨石坑国家纪念碑和保护区，爱达荷州，美国 (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg)
+
 2024-05-01 | [夏威夷花环 (© Jotika Pun/Shutterstock)](https://www.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg)
 
 2024-04-30 | [清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚 (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg)
