@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-05-03 | [Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg)
+
 2024-05-02 | [Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)](https://www.bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg)
 
 2024-05-01 | [Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg)
