@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-05-07 | [一只小鸭子在水草地上游泳，萨福克郡，英国 (© Nick Hurst/Getty Images)](https://www.bing.com/th?id=OHR.LittleDuckling_ZH-CN2922471258_UHD.jpg)
+
 2024-05-06 | [罗奇斯山脊，英格兰峰区 (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_UHD.jpg)
 
 2024-05-05 | [圣米格尔德阿连德的柱廊，瓜那华托州，墨西哥 (© Mint Images/Getty Images)](https://www.bing.com/th?id=OHR.SanMiguelAllende_ZH-CN1840507091_UHD.jpg)
