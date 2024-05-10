@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-05-11 | [Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg)
+
 2024-05-10 | [Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)](https://www.bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg)
 
 2024-05-09 | [View of Château d'If in the port of Marseille, France (© Sergii Figurnyi/Alamy)](https://www.bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg)
