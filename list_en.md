@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-05-12 | [An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)](https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg)
+
 2024-05-11 | [Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg)
 
 2024-05-10 | [Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)](https://www.bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg)
