@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-05-21 | [卡梅隆高地茶园，马拉西亚 (© alex cheong/Getty Images)](https://www.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg)
+
 2024-05-20 | [蜜蜂照料蜂巢 (© Simun Ascic/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg)
 
 2024-05-19 | [韦尔纳扎村，五渔村，利古里亚，意大利 (© Roberto Moiola/Sysaworld/Getty Images)](https://www.bing.com/th?id=OHR.VernazzaItaly_ZH-CN6245826569_UHD.jpg)
