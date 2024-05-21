@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-05-22 | [塔斯马尼亚高山黄桉（假少花桉），费尔德山国家公园，塔斯马尼亚州，澳大利亚 (© Ignacio Palacios/Getty Images)](https://www.bing.com/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_UHD.jpg)
+
 2024-05-21 | [卡梅隆高地茶园，马拉西亚 (© alex cheong/Getty Images)](https://www.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg)
 
 2024-05-20 | [蜜蜂照料蜂巢 (© Simun Ascic/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg)
