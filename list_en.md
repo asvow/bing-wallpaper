@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-05-26 | [Aït Benhaddou, Morocco (© Grant Faint/Getty Images)](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg)
+
 2024-05-25 | [Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)](https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_UHD.jpg)
 
 2024-05-23 | [Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia (© Ignacio Palacios/Getty Images)](https://www.bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg)
