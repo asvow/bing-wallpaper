@@ -54,13 +54,13 @@ const josnEN = "bing_en.json";
           $.error(err);
           return
         }
-        if (!content.includes($.date)) {
+        if (!content.includes($.date) && !content.includes("undefined")) {
           fs.writeFileSync(readme,"## Bing Wallpaper\n");
           fs.appendFileSync(readme,"[中文](README.md) | [English](README_en.md)\n\n");
           fs.appendFileSync(readme,today);
           fs.appendFileSync(readme,"\n|      |      |      |");
           fs.appendFileSync(readme,"\n| :----: | :----: | :----: |");
-          content = content.replace("## Bing Wallpaper","").replace(/^.*中文.*$/mg, "").replace(/^.*Today.*$/mg, "").replace("|      |      |      |","").replace("| :----: | :----: | :----: |","").replace(/\|/g,"\n").replace(/\n\n/g,"");
+          content = content.replace("## Bing Wallpaper","").replace(/^.*中文.*$/mg, "").replace(/^.*Today.*$/mg, "").replace("|      |      |      |","").replace("| :----: | :----: | :----: |","").replace(/\|/g,"\n").replace(/\n\n/g,"").replace(/^.*undefined.*$\n/mg, "");
           content = addReadme + content;
           content.trim().split('\n').forEach(function(v, i) {
             (i+1)%3==0|(i+2)%3==0 ? fs.appendFileSync(readme,v+"|") : fs.appendFileSync(readme,"\n|"+v+"|");
@@ -74,10 +74,10 @@ const josnEN = "bing_en.json";
           $.error(err);
           return
         }
-        if (!content.includes($.date)) {
+        if (!content.includes($.date) && !content.includes("undefined")) {
           fs.writeFileSync(list,"## Bing Wallpaper\n");
           fs.appendFileSync(list,"[中文](list.md) | [English](list_en.md)\n\n");
-          content = content.replace("## Bing Wallpaper","").replace(/^.*中文.*$\n/mg, "");
+          content = content.replace("## Bing Wallpaper","").replace(/^.*中文.*$\n/mg, "").replace(/^.*undefined.*$\n/mg, "");
           content = addList + content;
           content.trim().split('\n').forEach(function(v, i) {
             fs.appendFileSync(list,v + "\n");
