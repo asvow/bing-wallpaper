@@ -1,6 +1,14 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-06-04 | [黑胸蜂虎，巴迪亚国家公园，尼泊尔 (© PACO COMO/Shutterstock)](https://www.bing.com/th?id=OHR.ChestnutBeeEater_ZH-CN3514753872_UHD.jpg)
+
+2024-06-03 | [哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)](https://www.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg)
+
+2024-06-02 | [普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)](https://www.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg)
+
+2024-06-01 | [帝王棕榈树，里约热内卢植物园，巴西 (© Marcia Silva de Mendonca/Getty Images)](https://www.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg)
+
 2024-05-31 | [冈纳塞德，斯韦尔代尔，约克郡谷地国家公园，英格兰 (© Derek Croucher/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_UHD.jpg)
 
 2024-05-30 | [一片斜纹松和锯齿草大沼泽地国家公园，佛罗里达州，美国 (© Jonathan Gewirtz/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.Everglades90th_ZH-CN9853372570_UHD.jpg)
@@ -16,8 +24,6 @@
 2024-05-25 | [阿伊特本哈杜，摩洛哥 (© Grant Faint/Getty Images)](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_ZH-CN8742267428_UHD.jpg)
 
 2024-05-24 | [阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙 (© Marisa Estivill/Shutterstock)](https://www.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_UHD.jpg)
-
-undefined | [undefined](undefined)
 
 2024-05-23 | [印度星龟，斯里兰卡 (© Robin Chittenden/Minden Pictures)](https://www.bing.com/th?id=OHR.IndianStarTortoise_ZH-CN7177478610_UHD.jpg)
 
