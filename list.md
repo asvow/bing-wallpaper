@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-06-05 | [马达加斯加的马苏阿拉国家公园 (© Dennis van de Water/Shutterstock)](https://www.bing.com/th?id=OHR.MadagascarRiver_ZH-CN3842472014_UHD.jpg)
+
 2024-06-04 | [黑胸蜂虎，巴迪亚国家公园，尼泊尔 (© PACO COMO/Shutterstock)](https://www.bing.com/th?id=OHR.ChestnutBeeEater_ZH-CN3514753872_UHD.jpg)
 
 2024-06-03 | [哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)](https://www.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg)
