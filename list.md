@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-06-15 | [在纳扎雷冲浪的冲浪者，葡萄牙 (© Rui Caria/Getty Images)](https://www.bing.com/th?id=OHR.NazareWave_ZH-CN4575182192_UHD.jpg)
+
 2024-06-14 | [佩姬湾灯塔，新斯科舍省，加拿大 (© Pugalenthi/Getty Images)](https://www.bing.com/th?id=OHR.PeggysCove_ZH-CN4221190894_UHD.jpg)
 
 2024-06-13 | [雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦撒 (© da-kuk/Getty Images)](https://www.bing.com/th?id=OHR.RegistanUzbekistan_ZH-CN7850329702_UHD.jpg)
