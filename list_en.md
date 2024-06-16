@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-06-17 | [Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](https://www.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg)
+
 2024-06-16 | [Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://www.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg)
 
 2024-06-15 | [Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)](https://www.bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg)
