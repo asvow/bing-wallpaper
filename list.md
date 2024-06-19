@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-06-20 | [科基诺，古代巨石观测站，北马其顿 (© stoimilov/Shutterstock)](https://www.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_UHD.jpg)
+
 2024-06-19 | [库克斯港的水塔，德国 (© Andreas Vogel/Alamy)](https://www.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_UHD.jpg)
 
 2024-06-18 | [日出时的羽扇豆田和教堂，斯奈山半岛，冰岛 (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.LupinIceland_ZH-CN5329147708_UHD.jpg)
