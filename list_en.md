@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-06-21 | [Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)](https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg)
+
 2024-06-20 | [Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)](https://www.bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg)
 
 2024-06-19 | [Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg)
