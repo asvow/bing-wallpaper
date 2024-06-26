@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-06-27 | [Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg)
+
 2024-06-26 | [Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg)
 
 2024-06-25 | [Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg)
