@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-07-01 | [菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大 (© davemantel/Getty Images)](https://www.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg)
+
 2024-06-30 | [乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture)](https://www.bing.com/th?id=OHR.UbudBali_ZH-CN4891348277_UHD.jpg)
 
 2024-06-29 | [宁哈根的山毛榉林，梅克伦堡-前波美拉尼亚州，德国 (© Martin Ruegner/Getty Images)](https://www.bing.com/th?id=OHR.NienhagenMecklenburg_ZH-CN4482269700_UHD.jpg)
