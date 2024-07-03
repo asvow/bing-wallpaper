@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-07-04 | [Meerkat family (© anetapics/Shutterstock)](https://www.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg)
+
 2024-07-03 | [The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg)
 
 2024-07-02 | [Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)](https://www.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg)
