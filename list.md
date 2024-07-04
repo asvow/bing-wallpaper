@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-07-05 | [丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)](https://www.bing.com/th?id=OHR.NoahBeach_ZH-CN6676061324_UHD.jpg)
+
 2024-07-04 | [扎哈拉德拉谢拉，安达卢西亚，西班牙 (© Francesco Carovillano/eStock Photo)](https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg)
 
 2024-07-03 | [猫鼬家族 (© anetapics/Shutterstock)](https://www.bing.com/th?id=OHR.MeerkatManor_ZH-CN2486051161_UHD.jpg)
