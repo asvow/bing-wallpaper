@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-07-09 | [阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)](https://www.bing.com/th?id=OHR.TalampayaNP_ZH-CN7905859626_UHD.jpg)
+
 2024-07-08 | [野生蓝莓 (© Baac3nes/Getty Images)](https://www.bing.com/th?id=OHR.NorwayBlueberries_ZH-CN7643097235_UHD.jpg)
 
 2024-07-07 | [越南安沛省木仓寨的水稻梯田 (© Kiatanan Sugsompian/Getty Images)](https://www.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_UHD.jpg)
