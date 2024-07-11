@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-07-12 | [Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg)
+
 2024-07-11 | [Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg)
 
 2024-07-10 | [Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)](https://www.bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg)
