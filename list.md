@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-07-20 | [月球 (© Victor Blum/Getty Images)](https://www.bing.com/th?id=OHR.MineralMoon_ZH-CN2555749456_UHD.jpg)
+
 2024-07-19 | [河岸上的一只年轻美洲虎，潘塔纳尔，巴西 (© Tambako the Jaguar/Getty Images)](https://www.bing.com/th?id=OHR.YoungJaguar_ZH-CN2249923627_UHD.jpg)
 
 2024-07-18 | [Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)](https://www.bing.com/th?id=OHR.MayotteCoral_ZH-CN8106288026_UHD.jpg)
