@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-01 | [卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.KaptaiLake_ZH-CN9085738832_UHD.jpg)
+
 2024-07-31 | [石林，日落点，布莱斯峡谷国家公园，犹他州，美国 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.HoodoosBryce_ZH-CN8398575172_UHD.jpg)
 
 2024-07-30 | [圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚 (© MNStudio/Shutterstock)](https://www.bing.com/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_UHD.jpg)
