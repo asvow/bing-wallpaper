@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-07 | [Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)](https://www.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg)
+
 2024-08-06 | [Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg)
 
 2024-08-05 | [Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)](https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg)
