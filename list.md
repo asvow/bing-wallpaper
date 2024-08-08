@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-09 | [库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)](https://www.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_UHD.jpg)
+
 2024-08-08 | [横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)](https://www.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_UHD.jpg)
 
 2024-08-07 | [圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_UHD.jpg)
