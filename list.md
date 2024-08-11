@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-12 | [非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)](https://www.bing.com/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_UHD.jpg)
+
 2024-08-11 | [通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省 (© EB Adventure Photography/Shutterstock)](https://www.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_UHD.jpg)
 
 2024-08-10 | [约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.JoshuaTreeNP_ZH-CN5917576674_UHD.jpg)
