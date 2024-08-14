@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-15 | [韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)](https://www.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg)
+
 2024-08-14 | [澳洲魔蜥，瓦塔卡国家公园，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.WatarrkaLizard_ZH-CN7974623468_UHD.jpg)
 
 2024-08-13 | [特拉斯契卡自然公园悬崖，杜吉奥托克岛，克罗地亚 (© Ilija Ascic/Shutterstock)](https://www.bing.com/th?id=OHR.DugiOtokCroatia_ZH-CN7791404392_UHD.jpg)
