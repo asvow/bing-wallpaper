@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-17 | [阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg)
+
 2024-08-16 | [长岛温泉乐园的过山车，三重县，日本 (© Japanese amateur photographer/Getty Images)](https://www.bing.com/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_UHD.jpg)
 
 2024-08-15 | [韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)](https://www.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg)
