@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-19 | [Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.RegataSanGines_ZH-CN0807566522_UHD.jpg)
+
 2024-08-18 | [日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_UHD.jpg)
 
 2024-08-17 | [阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg)
