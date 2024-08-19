@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-20 | [大提顿国家公园日出,怀俄明州,美国 (© Kurt Budliger/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.TetonSunrise_ZH-CN1118823848_UHD.jpg)
+
 2024-08-19 | [Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.RegataSanGines_ZH-CN0807566522_UHD.jpg)
 
 2024-08-18 | [日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_UHD.jpg)
