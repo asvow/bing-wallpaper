@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-20 | [Museum of Flight, Seattle, Washington (© George Rose/Getty Images)](https://www.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg)
+
 2024-08-19 | [Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg)
 
 2024-08-18 | [Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg)
