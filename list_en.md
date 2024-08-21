@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-22 | [Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg)
+
 2024-08-21 | [Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg)
 
 2024-08-20 | [Museum of Flight, Seattle, Washington (© George Rose/Getty Images)](https://www.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg)
