@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-23 | [帕侬蓝寺，武里南府，泰国 (© Banjongseal324/Getty Images)](https://www.bing.com/th?id=OHR.PrasatPhanom_ZH-CN0445884858_UHD.jpg)
+
 2024-08-22 | [海洋城日出时的鸟瞰图，马里兰州，美国 (© Kevin Olson/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.OceanCityMD_ZH-CN1876928284_UHD.jpg)
 
 2024-08-21 | [纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.NazcaBooby_ZH-CN1534931799_UHD.jpg)
