@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-23 | [Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg)
+
 2024-08-22 | [Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg)
 
 2024-08-21 | [Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg)
