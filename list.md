@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-24 | [卡塔丁森林和水域国家纪念碑，佩诺布斯科特县，缅因州，美国 (© Cavan Images/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.KatahdinWoods_ZH-CN0748954905_UHD.jpg)
+
 2024-08-23 | [帕侬蓝寺，武里南府，泰国 (© Banjongseal324/Getty Images)](https://www.bing.com/th?id=OHR.PrasatPhanom_ZH-CN0445884858_UHD.jpg)
 
 2024-08-22 | [海洋城日出时的鸟瞰图，马里兰州，美国 (© Kevin Olson/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.OceanCityMD_ZH-CN1876928284_UHD.jpg)
