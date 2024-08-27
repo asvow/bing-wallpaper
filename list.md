@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-08-28 | [蒙马特和圣心大教堂，巴黎，法国 (© Tuul & Bruno Morandi/Getty Images)](https://www.bing.com/th?id=OHR.ParalympicsParis_ZH-CN9773135851_UHD.jpg)
+
 2024-08-27 | [黑色凯门鳄幼崽，坦博帕塔国家保护区，秘鲁 (© Maxime Aliaga/Minden Pictures)](https://www.bing.com/th?id=OHR.YoungCaiman_ZH-CN1995433788_UHD.jpg)
 
 2024-08-26 | [巴尔米拉环礁国家野生动物保护区，中太平洋 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PalmyraAtoll_ZH-CN1814325540_UHD.jpg)
