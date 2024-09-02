@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-09-03 | ['Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)](https://www.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg)
+
 2024-09-02 | [River Thames, London, England (© Puthipong Worasaran/Getty Images)](https://www.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg)
 
 2024-09-01 | [Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg)
