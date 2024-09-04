@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-09-05 | [Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)](https://www.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg)
+
 2024-09-04 | [Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg)
 
 2024-09-03 | ['Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)](https://www.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg)
