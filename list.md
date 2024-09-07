@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-09-08 | [加泰罗尼亚北部的圣马丁杜卡尼古修道院 ，法国 (© Cyril Gosselin/Getty Images)](https://www.bing.com/th?id=OHR.Canigou_ZH-CN6145410455_UHD.jpg)
+
 2024-09-07 | [朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© yhelfman/Getty Images)](https://www.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_UHD.jpg)
 
 2024-09-06 | [古老山毛榉树，格莱纳里夫森林公园，安特里姆郡，北爱尔兰 (© Dawid K Photography/Shutterstock)](https://www.bing.com/th?id=OHR.GlenariffPark_ZH-CN4667558707_UHD.jpg)
