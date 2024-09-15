@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-09-16 | [日出时的小袋鼠，阿德莱德河，北领地，澳大利亚 (© Jeremy Woodhouse/Getty Images)](https://www.bing.com/th?id=OHR.SunriseWallabies_ZH-CN8725891401_UHD.jpg)
+
 2024-09-15 | [阿科马尼奥海滩，卡拉布里亚，意大利 (© Alessio de Cicco/Getty Images)](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_ZH-CN8603617212_UHD.jpg)
 
 2024-09-14 | [阿胡汤加里基的日出，拉帕·努伊国家公园，复活节岛，智利 (© Piriya Photography/Getty Images)](https://www.bing.com/th?id=OHR.RapaNuiSunrise_ZH-CN1220508877_UHD.jpg)
