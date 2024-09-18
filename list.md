@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-09-19 | [埃尔博河上空的银河，阿尔伯塔省，加拿大 (© Alan Dyer/Getty Images)](https://www.bing.com/th?id=OHR.ElbowRiver_ZH-CN9580175593_UHD.jpg)
+
 2024-09-18 | [郡上八幡城，岐阜县，日本 (© ta2funk ito/500px/Getty Images)](https://www.bing.com/th?id=OHR.GujoHachiman_ZH-CN9192289658_UHD.jpg)
 
 2024-09-17 | [月圆之夜的豫园，上海，中国 (© zyxeos30/Gettyimages)](https://www.bing.com/th?id=OHR.MidAutumnFestival2024_ZH-CN9096556094_UHD.jpg)
