@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-09-21 | [Oktoberfest in Munich at sunset (© AllesSuper21/iStock/Getty Images)](https://www.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_UHD.jpg)
+
 2024-09-20 | [奥克拉科克岛上的奥克拉科克灯塔，北卡罗来纳州，美国 (© Chansak Joe/Getty Images)](https://www.bing.com/th?id=OHR.OcracokeLight_ZH-CN9810840077_UHD.jpg)
 
 2024-09-19 | [埃尔博河上空的银河，阿尔伯塔省，加拿大 (© Alan Dyer/Getty Images)](https://www.bing.com/th?id=OHR.ElbowRiver_ZH-CN9580175593_UHD.jpg)
