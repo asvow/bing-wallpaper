@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-09-24 | [斯卡夫塔山的瀑布，瓦特纳冰川国家公园，冰岛 (© Nopasorn Kowathanakul/Getty Images)](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_ZH-CN1766863001_UHD.jpg)
+
 2024-09-23 | [海獭，威廉王子湾,阿拉斯加州,美国 (© Gerald Corsi/Getty Images)](https://www.bing.com/th?id=OHR.IcebergOtter_ZH-CN0972467238_UHD.jpg)
 
 2024-09-22 | [巴特米尔湖，湖区国家公园，英格兰，英国 (© Alan Novelli/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_UHD.jpg)
