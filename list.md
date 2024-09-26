@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-09-27 | [大运河和安康圣母教堂的鸟瞰图，威尼斯，意大利 (© Bachir Moukarzel/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_UHD.jpg)
+
 2024-09-26 | [蓝斑巨嘴鸟，洛斯戈查尔斯国家公园，哥斯达黎加 (© Oscar Dominguez/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LittleToucanet_ZH-CN2910262009_UHD.jpg)
 
 2024-09-25 | [巨型红杉，红杉国家公园，加利福尼亚州，美国 (© Galyna Andrushko/Shutterstock)](https://www.bing.com/th?id=OHR.GiantSequoias_ZH-CN2666897238_UHD.jpg)
