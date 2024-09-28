@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-09-29 | [横跨胡萨托尼克河的西康沃尔廊桥，康涅狄格州，美国 (© pabradyphoto/Getty Images)](https://www.bing.com/th?id=OHR.ConnecticutBridge_ZH-CN4957862425_UHD.jpg)
+
 2024-09-28 | [日出时的海滩，海湾岛国家海岸，佛罗里达，美国 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.FloridaSeashore_ZH-CN4671838639_UHD.jpg)
 
 2024-09-27 | [大运河和安康圣母教堂的鸟瞰图，威尼斯，意大利 (© Bachir Moukarzel/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_UHD.jpg)
