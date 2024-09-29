@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-09-30 | [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg)
+
 2024-09-29 | [Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg)
 
 2024-09-28 | [Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg)
