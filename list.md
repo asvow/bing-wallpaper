@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-10-05 | [东察沃国家公园的非洲象，肯尼亚 (© Neil Bowman/Minden Pictures)](https://www.bing.com/th?id=OHR.ElephantTeacher_ZH-CN0543308499_UHD.jpg)
+
 2024-10-04 | [木星的冰卫星木卫二 (© NASA/JPL-Caltech/SETI Institute)](https://www.bing.com/th?id=OHR.EuropaMoon_ZH-CN0149249980_UHD.jpg)
 
 2024-10-03 | [阿格拉的泰姬陵，安拉阿巴德，印度 (© Tanarch/Getty Images)](https://www.bing.com/th?id=OHR.TajMahalReflection_ZH-CN7498774173_UHD.jpg)
