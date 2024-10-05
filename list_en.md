@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-10-06 | [African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg)
+
 2024-10-05 | [Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](https://www.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg)
 
 2024-10-04 | [Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg)
