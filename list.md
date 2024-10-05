@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-10-06 | [郊狼峡谷拱门中的白杨树，格兰峡谷休闲区，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CoyoteGulch_ZH-CN2869463336_UHD.jpg)
+
 2024-10-05 | [东察沃国家公园的非洲象，肯尼亚 (© Neil Bowman/Minden Pictures)](https://www.bing.com/th?id=OHR.ElephantTeacher_ZH-CN0543308499_UHD.jpg)
 
 2024-10-04 | [木星的冰卫星木卫二 (© NASA/JPL-Caltech/SETI Institute)](https://www.bing.com/th?id=OHR.EuropaMoon_ZH-CN0149249980_UHD.jpg)
