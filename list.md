@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-10-10 | [索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)](https://www.bing.com/th?id=OHR.SoranoItaly_ZH-CN5842160079_UHD.jpg)
+
 2024-10-09 | [马布尔附近的白杨树，科罗拉多州，美国 (© Jason Hatfield/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.AspensColorado_ZH-CN0132780533_UHD.jpg)
 
 2024-10-08 | [索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)](https://www.bing.com/th?id=OHR.SoranoItaly_ZH-CN1190725201_UHD.jpg)
