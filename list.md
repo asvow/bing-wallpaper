@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-10-12 | [林鸳鸯，魁北克省，加拿大 (© Maxime Riendeau/Getty Images)](https://www.bing.com/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg)
+
 2024-10-11 | [黄山云海，安徽省，中国 (© yangyang1991/Getty Images)](https://www.bing.com/th?id=OHR.Chongyang2024_ZH-CN4180097837_UHD.jpg)
 
 2024-10-10 | [索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)](https://www.bing.com/th?id=OHR.SoranoItaly_ZH-CN5842160079_UHD.jpg)
