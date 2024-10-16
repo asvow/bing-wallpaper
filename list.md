@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-10-17 | [地肤草，茨城县，日本 (© DigiPub/Getty Images)](https://www.bing.com/th?id=OHR.KochiaJapan_ZH-CN9896157139_UHD.jpg)
+
 2024-10-16 | [侏罗纪海岸的箭石和菊石化石，多塞特郡，英国 (© Nature Picture Library/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.FossilsDorset_ZH-CN8722623801_UHD.jpg)
 
 2024-10-15 | [马拉河的角马大迁徙，肯尼亚 (© Ayzenstayn/Getty Images)](https://www.bing.com/th?id=OHR.MaraMigration_ZH-CN8215566853_UHD.jpg)
