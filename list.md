@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-10-20 | [哥斯达黎加的三趾树懒 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg)
+
 2024-10-19 | [哈索尔神庙，邓德拉神庙群，基纳，埃及 (© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.DenderaTemple_ZH-CN3097745887_UHD.jpg)
 
 2024-10-18 | [曼哈顿中央公园的秋天，纽约，美国 (© mapman/Shutterstock)](https://www.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_UHD.jpg)
