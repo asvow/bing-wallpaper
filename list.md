@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-10-30 | [从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg)
+
 2024-10-29 | [大雕鸮 (© Mark Newman/Getty Images)](https://www.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg)
 
 2024-10-28 | [南瓜田，维多利亚，不列颠哥伦比亚省，加拿大 (© Shaun Cunningham/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_UHD.jpg)
