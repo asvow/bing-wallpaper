@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-10-31 | [巴黎圣母院的奇美拉，法国 (© scaliger/Getty Images)](https://www.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg)
+
 2024-10-30 | [从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg)
 
 2024-10-29 | [大雕鸮 (© Mark Newman/Getty Images)](https://www.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg)
