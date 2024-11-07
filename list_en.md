@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-11-08 | [Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy)](https://www.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg)
+
 2024-11-07 | [Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg)
 
 2024-11-06 | [Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg)
