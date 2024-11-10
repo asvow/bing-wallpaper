@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-11-11 | [Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg)
+
 2024-11-10 | [Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg)
 
 2024-11-09 | [Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)](https://www.bing.com/th?id=OHR.GlacialRivers_EN-US4356459123_UHD.jpg)
