@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-11-11 | [班夫国家公园的日落，阿尔伯塔省，加拿大 (© fywPhoto 云卷云舒/Getty Images)](https://www.bing.com/th?id=OHR.Banff24_ZH-CN1156176817_UHD.jpg)
+
 2024-11-10 | [加勒比火烈鸟，尤卡坦半岛，墨西哥 (© Claudio Contreras/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg)
 
 2024-11-09 | [银河，阿伊特本哈杜杜，摩洛哥 (© Cavan Images/Getty Images)](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg)
