@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-11-13 | [巨型海藻森林中的加州海狮，下加利福尼亚，墨西哥 (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.KelpForest_ZH-CN2357269491_UHD.jpg)
+
 2024-11-12 | [透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国 (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg)
 
 
