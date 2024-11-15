@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-11-16 | [瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰 (© Ron ter Burg/Minden Pictures)](https://www.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg)
+
 2024-11-15 | [义蓬灯节 ，清迈，泰国 (© tampatra/Getty Images)](https://www.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg)
 
 2024-11-14 | [马纳罗拉，五渔村国家公园，利古里亚，意大利 (© John_Silver/Shutterstock)](https://www.bing.com/th?id=OHR.ManarolaItaly_ZH-CN2837915120_UHD.jpg)
