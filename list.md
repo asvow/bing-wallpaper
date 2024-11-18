@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-11-19 | [塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)](https://www.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg)
+
 2024-11-18 | [波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_UHD.jpg)
 
 2024-11-17 | [加里东林中的马鹿，阿夫力谷，苏格兰高地 (© Terry Whittaker/Alamy)](https://www.bing.com/th?id=OHR.RedStag_ZH-CN6403546321_UHD.jpg)
