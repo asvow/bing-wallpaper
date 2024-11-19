@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-11-20 | [皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)](https://www.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg)
+
 2024-11-19 | [塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)](https://www.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg)
 
 2024-11-18 | [波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_UHD.jpg)
