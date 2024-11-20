@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-11-21 | [日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images)](https://www.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg)
+
 2024-11-20 | [皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)](https://www.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg)
 
 2024-11-19 | [塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)](https://www.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg)
