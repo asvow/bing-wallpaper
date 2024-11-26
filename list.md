@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-11-27 | [秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)](https://www.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg)
+
 2024-11-26 | [橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)](https://www.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg)
 
 2024-11-25 | [马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg)
