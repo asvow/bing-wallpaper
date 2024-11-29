@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-11-30 | [Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)](https://www.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg)
+
 2024-11-29 | [Wild turkeys, New York (© John Cancalosi/Alamy)](https://www.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg)
 
 2024-11-28 | [Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty)](https://www.bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg)
