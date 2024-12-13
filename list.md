@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-12-14 | [猛鸮，加拿大 (© pchoui/Getty Images)](https://www.bing.com/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg)
+
 2024-12-13 | [圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利 (© Calin Stan/Shutterstock)](https://www.bing.com/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg)
 
 2024-12-12 | [一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.WildPoinsettia_ZH-CN9570708784_UHD.jpg)
