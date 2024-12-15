@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-12-16 | [萨尔茨堡，奥地利 (© bluejayphoto/Getty Images)](https://www.bing.com/th?id=OHR.SalzburgSnow_ZH-CN0964131994_UHD.jpg)
+
 2024-12-15 | [米苏里纳湖，多洛米蒂山脉，意大利 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.MisurinaLake_ZH-CN0744434715_UHD.jpg)
 
 2024-12-14 | [猛鸮，加拿大 (© pchoui/Getty Images)](https://www.bing.com/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg)
