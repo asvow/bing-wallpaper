@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-12-16 | [Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg)
+
 2024-12-15 | [Northern hawk-owl, Canada (© pchoui/Getty Images)](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg)
 
 2024-12-14 | [Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg)
