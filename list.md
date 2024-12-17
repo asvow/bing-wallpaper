@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-12-18 | [印度吉姆科比特国家公园的大象，印度 (© ABHILASH VISWA PICASSO/Shutterstock)](https://www.bing.com/th?id=OHR.MorningElephants_ZH-CN1418579765_UHD.jpg)
+
 2024-12-17 | [传统红色渔民小屋，雷讷峡湾岸边，挪威 (© Pilat666/Getty Images)](https://www.bing.com/th?id=OHR.ReinefjordenNorway_ZH-CN1198843758_UHD.jpg)
 
 2024-12-16 | [萨尔茨堡，奥地利 (© bluejayphoto/Getty Images)](https://www.bing.com/th?id=OHR.SalzburgSnow_ZH-CN0964131994_UHD.jpg)
