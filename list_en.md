@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-12-26 | [Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg)
+
 2024-12-25 | [Christmas market scene in Germany (© Cyril Gosselin/Getty Images)](https://www.bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg)
 
 2024-12-24 | [Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)](https://www.bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_UHD.jpg)
