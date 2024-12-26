@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2024-12-27 | [布莱德湖，斯洛文尼亚 (© Kesu01/Getty Images)](https://www.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg)
+
 2024-12-26 | [莫斯霍尔港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)](https://www.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg)
 
 2024-12-25 | [科瓦东加湖，阿斯图里亚斯，西班牙 (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg)
