@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-01-10 | [亚伯拉罕湖，阿尔伯塔省，加拿大 (© Basic Elements Photography/Getty Images)](https://www.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg)
+
 2025-01-09 | [苏丝斯黎沙丘，纳米布沙漠，纳米比亚 (© Airpano/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.NamibiaDunes_ZH-CN5102483490_UHD.jpg)
 
 2025-01-08 | [被雪覆盖的长城，中国 (© View Stock/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.GreatWallStairs_ZH-CN4045949792_UHD.jpg)
