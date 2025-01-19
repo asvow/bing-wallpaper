@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-01-20 | [Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg)
+
 2025-01-19 | [Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)](https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg)
 
 2025-01-18 | [Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)](https://www.bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_UHD.jpg)
