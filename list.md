@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-01-22 | [代尔修道院，佩特拉，约旦 (© Punnawit Suwuttananun/Getty Images)](https://www.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg)
+
 2025-01-21 | [俯瞰那不勒斯湾和维苏威火山，意大利 (© ezypix/Getty Images)](https://www.bing.com/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg)
 
 2025-01-20 | [欧亚红松鼠与毒蘑菇 (© Edwin Giesbers/Minden Pictures)](https://www.bing.com/th?id=OHR.DutchSquirrel_ZH-CN3896893818_UHD.jpg)
