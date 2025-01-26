@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-01-27 | [琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国 (© Nick Lake/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_UHD.jpg)
+
 2025-01-26 | [比利时的欧洲山毛榉森林 (© Philippe Moes/Minden Pictures)](https://www.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg)
 
 2025-01-25 | [波尔图，葡萄牙 (© Starcevic/Getty Images)](https://www.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg)
