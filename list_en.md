@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-01-29 | [Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)](https://www.bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg)
+
 2025-01-28 | [Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg)
 
 2025-01-27 | [European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://www.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg)
