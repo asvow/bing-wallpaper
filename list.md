@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-01-30 | [罗兰多山口，奥德萨和佩迪多山国家公园，西班牙 (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_UHD.jpg)
+
 2025-01-29 | [南京夫子庙的春节许愿牌，江苏省，中国 (© lazy dragon/Shutterstock)](https://www.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg)
 
 2025-01-28 | [夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)](https://www.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg)
