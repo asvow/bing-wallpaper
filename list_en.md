@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-02-02 | [National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)](https://www.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg)
+
 2025-02-01 | [Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)](https://www.bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg)
 
 2025-01-31 | [La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)](https://www.bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg)
