@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-02-04 | [金桥，巴拿山，岘港，越南 (© Hien Phung Thu/Shutterstock)](https://www.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg)
+
 2025-02-03 | [盛开的樱花树上的红头长尾山雀 (© Haitong Yu/Getty Images)](https://www.bing.com/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_UHD.jpg)
 
 2025-02-02 | [年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)](https://www.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg)
