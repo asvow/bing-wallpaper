@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-02-05 | [拱门群岛，瓦拉里基海滩，南岛，新西兰 (© Francesco Vaninetti/AWL/plainpicture)](https://www.bing.com/th?id=OHR.ScottishSheep_ZH-CN3051181797_UHD.jpg)
+
 2025-02-04 | [金桥，巴拿山，岘港，越南 (© Hien Phung Thu/Shutterstock)](https://www.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg)
 
 2025-02-03 | [盛开的樱花树上的红头长尾山雀 (© Haitong Yu/Getty Images)](https://www.bing.com/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_UHD.jpg)
