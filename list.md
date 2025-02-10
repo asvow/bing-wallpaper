@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-02-11 | [云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)](https://www.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg)
+
 2025-02-10 | [雨伞艺术装置，博罗市场，伦敦，英国 (© Malcolm P Chapman/Getty Images)](https://www.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg)
 
 2025-02-09 | [阿尔斯特罗姆角，鲍威尔湖，犹他州，美国 (© T.M. Schultze/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_UHD.jpg)
