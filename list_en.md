@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-02-12 | [Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg)
+
 2025-02-11 | [Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](https://www.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg)
 
 2025-02-10 | [Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg)
