@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-02-17 | [Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)](https://www.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg)
+
 2025-02-16 | [座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures)](https://www.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg)
 
 2025-02-15 | [三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock)](https://www.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg)
