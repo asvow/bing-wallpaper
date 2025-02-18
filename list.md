@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-02-19 | [欧亚水獭，莱利斯塔德，荷兰 (© Ernst Dirksen/Minden Pictures)](https://www.bing.com/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg)
+
 2025-02-18 | [大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock)](https://www.bing.com/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg)
 
 2025-02-17 | [Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)](https://www.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg)
