@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-02-21 | [希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg)
+
 2025-02-20 | [马鹿，加拿大 (© Delbars/Getty Images)](https://www.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg)
 
 2025-02-19 | [欧亚水獭，莱利斯塔德，荷兰 (© Ernst Dirksen/Minden Pictures)](https://www.bing.com/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg)
