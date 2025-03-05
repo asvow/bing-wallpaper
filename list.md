@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-03-06 | [沙漠大角羊，内华达州火焰谷州立公园，美国 (© Rachid Dahnoun/Cavan Images)](https://www.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg)
+
 2025-03-05 | [俯瞰拷索山林国家公园，素叻府，泰国 (© Peetatham Kongkapech/Getty Images)](https://www.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg)
 
 2025-03-04 | [杰克逊广场，新奥尔良，路易斯安那州，美国 (© SeanPavonePhoto/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg)
