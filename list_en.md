@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-03-07 | [Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg)
+
 2025-03-06 | [Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)](https://www.bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg)
 
 2025-03-05 | [Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg)
