@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-03-09 | [Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)](https://www.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg)
+
 2025-03-08 | [Plum blossoms in China (© zhikun sun/Getty Images)](https://www.bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg)
 
 2025-03-07 | [Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg)
