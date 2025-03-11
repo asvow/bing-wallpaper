@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-03-12 | [Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)](https://www.bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg)
+
 2025-03-11 | [A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)](https://www.bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg)
 
 2025-03-10 | [St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)](https://www.bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg)
