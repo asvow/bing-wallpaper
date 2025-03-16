@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-03-17 | [塞缪尔·贝克特桥, 都柏林, 爱尔兰 (© Colm Keating/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BeckettBridge_ZH-CN6206942429_UHD.jpg)
+
 2025-03-16 | [雪地里的大熊猫宝宝，中国 (© Cheryl Schneider/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.PandaSnow_ZH-CN5981854301_UHD.jpg)
 
 2025-03-15 | [罗马广场上的罗马萨图尔诺农神庙，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/th?id=OHR.ForumRomanum_ZH-CN5873120178_UHD.jpg)
