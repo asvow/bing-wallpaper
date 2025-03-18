@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-03-19 | [黑鹭捕鱼，乔贝国家公园，博茨瓦纳 (© Paul Souders/Minden PIctures)](https://www.bing.com/th?id=OHR.BlackHeron_ZH-CN6764711050_UHD.jpg)
+
 2025-03-18 | [红色岩层，塞多纳，亚利桑那州，美国 (© Jim Ekstrand/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg)
 
 2025-03-17 | [塞缪尔·贝克特桥, 都柏林, 爱尔兰 (© Colm Keating/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BeckettBridge_ZH-CN6206942429_UHD.jpg)
