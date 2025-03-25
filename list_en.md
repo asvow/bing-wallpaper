@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-03-26 | [Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)](https://www.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg)
+
 2025-03-25 | [Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)](https://www.bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg)
 
 2025-03-24 | [Lightning and storm clouds at sunset near Bowman, Nebraska (© john finney photography/Getty Images)](https://www.bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg)
