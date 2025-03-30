@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-03-31 | [黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)](https://www.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg)
+
 2025-03-30 | [悉尼港鸟瞰图，新南威尔士州，澳大利亚 (© jamenpercy/Getty Images)](https://www.bing.com/th?id=OHR.SydneyHarbour_ZH-CN8119451632_UHD.jpg)
 
 2025-03-29 | [卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国 (© Robb Hirsch/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_UHD.jpg)
