@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-03-31 | [Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg)
+
 2025-03-30 | [Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg)
 
 2025-03-29 | [Female black-naped monarch nesting (© komkrit tonusin/Alamy)](https://www.bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg)
