@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-04-02 | [凯恩维尔附近荒地的砂岩地层, 犹他州, 美国 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg)
+
 2025-04-01 | [树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg)
 
 2025-03-31 | [黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)](https://www.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg)
