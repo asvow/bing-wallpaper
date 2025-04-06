@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-04-07 | [美洲海狸, Moran, 怀俄明州, 美国 (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg)
+
 2025-04-06 | [碎片大厦，伦敦 (© Dennis Fischer Photography/Moment/Getty Images)](https://www.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg)
 
 2025-04-05 | [日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙 (© Eloi_Omella/Getty Images)](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg)
