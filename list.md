@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-04-09 | [纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)](https://www.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg)
+
 2025-04-08 | [春天的水仙花在清晨绽放 (© LedyX/Shutterstock)](https://www.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg)
 
 2025-04-07 | [美洲海狸, Moran, 怀俄明州, 美国 (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg)
