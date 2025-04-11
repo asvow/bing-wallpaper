@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-04-12 | [从国际空间站穹顶俯瞰南太平洋 (© NASA)](https://www.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg)
+
 2025-04-11 | [郁金香，荷兰 (© 1111IESPDJ/Getty Images)](https://www.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_UHD.jpg)
 
 2025-04-10 | [靠近巢穴的红狐幼崽 (© WildMedia/Shutterstock)](https://www.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_UHD.jpg)
