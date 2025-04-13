@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-04-14 | [圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙 (© Jordi Chias/Minden Pictures)](https://www.bing.com/th?id=OHR.SpottedDolphins_ZH-CN1257100316_UHD.jpg)
+
 2025-04-13 | [班克鲁特的唐赛寺，泰国 (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.ThailandPagodas_ZH-CN1143878296_UHD.jpg)
 
 2025-04-12 | [从国际空间站穹顶俯瞰南太平洋 (© NASA)](https://www.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg)
