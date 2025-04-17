@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-04-18 | [Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)](https://www.bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg)
+
 2025-04-17 | [Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg)
 
 2025-04-16 | [Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France (© Hemis/Alamy)](https://www.bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg)
