@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-04-23 | [海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国 (© Frank Lukasseck/eStock Photo)](https://www.bing.com/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_UHD.jpg)
+
 2025-04-22 | [大棱镜彩泉，黄石国家公园，怀俄明州，美国 (© Ajith Kumar/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_UHD.jpg)
 
 2025-04-21 | [银河下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)](https://www.bing.com/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg)
