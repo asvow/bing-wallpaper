@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-04-27 | [Grove of redwoods in Redwood National and State Parks, California (© Bob Pool/Getty Images)](https://www.bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg)
+
 2025-04-26 | [Magellanic penguins, Volunteer Point, Falkland Islands (© imageBROKER/Matthias Graben/Getty Images)](https://www.bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg)
 
 2025-04-25 | [Spire Cove in Kenai Fjords National Park, Seward, Alaska (© Wander Photography/Getty Images)](https://www.bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg)
