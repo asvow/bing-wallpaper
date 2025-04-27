@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-04-28 | [莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg)
+
 2025-04-27 | [红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)](https://www.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg)
 
 2025-04-26 | [印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大 (© Maurice Prokaziuk/Getty Images)](https://www.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg)
