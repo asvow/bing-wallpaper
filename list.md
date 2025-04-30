@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-01 | [鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)](https://www.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg)
+
 2025-04-30 | [从巴拉那州看到的伊瓜苏瀑布, 巴西 (© agustavop/Getty Images)](https://www.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg)
 
 2025-04-29 | [维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)](https://www.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg)
