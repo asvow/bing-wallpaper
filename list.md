@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-03 | [拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)](https://www.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg)
+
 2025-05-02 | [维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西 (© Gerald Corsi/Getty Images)](https://www.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg)
 
 2025-05-01 | [鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)](https://www.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg)
