@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-06 | [一架超轻型飞机飞越纳米比亚沙漠 (© Burt Johnson/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.FlyoverNamibia_ZH-CN2114171516_UHD.jpg)
+
 2025-05-05 | [日出时分，美丽的喀斯特山脉鸟瞰图，中国桂林 (© zhaojiankang/Getty Images)](https://www.bing.com/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236_UHD.jpg)
 
 2025-05-04 | [西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)](https://www.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg)
