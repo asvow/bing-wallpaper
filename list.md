@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-08 | [Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg)
+
 2025-05-07 | [邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)](https://www.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg)
 
 2025-05-06 | [一架超轻型飞机飞越纳米比亚沙漠 (© Burt Johnson/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.FlyoverNamibia_ZH-CN2114171516_UHD.jpg)
