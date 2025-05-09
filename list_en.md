@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-10 | [Common chameleon (© Photostock-Israel/SPL/Getty Images)](https://www.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg)
+
 2025-05-09 | [Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg)
 
 2025-05-08 | [Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)](https://www.bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg)
