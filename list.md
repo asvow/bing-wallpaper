@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-10 | [巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙 (© Eloi_Omella/Getty Images)](https://www.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_UHD.jpg)
+
 2025-05-09 | [普通变色龙 (© Photostock-Israel/SPL/Getty Images)](https://www.bing.com/th?id=OHR.CuteChameleon_ZH-CN5029981236_UHD.jpg)
 
 2025-05-08 | [Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg)
