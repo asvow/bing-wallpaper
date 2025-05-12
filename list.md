@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-13 | [百内国家公园, 巴塔哥尼亚, 智利 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg)
+
 2025-05-12 | [东京的鸢尾花园, 日本 (© M.Arai/Getty Images)](https://www.bing.com/th?id=OHR.IrisGarden_ZH-CN6226448882_UHD.jpg)
 
 2025-05-11 | [豹妈妈正在梳理她的幼崽，Jao保护区，博茨瓦纳 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.LeopardMother_ZH-CN6134353524_UHD.jpg)
