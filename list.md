@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-15 | [大本钟和国会大厦, 威斯敏斯特宫, 伦敦, 英国 (© Puthipong Worasaran/Getty Images)](https://www.bing.com/th?id=OHR.LondonParliament_ZH-CN7089923691_UHD.jpg)
+
 2025-05-14 | [弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_UHD.jpg)
 
 2025-05-13 | [百内国家公园, 巴塔哥尼亚, 智利 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg)
