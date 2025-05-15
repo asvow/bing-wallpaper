@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-16 | [Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://www.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg)
+
 2025-05-15 | [Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg)
 
 2025-05-14 | [Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg)
