@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-18 | [A delta in the Venetian Lagoon, Italy (© Dimitri Weber/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_UHD.jpg)
+
 2025-05-17 | [Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg)
 
 2025-05-16 | [Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://www.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg)
