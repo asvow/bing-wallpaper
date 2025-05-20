@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-21 | [杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)](https://www.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg)
+
 2025-05-20 | [薰衣草上的蜜蜂 (© Anthony Brown/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg)
 
 2025-05-19 | [汉密尔顿山, 旧金山湾区, 加利福尼亚, 美国 (© Jeffrey Lewis/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.MountHamilton_ZH-CN4280549129_UHD.jpg)
