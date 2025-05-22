@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-23 | [停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg)
+
 2025-05-22 | [日落时分的猴面包树，猴面包树大道，马达加斯加 (© Framalicious/Shutterstock)](https://www.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg)
 
 2025-05-21 | [杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)](https://www.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg)
