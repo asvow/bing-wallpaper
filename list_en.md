@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-23 | [Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)](https://www.bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg)
+
 2025-05-22 | [Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)](https://www.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg)
 
 2025-05-21 | [Honey bee on lavender flowers (© Anthony Brown/Alamy)](https://www.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg)
