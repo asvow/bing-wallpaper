@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-25 | [Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)](https://www.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg)
+
 2025-05-24 | [A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg)
 
 2025-05-23 | [Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)](https://www.bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg)
