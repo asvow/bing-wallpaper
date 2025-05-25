@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-26 | [Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)](https://www.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg)
+
 2025-05-25 | [Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)](https://www.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg)
 
 2025-05-24 | [A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg)
