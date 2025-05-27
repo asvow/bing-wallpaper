@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-05-28 | [Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)](https://www.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg)
+
 2025-05-27 | [Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)](https://www.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg)
 
 2025-05-26 | [Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)](https://www.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg)
