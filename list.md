@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-03 | [乌得勒支桥上的自行车，荷兰 (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_UHD.jpg)
+
 2025-06-02 | [一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)](https://www.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg)
 
 2025-06-01 | [格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)](https://www.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg)
