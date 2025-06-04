@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-05 | [The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)](https://www.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg)
+
 2025-06-04 | [Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg)
 
 2025-06-03 | [Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York (© Marianne A. Campolongo/Alamy)](https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg)
