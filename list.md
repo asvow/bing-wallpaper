@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-05 | [福玛萨瀑布，迪亚曼蒂纳，巴西 (© Pulsar Images/Alamy)](https://www.bing.com/th?id=OHR.FumacinhaBahia_ZH-CN9190616593_UHD.jpg)
+
 2025-06-04 | [卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)](https://www.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg)
 
 2025-06-03 | [乌得勒支桥上的自行车，荷兰 (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_UHD.jpg)
