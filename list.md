@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-09 | [达尔马提亚的杜布罗夫尼克古城，克罗地亚 (© bluejayphoto/Getty Images)](https://www.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg)
+
 2025-06-08 | [北海狮, 温哥华岛, 不列颠哥伦比亚省, 加拿大 (© Steve Woods Photography/Getty Images)](https://www.bing.com/th?id=OHR.StellarSeaLions_ZH-CN2859514359_UHD.jpg)
 
 2025-06-07 | [松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国 (© Matthew Kuhns/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_UHD.jpg)
