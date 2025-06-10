@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-11 | [Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)](https://www.bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg)
+
 2025-06-10 | [Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)](https://www.bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg)
 
 2025-06-09 | [Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)](https://www.bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg)
