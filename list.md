@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-14 | [五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区 (© usabin/Getty Images)](https://www.bing.com/th?id=OHR.DolomitiEstate_ZH-CN6501271709_UHD.jpg)
+
 2025-06-13 | [维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙 (© ARoxo/Getty Images)](https://www.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_UHD.jpg)
 
 2025-06-12 | [奇索斯山脉，大弯国家公园，德克萨斯州，美国 (© Dean Fikar/Getty Images)](https://www.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg)
