@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-18 | [红花石蒜上的柑橘凤蝶 (© lzh/Getty Images)](https://www.bing.com/th?id=OHR.AsianSwallowtail_ZH-CN7442263508_UHD.jpg)
+
 2025-06-17 | [坎伯兰岛国家海岸的海滨森林，乔治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CumberlandOaks_ZH-CN7265906780_UHD.jpg)
 
 2025-06-16 | [海龟，费尔南多·迪诺罗尼亚群岛，巴西 (© João Vianna/Getty Images)](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_ZH-CN6907161064_UHD.jpg)
