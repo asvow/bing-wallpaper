@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-18 | [Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg)
+
 2025-06-17 | [Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg)
 
 2025-06-16 | [Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)](https://www.bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg)
