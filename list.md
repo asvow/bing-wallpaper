@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-22 | [亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)](https://www.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg)
+
 2025-06-21 | [雾中莲花，中国佛山 (© huoguangliang/Getty Images)](https://www.bing.com/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_UHD.jpg)
 
 2025-06-20 | [一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚 (© Alberto Cassani/Getty Images)](https://www.bing.com/th?id=OHR.SerengetiGiraffe_ZH-CN2613013393_UHD.jpg)
