@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-23 | [德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)](https://www.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg)
+
 2025-06-22 | [亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)](https://www.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg)
 
 2025-06-21 | [雾中莲花，中国佛山 (© huoguangliang/Getty Images)](https://www.bing.com/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_UHD.jpg)
