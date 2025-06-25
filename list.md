@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-06-26 | [马头岩上空的银河, 新南威尔士州, 澳大利亚 (© Philip Thurston/Getty Images)](https://www.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_UHD.jpg)
+
 2025-06-25 | [格拉斯顿伯里托尔上的圣迈克尔塔, 格拉斯顿伯里, 萨默塞特郡, 英格兰 (© Gavin Hellier/Getty Images)](https://www.bing.com/th?id=OHR.GlastonburyScenic_ZH-CN9162571249_UHD.jpg)
 
 2025-06-24 | [精致拱门, 拱门国家公园, 犹他州, 美国 (© mmac72/Getty Images)](https://www.bing.com/th?id=OHR.DelicateArch_ZH-CN8971667580_UHD.jpg)
