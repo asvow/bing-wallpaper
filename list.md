@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-01 | [Tilting渔村, 福戈岛 , 纽芬兰和拉布拉多省, 加拿大 (© FedevPhoto/Getty Images)](https://www.bing.com/th?id=OHR.CanadaDayFogo_ZH-CN2593963748_UHD.jpg)
+
 2025-06-30 | [沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg)
 
 2025-06-29 | [Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg)
