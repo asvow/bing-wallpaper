@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-03 | [彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg)
+
 2025-07-02 | [被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚 (© Fred Bavendam/Nature Picture Library)](https://www.bing.com/th?id=OHR.MaroonClownfish_ZH-CN5071934692_UHD.jpg)
 
 2025-07-01 | [Tilting渔村, 福戈岛 , 纽芬兰和拉布拉多省, 加拿大 (© FedevPhoto/Getty Images)](https://www.bing.com/th?id=OHR.CanadaDayFogo_ZH-CN2593963748_UHD.jpg)
