@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-03 | [Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg)
+
 2025-07-02 | [Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)](https://www.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg)
 
 2025-07-01 | [Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg)
