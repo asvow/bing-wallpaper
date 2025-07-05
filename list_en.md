@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-06 | [Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)](https://www.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg)
+
 2025-07-05 | [Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg)
 
 2025-07-04 | [Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg)
