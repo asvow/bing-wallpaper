@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-06 | [死亡谷国家公园的梅斯基特平原沙丘，加利福尼亚州，美国 (© Bryan Jolley/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.MesquiteFlats_ZH-CN7152959188_UHD.jpg)
+
 2025-07-05 | [Cize-Bolozon viaduct crossing the Ain gorge, France (© Leonid Andronov/Getty Images)](https://www.bing.com/th?id=OHR.BolozonViaduct_ZH-CN6408632524_UHD.jpg)
 
 2025-07-04 | [奥罗塞，撒丁岛，意大利 (© EyeEm Mobile GmbH/Getty Images)](https://www.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg)
