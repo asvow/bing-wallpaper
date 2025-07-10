@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-11 | [Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)](https://www.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg)
+
 2025-07-10 | [Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg)
 
 2025-07-09 | [Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)](https://www.bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg)
