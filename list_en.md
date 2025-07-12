@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-13 | [Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg)
+
 2025-07-12 | [Tokyo at sunrise (© pongnathee kluaythong/Getty Images)](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg)
 
 2025-07-11 | [Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)](https://www.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg)
