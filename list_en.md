@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-16 | [Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)](https://www.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg)
+
 2025-07-15 | [Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)](https://www.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg)
 
 2025-07-14 | [Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](https://www.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg)
