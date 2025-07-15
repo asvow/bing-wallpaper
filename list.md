@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-16 | [菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及 (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg)
+
 2025-07-15 | [英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国 (© Wirestock Creators/Shutterstock)](https://www.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_UHD.jpg)
 
 2025-07-14 | [加利西亚海域游弋的幼年大青鲨，西班牙 (© Damocean/Getty Images)](https://www.bing.com/th?id=OHR.YoungShark_ZH-CN0887374663_UHD.jpg)
