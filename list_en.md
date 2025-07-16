@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-17 | [Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg)
+
 2025-07-16 | [Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)](https://www.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg)
 
 2025-07-15 | [Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)](https://www.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg)
