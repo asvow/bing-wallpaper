@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-20 | [望远镜下的月球表面照片 (© Sergey Kuznetsov/Getty Images)](https://www.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg)
+
 2025-07-19 | [幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大 (© Feng Wei Photography/Getty Images)](https://www.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_UHD.jpg)
 
 2025-07-18 | [塞里雅兰瀑布日落美景，冰岛 (© Tom Mackie/AWL/plainpicture)](https://www.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg)
