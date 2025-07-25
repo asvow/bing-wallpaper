@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-26 | [黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)](https://www.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg)
+
 2025-07-25 | [大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg)
 
 2025-07-24 | [栖息在树枝上的灰燕鵙家族 (© Captain Skyhigh/Getty Images)](https://www.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg)
