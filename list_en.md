@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-07-31 | ['Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://www.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg)
+
 2025-07-30 | [Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)](https://www.bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg)
 
 2025-07-29 | [Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)](https://www.bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg)
