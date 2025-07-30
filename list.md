@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+undefined | [undefined](undefined)
+
 2025-07-30 | [里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)](https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg)
 
 2025-07-29 | [雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)](https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg)
