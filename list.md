@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-08-04 | [巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg)
+
 2025-08-03 | [夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)](https://www.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg)
 
 2025-08-02 | [圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock)](https://www.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_UHD.jpg)
