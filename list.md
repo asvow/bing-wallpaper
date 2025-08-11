@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-08-12 | [非洲象群, 安博塞利国家公园, 肯尼亚 (© Chase Dekker/Minden Pictures)](https://www.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg)
+
 2025-08-11 | [圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)](https://www.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg)
 
 2025-08-10 | [马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)](https://www.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg)
