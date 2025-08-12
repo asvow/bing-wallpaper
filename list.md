@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-08-13 | [一名男子从摩押附近的科罗纳拱门索降, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_UHD.jpg)
+
 2025-08-12 | [非洲象群, 安博塞利国家公园, 肯尼亚 (© Chase Dekker/Minden Pictures)](https://www.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg)
 
 2025-08-11 | [圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)](https://www.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg)
