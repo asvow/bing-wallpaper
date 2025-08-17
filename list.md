@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-08-18 | [雪崩湖步道，阿迪朗达克高峰区，纽约州，美国 (© Posnov/Getty Images)](https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_UHD.jpg)
+
 2025-08-17 | [灵维格灯塔，维泽桑讷，丹麦 (© Caroline Brundle Bugge/Getty Images)](https://www.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_UHD.jpg)
 
 2025-08-16 | [色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)](https://www.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg)
