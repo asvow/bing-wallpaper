@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-08-23 | [Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](https://www.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg)
+
 2025-08-22 | [Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)](https://www.bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg)
 
 2025-08-21 | [The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)](https://www.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg)
