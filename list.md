@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-08-29 | [马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg)
+
 2025-08-28 | [大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)](https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg)
 
 2025-08-27 | [瑟沃格湖，瓦加尔岛，法罗群岛 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg)
