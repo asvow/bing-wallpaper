@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-09-08 | [乌节图书馆，新加坡 (© Darwin Fan/Getty Images)](https://www.bing.com/th?id=OHR.OrchardLibrary_ZH-CN3578982798_UHD.jpg)
+
 2025-09-07 | [位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg)
 
 2025-09-06 | [棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国 (© jeremyborkat/Getty Images)](https://www.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg)
