@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-09-09 | [Library@orchard, Singapore (© Darwin Fan/Getty Images)](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg)
+
 2025-09-08 | [Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg)
 
 2025-09-07 | [Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)](https://www.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg)
