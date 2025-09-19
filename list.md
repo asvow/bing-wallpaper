@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-09-20 | [慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)](https://www.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg)
+
 2025-09-19 | [千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)](https://www.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg)
 
 2025-09-18 | [邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)](https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg)
