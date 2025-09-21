@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-09-22 | [秋日的白杨树，鱼湖国家森林，犹他州，美国 (© Danita Delimont/Getty Images)](https://www.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_UHD.jpg)
+
 2025-09-21 | [海獭，威廉王子湾，阿拉斯加州，美国 (© Gerald Corsi/Getty Images)](https://www.bing.com/th?id=OHR.IceOtters_ZH-CN5393791969_UHD.jpg)
 
 2025-09-20 | [慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)](https://www.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg)
