@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-09-27 | [Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg)
+
 2025-09-26 | [Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)](https://www.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg)
 
 2025-09-25 | [Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)](https://www.bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg)
