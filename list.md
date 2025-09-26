@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-09-27 | [坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg)
+
 2025-09-26 | [最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg)
 
 2025-09-25 | [奇陶尔加尔堡, 拉贾斯坦邦, 印度 (© chetansoni/Shutterstock)](https://www.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg)
