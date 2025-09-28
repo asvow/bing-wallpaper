@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-09-29 | [Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)](https://www.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg)
+
 2025-09-28 | [Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg)
 
 2025-09-27 | [Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg)
