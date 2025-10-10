@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-10-11 | [Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg)
+
 2025-10-10 | [The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)](https://www.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg)
 
 2025-10-09 | [Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)](https://www.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg)
