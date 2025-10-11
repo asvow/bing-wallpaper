@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-10-12 | [萨拉纳克湖村，阿迪朗达克山脉，纽约州，美国 (© DenisTangneyJr/Getty Images)](https://www.bing.com/th?id=OHR.SaranacLake_ZH-CN0224689397_UHD.jpg)
+
 2025-10-11 | [林鸳鸯，美国 (© ps50ace/iStock/Getty Images)](https://www.bing.com/th?id=OHR.WoodDuckHen_ZH-CN9558916773_UHD.jpg)
 
 2025-10-10 | [莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济 (© David Wall/SuperStock)](https://www.bing.com/th?id=OHR.MonurikiFiji_ZH-CN9178115886_UHD.jpg)
