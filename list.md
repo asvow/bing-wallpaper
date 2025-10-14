@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-10-15 | [紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)](https://www.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg)
+
 2025-10-14 | [伊亚镇，圣托里尼岛，希腊 (© f9photos/Getty Images)](https://www.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg)
 
 2025-10-13 | [温巴赫峡谷瀑布，巴伐利亚州，德国 (© EyeEm Mobile GmbH/Getty Images)](https://www.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_UHD.jpg)
