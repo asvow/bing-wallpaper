@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-10-17 | [Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)](https://www.bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg)
+
 2025-10-16 | [Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)](https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg)
 
 2025-10-15 | [Village of Oia, Santorini, Greece (© f9photos/Getty Images)](https://www.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg)
