@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-10-21 | [A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)](https://www.bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg)
+
 2025-10-20 | [Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)](https://www.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg)
 
 2025-10-19 | [Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)](https://www.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg)
