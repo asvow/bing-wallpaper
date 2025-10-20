@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-10-21 | [哥斯达黎加的厚嘴巨嘴鸟 (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_UHD.jpg)
+
 2025-10-20 | [霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures)](https://www.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg)
 
 2025-10-19 | [即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)](https://www.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg)
