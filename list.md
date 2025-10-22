@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-10-23 | [雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物圈保护区, 印度 (© Oriol Alamany/naturepl.com)](https://www.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg)
+
 2025-10-22 | [贝洛格拉齐克石林，保加利亚 (© EvaL Miko/Shutterstock)](https://www.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg)
 
 2025-10-21 | [哥斯达黎加的厚嘴巨嘴鸟 (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_UHD.jpg)
