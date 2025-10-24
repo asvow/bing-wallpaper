@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-10-25 | [马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)](https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg)
+
 2025-10-24 | [玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)](https://www.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg)
 
 2025-10-23 | [雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物圈保护区, 印度 (© Oriol Alamany/naturepl.com)](https://www.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg)
