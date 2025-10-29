@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-10-30 | [杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度 (© f9photos/Getty Images)](https://www.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_UHD.jpg)
+
 2025-10-29 | [法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙 (© Lukas Jonaitis/Shutterstock)](https://www.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg)
 
 2025-10-28 | [安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)](https://www.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg)
