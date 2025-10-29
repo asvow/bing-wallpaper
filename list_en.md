@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-10-30 | [Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](https://www.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg)
+
 2025-10-29 | [The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)](https://www.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg)
 
 2025-10-28 | [Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)](https://www.bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg)
