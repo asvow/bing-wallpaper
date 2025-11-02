@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-11-03 | [在太平洋中游泳的水母, 格雷罗, 墨西哥 (© Christian Vizl/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg)
+
 2025-11-02 | [岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)](https://www.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg)
 
 2025-11-01 | [野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)](https://www.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg)
