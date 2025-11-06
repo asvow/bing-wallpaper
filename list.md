@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-11-07 | [丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)](https://www.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg)
+
 2025-11-06 | [哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)](https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg)
 
 2025-11-05 | [佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg)
