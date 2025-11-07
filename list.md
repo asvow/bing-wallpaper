@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-11-08 | [班登海滩的海蚀柱，俄勒冈州，美国 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg)
+
 2025-11-07 | [丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)](https://www.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg)
 
 2025-11-06 | [哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)](https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg)
