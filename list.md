@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-11-11 | [条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)](https://www.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg)
+
 2025-11-10 | [土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国 (© Greg Vaughn/Getty Images)](https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg)
 
 2025-11-09 | [礁湖星云中的星际云，由哈勃太空望远镜拍摄 (© ESA/NASA)](https://www.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg)
