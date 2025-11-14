@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-11-15 | [Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg)
+
 2025-11-14 | [Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg)
 
 2025-11-13 | [Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg)
