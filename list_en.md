@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-11-17 | [A traboule in Lyon, France (© TPopova/Getty Images)](https://www.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg)
+
 2025-11-16 | [Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg)
 
 2025-11-15 | [Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg)
