@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-11-20 | [查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)](https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg)
+
 2025-11-19 | [匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg)
 
 2025-11-18 | [雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg)
