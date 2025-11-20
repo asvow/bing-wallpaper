@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-11-21 | [罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg)
+
 2025-11-20 | [查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)](https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg)
 
 2025-11-19 | [匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg)
