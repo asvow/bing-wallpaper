@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-11-26 | [特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙 (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg)
+
 2025-11-25 | [罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg)
 
 2025-11-24 | [瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg)
