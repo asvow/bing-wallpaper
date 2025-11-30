@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-01 | [Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg)
+
 2025-11-30 | [Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg)
 
 2025-11-29 | [Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](https://www.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg)
