@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-05 | [科潘的玛雅遗址，洪都拉斯 (© diegograndi/Getty Images)](https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg)
+
 2025-12-04 | [马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚 (© Andy Rouse/naturepl.com)](https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg)
 
 2025-12-03 | [日出时的沙丘鹤, ‌阿帕奇森林国家野生动物保护区, 新墨西哥州, 美国 (© Jack Dykinga/Minden Pictures)](https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg)
