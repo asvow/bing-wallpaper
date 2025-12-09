@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-10 | [科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙 (© Elena Zolotova/Getty Images)](https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg)
+
 2025-12-09 | [原驼，北角，瓦尔德斯半岛, 阿根廷 (© Sylvain Cordier/naturepl.com)](https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg)
 
 2025-12-08 | [多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg)
