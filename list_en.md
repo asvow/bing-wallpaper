@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-14 | [Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg)
+
 2025-12-13 | [Spotted poinsettia (© DigiPub/Getty Images)](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg)
 
 2025-12-12 | [Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)](https://www.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg)
