@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-16 | [Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg)
+
 2025-12-15 | [Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg)
 
 2025-12-14 | [Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg)
