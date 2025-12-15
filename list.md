@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-16 | [圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)](https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg)
+
 2025-12-15 | [斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰 (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_UHD.jpg)
 
 2025-12-14 | [簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg)
