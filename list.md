@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-17 | [在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)](https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg)
+
 2025-12-16 | [圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)](https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg)
 
 2025-12-15 | [斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰 (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_UHD.jpg)
