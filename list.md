@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-20 | [圣诞星形灯笼，德国 (© artas/Getty Images)](https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg)
+
 2025-12-19 | [博尔米奥的雪景，伦巴第大区，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg)
 
 2025-12-18 | [太阳神庙，圆顶礁国家公园, 犹他州, 美国 (© Austin Cronnelly/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg)
