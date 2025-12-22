@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-23 | [冬雪中的驯鹿，拉普兰德，芬兰 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg)
+
 2025-12-22 | [法兰克福老桥，德国 (© diegograndi/Getty Images)](https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg)
 
 2025-12-21 | [美丽的雾凇景色，大庆市，黑龙江省，中国 (© Dashu Xinganling/shutterstock)](https://www.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg)
