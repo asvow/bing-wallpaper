@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-28 | [马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)](https://www.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg)
+
 2025-12-27 | [苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国 (© wanderluster/Getty Images)](https://www.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg)
 
 2025-12-26 | [索尔兹伯里大教堂，威尔特郡，英格兰 (© Julian Elliott Photography/Getty Images)](https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg)
