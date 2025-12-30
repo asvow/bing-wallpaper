@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2025-12-31 | [除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images)](https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg)
+
 2025-12-30 | [晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)](https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg)
 
 2025-12-29 | [阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)](https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg)
