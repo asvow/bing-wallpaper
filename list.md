@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-01-07 | [拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg)
+
 2026-01-06 | [努克, 格陵兰 (© nevereverro/Getty Images)](https://www.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg)
 
 2026-01-05 | [一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)](https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg)
