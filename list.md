@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-01-12 | [欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com)](https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg)
+
 2026-01-11 | [舍夫沙万的蓝色墙壁, 摩洛哥 (© AnetteAndersen/Getty Images)](https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg)
 
 2026-01-10 | [日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士 (© Andy Trowbridge/naturepl.com)](https://www.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg)
