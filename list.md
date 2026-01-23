@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+undefined | [undefined](undefined)
+
 2026-01-23 | [绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)](https://www.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg)
 
 2026-01-22 | [卡罗维瓦利，波西米亚，捷克共和国 (© Henryk Sadura/Getty Images)](https://www.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg)
