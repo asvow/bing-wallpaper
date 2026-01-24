@@ -1,7 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
-undefined | [undefined](undefined)
+2026-01-24 | [阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)](https://www.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg)
+
 
 2026-01-23 | [绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)](https://www.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg)
 
