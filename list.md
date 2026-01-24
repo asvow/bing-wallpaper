@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-01-25 | [伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰 (© Alister Firth/Alamy)](https://www.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg)
+
 2026-01-24 | [阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)](https://www.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg)
 
 
