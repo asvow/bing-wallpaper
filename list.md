@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-02-05 | [戈佐岛上的盐田, 马耳他 (© Marius Roman/Getty Images)](https://www.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg)
+
 2026-02-04 | [雪中​​的红鸢 (© Carl Mckie/500px/Getty Images)](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg)
 
 2026-02-03 | [翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国 (© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg)
