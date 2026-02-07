@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-02-08 | [科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)](https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg)
+
 2026-02-07 | [玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg)
 
 2026-02-06 | [贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利 (© Tomasz Podolski/Getty Images)](https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg)
