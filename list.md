@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-02-25 | [门登霍尔冰川的冰洞，阿拉斯加州，美国 (© Designpics/Adobe Stock)](https://www.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_UHD.jpg)
+
 2026-02-24 | [大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg)
 
 2026-02-23 | [大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com)](https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg)
