@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-01 | [伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)](https://www.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg)
+
 2026-02-28 | [奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国 (© Andrew Aylett/Getty Images)](https://www.bing.com/th?id=OHR.OloupenaFalls_ZH-CN2980118660_UHD.jpg)
 
 2026-02-27 | [北极熊幼崽走过浮冰, 北极国家野生动物保护区, 阿拉斯加州, 美国 (© Steven Kazlowski/naturepl.com)](https://www.bing.com/th?id=OHR.ArcitcCub_ZH-CN2725049760_UHD.jpg)
