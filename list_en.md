@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-04 | [African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)](https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg)
+
 2026-03-03 | [Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)](https://www.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg)
 
 2026-03-02 | [Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)](https://www.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg)
