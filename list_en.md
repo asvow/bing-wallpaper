@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-07 | [The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)](https://www.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg)
+
 2026-03-06 | [Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)](https://www.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg)
 
 2026-03-05 | [Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](https://www.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg)
