@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-08 | [乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)](https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg)
+
 2026-03-07 | [布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)](https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg)
 
 2026-03-06 | [波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)](https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg)
