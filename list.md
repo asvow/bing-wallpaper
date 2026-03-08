@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-09 | [在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)](https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg)
+
 2026-03-08 | [乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)](https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg)
 
 2026-03-07 | [布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)](https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg)
