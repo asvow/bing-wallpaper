@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-15 | [太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)](https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg)
+
 2026-03-14 | [兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)](https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg)
 
 2026-03-13 | [邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)](https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg)
