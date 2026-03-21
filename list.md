@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-22 | [坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg)
+
 2026-03-21 | [莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg)
 
 2026-03-20 | [春日樱花，上海，中国 (© junyyeung/Getty Images)](https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg)
