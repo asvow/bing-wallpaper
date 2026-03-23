@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-24 | [东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg)
+
 2026-03-23 | [坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg)
 
 2026-03-22 | [坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg)
