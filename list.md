@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-27 | [纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)](https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg)
+
 2026-03-26 | [洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)](https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg)
 
 2026-03-25 | [淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)](https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg)
