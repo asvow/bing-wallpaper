@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-28 | [Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)](https://www.bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg)
+
 2026-03-27 | [Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)](https://www.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg)
 
 2026-03-26 | [Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://www.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg)
