@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-28 | [非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)](https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg)
+
 2026-03-27 | [纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)](https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg)
 
 2026-03-26 | [洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)](https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg)
