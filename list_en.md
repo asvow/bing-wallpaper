@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-03-31 | [Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)](https://www.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg)
+
 2026-03-30 | [Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg)
 
 2026-03-29 | [African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg)
