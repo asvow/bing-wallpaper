@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-04-07 | [河狸，德国 (© Andyworks/Getty Images)](https://www.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg)
+
 2026-04-06 | [樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images)](https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_UHD.jpg)
 
 2026-04-05 | [春天的雪钟花 (© klagyivik/Getty Images)](https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg)
