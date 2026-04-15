@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-04-16 | [斯卡吉特谷地郁金香花田, 华盛顿, 美国 (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg)
+
 2026-04-15 | [光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)](https://www.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg)
 
 2026-04-14 | [海葵中的普通小丑鱼, 拉贾安帕特群岛, 印度尼西亚 (© Magnus Lundgren/Nature Picture Library)](https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_UHD.jpg)
