@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-04-17 | [灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)](https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg)
+
 2026-04-16 | [斯卡吉特谷地郁金香花田, 华盛顿, 美国 (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg)
 
 2026-04-15 | [光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)](https://www.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg)
