@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-04-20 | [夕阳下的峡谷地国家公园，莫阿布，犹他州，美国 (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg)
+
 2026-04-19 | [镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)](https://www.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg)
 
 2026-04-18 | [摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)](https://www.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg)
