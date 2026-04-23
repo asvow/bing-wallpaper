@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-04-24 | [湿地松和锯棕榈组成的森林吊床, 大沼泽地国家公园, 佛罗里达, 美国 (© Mary Liz Austin/Alamy)](https://www.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg)
+
 2026-04-23 | [安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)](https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg)
 
 2026-04-22 | [阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)](https://www.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg)
