@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-04-26 | [Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)](https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg)
+
 2026-04-25 | [Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)](https://www.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg)
 
 2026-04-24 | [Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)](https://www.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg)
