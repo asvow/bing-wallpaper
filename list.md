@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-04-30 | [葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)](https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg)
+
 2026-04-29 | [塔霍河岸边的贝伦塔, 里斯本, 葡萄牙 (© f9photos/Getty Images)](https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg)
 
 2026-04-28 | [眼镜熊在树上休息, 厄瓜多尔 (© Andy Rouse/Nature Picture Library)](https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg)
