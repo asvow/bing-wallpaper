@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-05-08 | [撒丁岛母驴和幼崽, 法国 (© Klein & Hubert/Nature Picture Library)](https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg)
+
 2026-05-07 | [科法国家野生动物保护区，亚利桑那州，美国 (© Denis Tangney Jr/Getty Images)](https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg)
 
 2026-05-06 | [平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)](https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg)
