@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-05-13 | [拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg)
+
 2026-05-12 | [北极海鹦, 威尔士 (© FLPA/Alamy)](https://www.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg)
 
 2026-05-11 | [从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg)
