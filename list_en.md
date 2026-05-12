@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-05-13 | [Atlantic puffins, Wales (© FLPA/Alamy)](https://www.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg)
+
 2026-05-12 | [Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg)
 
 2026-05-11 | [Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)](https://www.bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg)
