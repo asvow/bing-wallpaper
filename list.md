@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-05-16 | [史密斯岩州立公园, 俄勒冈州, 美国 (© Alex Ratson/Getty Images)](https://www.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg)
+
 2026-05-15 | [一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)](https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg)
 
 2026-05-14 | [中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利 (© bluejayphoto/Getty Images Plus)](https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg)
