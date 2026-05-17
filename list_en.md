@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-05-18 | [Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg)
+
 2026-05-17 | [Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)](https://www.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg)
 
 2026-05-16 | [A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)](https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg)
