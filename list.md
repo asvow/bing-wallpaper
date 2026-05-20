@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-05-21 | [四川省的茶梯田, 中国 (© lzf/Shutterstock)](https://www.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg)
+
 2026-05-20 | [熊蜂在授粉, 伍斯特, 英格兰 (© SimonEastwood87/Shutterstock)](https://www.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg)
 
 2026-05-19 | [福门托尔灯塔, 马略卡, 巴利阿里群岛, 西班牙 (© Allard Schager/Getty Images)](https://www.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_UHD.jpg)
