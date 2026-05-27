@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-05-28 | [华城堡的古城墙，水原，韩国 (© aomam/Getty Images)](https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg)
+
 2026-05-27 | [海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)](https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg)
 
 2026-05-26 | [盛开的羽扇豆，北加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg)
