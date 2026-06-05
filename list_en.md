@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-06-06 | [View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)
+
 2026-06-05 | [Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)
 
 2026-06-04 | [Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)
