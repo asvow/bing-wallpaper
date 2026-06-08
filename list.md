@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-06-09 | [韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)](https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg)
+
 2026-06-08 | [在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg)
 
 2026-06-07 | [邓塞弗里克城堡遗址, 安特里姆郡, 北爱尔兰 (© Krzysztof Rogalski/Getty Images)](https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg)
