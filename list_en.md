@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-06-10 | [Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg)
+
 2026-06-09 | [Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg)
 
 2026-06-08 | [Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)](https://www.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg)
