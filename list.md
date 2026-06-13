@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-06-14 | [绿头鸭 (© Philippe Paternolli/Getty Images)](https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg)
+
 2026-06-13 | [落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)](https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg)
 
 2026-06-12 | [黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)](https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg)
