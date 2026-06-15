@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-06-16 | [Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](https://www.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg)
+
 2026-06-15 | [US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)](https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg)
 
 2026-06-14 | [Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)](https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg)
