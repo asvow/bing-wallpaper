@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-06-16 | [七英里海滩附近的玳瑁海龟伴侣，大开曼岛，开曼群岛 (© Alex Mustard/Nature Picture Library)](https://www.bing.com/th?id=OHR.SevenMileTurtle_ZH-CN4346512721_UHD.jpg)
+
 2026-06-15 | [大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)](https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg)
 
 2026-06-14 | [绿头鸭 (© Philippe Paternolli/Getty Images)](https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg)
