@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-06-17 | [Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg)
+
 2026-06-16 | [Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](https://www.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg)
 
 2026-06-15 | [US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)](https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg)
