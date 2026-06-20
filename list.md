@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-06-21 | [企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)](https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg)
+
 2026-06-20 | [漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)](https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg)
 
 2026-06-19 | [湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)](https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_UHD.jpg)
