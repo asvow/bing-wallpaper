@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-06-30 | [Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)](https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg)
+
 2026-06-29 | [Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)](https://www.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg)
 
 2026-06-28 | [Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg)
