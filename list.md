@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-07-01 | [地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)](https://www.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg)
+
 2026-06-30 | [马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)](https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg)
 
 2026-06-29 | [波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)](https://www.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg)
