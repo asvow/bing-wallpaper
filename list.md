@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-07-10 | [陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)](https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg)
+
 2026-07-09 | [在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)](https://www.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg)
 
 2026-07-08 | [阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)](https://www.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg)
