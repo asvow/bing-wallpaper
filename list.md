@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-07-15 | [玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)](https://www.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg)
+
 2026-07-14 | [柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)](https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg)
 
 2026-07-13 | [羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)](https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg)
