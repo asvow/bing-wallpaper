@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-07-17 | [瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)](https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg)
+
 2026-07-16 | [海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)](https://www.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg)
 
 2026-07-15 | [玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)](https://www.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg)
