@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-07-18 | [Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg)
+
 2026-07-17 | [Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg)
 
 2026-07-16 | [Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)](https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg)
