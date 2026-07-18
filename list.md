@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-07-19 | [不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg)
+
 2026-07-18 | [恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)](https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg)
 
 2026-07-17 | [瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)](https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg)
