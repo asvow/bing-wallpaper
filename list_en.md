@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-07-22 | [Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](https://www.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg)
+
 2026-07-21 | [Moon and Earth captured by the Artemis II crew (© NASA)](https://www.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg)
 
 2026-07-20 | [Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg)
