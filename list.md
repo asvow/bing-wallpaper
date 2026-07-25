@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-07-26 | [红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg)
+
 2026-07-25 | [大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)](https://www.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg)
 
 2026-07-24 | [美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)](https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg)
