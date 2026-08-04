@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-08-05 | [非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)](https://www.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg)
+
 2026-08-04 | [佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)](https://www.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg)
 
 2026-08-03 | [马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)](https://www.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg)
