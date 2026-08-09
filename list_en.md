@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-08-10 | [Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg)
+
 2026-08-09 | [Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg)
 
 2026-08-08 | [Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)](https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg)
