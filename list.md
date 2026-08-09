@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-08-10 | [约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)](https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg)
+
 2026-08-09 | [让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)](https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg)
 
 2026-08-08 | [蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)](https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg)
