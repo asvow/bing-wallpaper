@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-08-16 | [戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)](https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg)
+
 2026-08-15 | [圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg)
 
 2026-08-14 | [扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg)
