@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-08-22 | [普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)](https://www.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg)
+
 2026-08-21 | [尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg)
 
 2026-08-20 | [林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)](https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg)
