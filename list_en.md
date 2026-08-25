@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-08-26 | [Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg)
+
 2026-08-25 | [Brooklyn Bridge, New York City (© shayes17/Getty Images)](https://www.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg)
 
 2026-08-24 | [Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)](https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg)
