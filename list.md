@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-08-28 | [涨潮时的圣米歇尔山，芒什省，诺曼底，法国 (© Clement LEONARD/Getty Images)](https://www.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg)
+
 2026-08-27 | [日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)](https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg)
 
 2026-08-26 | [基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg)
