@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-09-07 | [老市政厅，班贝格，德国 (© SCStock/Getty Images)](https://www.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg)
+
 2026-09-06 | [菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚 (© tracielouise/Getty Images)](https://www.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg)
 
 2026-09-05 | [龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)](https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg)
