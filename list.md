@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-09-10 | [奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg)
+
 2026-09-09 | [安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg)
 
 2026-09-08 | [东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg)
