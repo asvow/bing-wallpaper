@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-09-10 | [Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg)
+
 2026-09-09 | [Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg)
 
 2026-09-08 | ['Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)](https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg)
