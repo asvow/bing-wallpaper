@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-09-16 | [斯瓦尔巴群岛玩耍的北极熊幼崽，挪威 (© Danny Green/Nature Picture Library)](https://www.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg)
+
 2026-09-15 | [红绿金刚鹦鹉 (© markes51/Getty Images)](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg)
 
 2026-09-14 | [地肤田，中国 (© lingqi xie/Getty Images)](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg)
