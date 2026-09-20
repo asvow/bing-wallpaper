@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-09-21 | [正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg)
+
 2026-09-20 | [日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)](https://www.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg)
 
 2026-09-19 | [阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)](https://www.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg)
