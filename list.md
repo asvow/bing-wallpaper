@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-09-26 | [熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg)
+
 2026-09-25 | [庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)](https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg)
 
 2026-09-24 | [黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)](https://www.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg)
