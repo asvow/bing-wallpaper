@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-10-08 | [印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)](https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg)
+
 2026-10-07 | [覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg)
 
 2026-10-06 | [丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)](https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg)
