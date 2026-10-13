@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-10-14 | [侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg)
+
 2026-10-13 | [普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg)
 
 2026-10-12 | [曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)](https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg)
