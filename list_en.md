@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-10-18 | [Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg)
+
 2026-10-17 | [Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg)
 
 2026-10-16 | [View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)](https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg)
