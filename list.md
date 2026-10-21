@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-10-22 | [内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg)
+
 2026-10-21 | [香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg)
 
 2026-10-20 | [褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg)
