@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-10-22 | [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg)
+
 2026-10-21 | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg)
 
 2026-10-20 | [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg)
