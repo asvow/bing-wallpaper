@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-10-23 | [两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg)
+
 2026-10-22 | [内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg)
 
 2026-10-21 | [香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg)
