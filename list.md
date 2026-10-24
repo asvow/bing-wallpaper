@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-10-25 | [玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg)
+
 2026-10-24 | [皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)](https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg)
 
 2026-10-23 | [两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg)
