@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-10-29 | [立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg)
+
 2026-10-28 | [库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)](https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg)
 
 2026-10-27 | [秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)](https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg)
