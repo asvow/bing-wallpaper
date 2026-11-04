@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-11-05 | [石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)](https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg)
+
 2026-11-04 | [五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg)
 
 2026-11-03 | [布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)](https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg)
