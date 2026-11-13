@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-11-14 | [中国香港维多利亚港 (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg)
+
 2026-11-13 | [亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)](https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg)
 
 2026-11-12 | [北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)](https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg)
