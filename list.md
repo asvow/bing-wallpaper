@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-11-15 | [覆霜的红叶杜鹃 (© avoferten/Shutterstock)](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg)
+
 2026-11-14 | [中国香港维多利亚港 (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg)
 
 2026-11-13 | [亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)](https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg)
