@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-11-16 | [美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg)
+
 2026-11-15 | [覆霜的红叶杜鹃 (© avoferten/Shutterstock)](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg)
 
 2026-11-14 | [中国香港维多利亚港 (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg)
