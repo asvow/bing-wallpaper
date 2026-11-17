@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 [中文](list.md) | [English](list_en.md)
 
+2026-11-18 | [一对仓鸮 (© Zahoor Salmi/Getty Images)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg)
+
 2026-11-17 | [雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg)
 
 2026-11-16 | [美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg)
